@@ -9,6 +9,10 @@
 - GitHub Actions cron 실행: `30 1 * * *`
 - Slack Incoming Webhook 발송
 - 기술 아티클과 채용공고를 서로 다른 Slack 채널로 분리 발송
+- 아티클/채용공고 발송 격리 및 성공한 쪽만 상태 저장
+- 부분 실패 발생 시 성공한 쪽 상태 저장 후 workflow 실패 처리
+- seen 상태 TTL/최대 개수 pruning
+- DevDay 최신 페이지 기반 기술 아티클 우선 수집
 - RSS 기반 기술 아티클 수집
 - DevDay archive 기반 기술 아티클 수집
 - 감시 대상 채용 페이지 HTML에서 신규 채용공고 링크 수집
@@ -17,6 +21,16 @@
 - 하루 최대 기술 아티클 30개, 채용공고 30개 발송
 - 신규 데이터가 없어도 Slack 상태 메시지 발송
 - 실행 후 `seen-items.json` 자동 커밋
+
+## 기술 아티클 수집 방식
+
+아티클 수집은 아래 우선순위로 수행한다.
+
+1. `https://devday.kr/` 최신 페이지
+2. `https://devday.kr/archive` archive 페이지
+3. 직접 RSS fallback
+
+DevDay 최신 페이지는 여러 기술 블로그와 뉴스 링크를 모아 최신순으로 보여주는 aggregator이므로 1차 소스로 사용한다. DevDay archive와 RSS는 보강 및 fallback 소스로 유지한다.
 
 ## 채용공고 자동 수집 방식
 
@@ -33,7 +47,51 @@
 7. URL 기준 중복 제거
 8. 기존 발송 이력 제거
 9. 최대 30개만 Slack 발송
-10. 실제 발송한 URL만 `seen-items.json`에 저장
+10. 채용공고 Slack 발송 성공 시 실제 발송한 URL만 `seen-items.json`에 저장
+
+## Slack 발송 격리
+
+아티클과 채용공고는 각각 독립적으로 발송한다.
+
+```txt
+아티클 수집 → 아티클 Slack 발송 → 성공 시 seenArticles 업데이트
+채용공고 수집 → 채용공고 Slack 발송 → 성공 시 seenJobs 업데이트
+```
+
+한쪽 Slack 발송이 실패해도 다른 쪽 발송은 계속 수행한다. 성공한 쪽의 seen 상태는 저장한다. 단, 하나라도 실패하면 GitHub Actions는 실패로 표시한다.
+
+`Commit updated state` step은 `if: always()`로 실행해 부분 실패 상황에서도 성공한 쪽의 `seen-items.json` 변경분을 커밋할 수 있게 한다.
+
+## 상태 저장 정책
+
+`data/seen-items.json`은 URL과 발송 시각을 함께 저장한다.
+
+```json
+{
+  "seenArticles": [
+    {
+      "url": "https://example.com/article",
+      "seenAt": "2026-05-28T01:30:00.000Z"
+    }
+  ],
+  "seenJobs": [
+    {
+      "url": "https://example.com/job",
+      "seenAt": "2026-05-28T01:30:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-05-28T01:30:00.000Z"
+}
+```
+
+저장 시 아래 기준으로 자동 정리한다.
+
+- 아티클 seen 보관 기간: 180일
+- 채용공고 seen 보관 기간: 90일
+- 아티클 최대 보관 개수: 5,000개
+- 채용공고 최대 보관 개수: 5,000개
+
+기존 `seenArticleUrls`, `seenJobUrls` 배열 구조도 읽을 수 있게 migration 호환을 유지한다.
 
 ## 기본 채용공고 소스
 

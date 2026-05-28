@@ -1,4 +1,9 @@
 export const MAX_DAILY_ARTICLES = 30;
 export const MAX_DAILY_JOBS = 30;
 export const STATE_FILE_PATH = "data/seen-items.json";
+export const DEV_DAY_LATEST_URL = "https://devday.kr/";
 export const DEV_DAY_ARCHIVE_URL = "https://devday.kr/archive";
+export const ARTICLE_SEEN_RETENTION_DAYS = 180;
+export const JOB_SEEN_RETENTION_DAYS = 90;
+export const MAX_SEEN_ARTICLES = 5_000;
+export const MAX_SEEN_JOBS = 5_000;

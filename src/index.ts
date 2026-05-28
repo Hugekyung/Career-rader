@@ -1,4 +1,5 @@
 import { collectDevDayArticles } from "./collectors/devday-archive.collector";
+import { collectDevDayLatestArticles } from "./collectors/devday-latest.collector";
 import { collectJobSourcePostings, collectManualJobs } from "./collectors/job-source.collector";
 import { collectRssArticles } from "./collectors/rss-article.collector";
 import { MAX_DAILY_ARTICLES, MAX_DAILY_JOBS } from "./config/constants";
@@ -8,6 +9,8 @@ import {
   filterNewArticles,
   filterNewJobs,
   loadState,
+  markArticlesSeen,
+  markJobsSeen,
   saveState,
 } from "./storage/state.store";
 import type { Article } from "./types/article";
@@ -58,8 +61,16 @@ function interleaveJobsBySource(items: JobPosting[]): JobPosting[] {
   return interleaved;
 }
 
-function sortArticlesByPublishedAt(items: Article[]): Article[] {
+function sortArticlesByPublishedAtIfAvailable(items: Article[]): Article[] {
   try {
+    const hasComparableDates = items.some((item) => {
+      return item.publishedAt !== undefined && !Number.isNaN(Date.parse(item.publishedAt));
+    });
+
+    if (!hasComparableDates) {
+      return items;
+    }
+
     return [...items].sort((a, b) => {
       const aTime = a.publishedAt ? Date.parse(a.publishedAt) : Number.NaN;
       const bTime = b.publishedAt ? Date.parse(b.publishedAt) : Number.NaN;
@@ -82,13 +93,18 @@ async function main(): Promise<void> {
   logger.info("Daily Career Radar started.");
 
   const state = await loadState();
+  let nextState = state;
   const rssArticles = await collectRssArticles();
+  const devDayLatestArticles = await collectDevDayLatestArticles();
   const devDayArticles = await collectDevDayArticles();
-  const collectedArticles = uniqueByUrl([...rssArticles, ...devDayArticles]);
-  const newArticles = sortArticlesByPublishedAt(filterNewArticles(collectedArticles, state)).slice(
-    0,
-    MAX_DAILY_ARTICLES,
-  );
+  const collectedArticles = uniqueByUrl([
+    ...devDayLatestArticles,
+    ...devDayArticles,
+    ...rssArticles,
+  ]);
+  const newArticles = sortArticlesByPublishedAtIfAvailable(
+    filterNewArticles(collectedArticles, state),
+  ).slice(0, MAX_DAILY_ARTICLES);
 
   const sourceJobs = await collectJobSourcePostings();
   const manualJobs = await collectManualJobs();
@@ -105,25 +121,42 @@ async function main(): Promise<void> {
     jobs: newJobs,
   });
 
-  await sendSlackMessage({
+  const articleDelivery = sendSlackMessage({
     webhookEnvName: "ARTICLE_SLACK_WEBHOOK_URL",
     text: articleMessage,
   });
-  await sendSlackMessage({
+  const jobDelivery = sendSlackMessage({
     webhookEnvName: "JOB_SLACK_WEBHOOK_URL",
     text: jobMessage,
   });
+  const [articleResult, jobResult] = await Promise.allSettled([articleDelivery, jobDelivery]);
+
+  if (articleResult.status === "fulfilled") {
+    nextState = markArticlesSeen(nextState, newArticles);
+  }
+
+  if (jobResult.status === "fulfilled") {
+    nextState = markJobsSeen(nextState, newJobs);
+  }
+
+  const hasSuccessfulDelivery =
+    articleResult.status === "fulfilled" || jobResult.status === "fulfilled";
 
   if (process.env.SKIP_STATE_SAVE === "true") {
     logger.info("SKIP_STATE_SAVE is enabled. Seen state was not updated.");
+  } else if (!hasSuccessfulDelivery) {
+    logger.warn("All Slack deliveries failed. Seen state was not updated.");
   } else {
-    state.seenArticleUrls = [
-      ...state.seenArticleUrls,
-      ...newArticles.map((article) => article.url),
-    ];
-    state.seenJobUrls = [...state.seenJobUrls, ...newJobs.map((job) => job.url)];
+    await saveState(nextState);
+  }
 
-    await saveState(state);
+  const failures = [
+    articleResult.status === "rejected" ? "article slack delivery" : undefined,
+    jobResult.status === "rejected" ? "job slack delivery" : undefined,
+  ].filter((failure): failure is string => failure !== undefined);
+
+  if (failures.length > 0) {
+    throw new Error(`Partial delivery failure: ${failures.join(", ")}`);
   }
 
   logger.info("Daily Career Radar completed.", {
