@@ -1,0 +1,25 @@
+{
+  "name": "career-radar",
+  "version": "1.0.0",
+  "description": "Daily Slack digest for career articles and manual job links",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "run:mock": "MOCK_SLACK=true SKIP_STATE_SAVE=true tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.41",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  }
+}
