@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/operating-starrocks-1",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/da-assistant-panda",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/post-quantum-cryptography",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/sli-and-slo-for-improving-reliability-3",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/improving-development-efficiency-with-secure-mcp-servers",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/flink-realtime-frequency-capping",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/developing-single-and-multi-agent-systems-with-adk-and-integrating-into-internal-systems",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/resolving-pr-review-bottlenecks-with-ai-and-transforming-review-culture",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/orchestration-development-workshop-article-list",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/toss_front",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/start-orchestration-development-workshop",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/layers-of-your-time",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/from-hive-to-iceberg-12x-faster-data-updates",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/Designer",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/how-we-built-a-domain-agnostic-chat-platform",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/es-toolkit",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/processing-large-scale-data-with-spark-on-kubernetes",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/image-content-moderation-at-scale-with-multimodal-llm",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/advancing-guardrail-models-with-coding-agents",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/place-metric-review",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/reduce-repetitive-tasks-with-sre-bot",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/internalizing-without-specification-proving-equivalence-through-verification-logic",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/vulnerability-analysis-automation-2",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/using-sli-slo-for-improving-reliability-1-developing-framework-and-line-status",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/a-large-scale-ios-configuration-system-implemented-with-an-attributedstring-structure",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://toss.tech/article/harness-for-team-productivity-eng",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/unification-of-group-chat-on-the-line-app",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/ly-corporation-next-generation-cloud-platform-flava-introduction",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/journey-to-perfect-ai-guardrails-neurips-2025-recap",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-2-agent-engineering",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
       "url": "https://devday.kr/article/mesh-network-technology-comparison-reticulum",
       "seenAt": "2026-05-28T11:46:40.612Z"
     },
@@ -243,6 +363,62 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255780",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53968124",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54016110",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49264342",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49263743",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49262394",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259625",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54015499",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54013658",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54012912",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54004668",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53990460",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53990403",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53965615",
+      "seenAt": "2026-05-28T12:28:47.019Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261756",
       "seenAt": "2026-05-28T11:46:40.612Z"
     },
@@ -371,5 +547,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-05-28T11:46:40.612Z"
+  "updatedAt": "2026-05-28T12:28:47.019Z"
 }
