@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/mesh-network-technology-comparison-reticulum",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/building-database-performance-testing-tool-with-ai",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/pancake-autonomous-company-slack",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-vera-cpu-ai-rack-war",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/hallucinate-online-rave-platform-developer-community-reaction",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/parallel-processing-with-monoids",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/neovim-love-letter-and-developer-productivity",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/metastable-failures-distributed-systems-analysis",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/zjit-new-register-allocator-performance-analysis",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/dive-deeper-into-io-2026-with-notebooklm",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/coworker-ai-context-aware-model-routing",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/zero-xyz-ai-agent-access-8k-tools",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/posthorn-self-hosted-email-gateway",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/oasis-browser-mac-privacy-first-ai",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/transactional-outbox-pattern-database-kafka-consistency",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/developers-tired-of-talking-to-ai",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/developers-actually-using-ai-at-work",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/powabase-build-ai-apps-with-postgres-rag-agents",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/bluedot-2-1-record-apple-watch-sync-claude",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://devday.kr/article/how-i-code-with-ai-changed-a-lot",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/introduction-of-messaginghub-inquirychat-service",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/cut-token-usage-40-percent-with-adk-context-engineering",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://toss.tech/article/cross-functional-tpm-tip",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/git-automation-mcp-vs-agent-skills-pros-and-cons",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/ai-augments-qa-rather-than-replacing-it",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://toss.tech/article/toss-tpm",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/building-rag-system-with-vector-db-and-agent-skills",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/id-jag-next-generation-authentication-ai-era",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://toss.tech/article/post-quantum-cryptography-eng",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/from-copilot-to-pilot-agentic-coding-implementation-to-pr-automation",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
       "url": "https://devday.kr/article/google-vp-interview-gemini-vs-competitors",
       "seenAt": "2026-05-28T10:33:56.098Z"
     },
@@ -123,6 +243,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261756",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257849",
+      "seenAt": "2026-05-28T11:46:40.612Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49193627",
       "seenAt": "2026-05-28T10:33:56.098Z"
     },
@@ -243,5 +371,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-05-28T10:33:56.098Z"
+  "updatedAt": "2026-05-28T11:46:40.612Z"
 }
