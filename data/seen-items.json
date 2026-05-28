@@ -1,5 +1,247 @@
 {
-  "seenArticles": [],
-  "seenJobs": [],
-  "updatedAt": ""
+  "seenArticles": [
+    {
+      "url": "https://devday.kr/article/google-vp-interview-gemini-vs-competitors",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/huawei-1.4nm-without-euv-chip-strategy",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-product-vs-software",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/naver-engineering-day-d2-channel",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpu-high-speed-communication-for-distributed-training",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-google-notification-policy-and-user-experience",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/demaecan-cs-inquirychat-implementation",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-generic-methods-proposal-analysis",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-four-day-work-week-and-productivity",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-failure-modes-beyond-hallucination",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-daily-driver-productivity-guide",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/valve-nvidia-youtube-nordvpn-tech-news",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-outage-and-developer-complaints",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/designer-app-launch-with-vibe-coding",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/simcity-3000-4k-remaster-guide",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/youtube-ai-generated-video-labeling",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-ai-resume-optimizer-resumate",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/vestige-gemma-4-brain-tracker",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/canada-sweden-defense-contract-shift-from-us",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/duckduckgo-search-increase-google-ai-mode",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-openai-product-market-fit-and-pricing-analysis",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/ruby-java-typescript-app-implementation-comparison",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/tech-ceos-ai-psychosis-and-its-impact",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/irans-internet-partially-restored-cloudflare-radar",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/reviving-toastr-next-v3",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/lastfm-independent-company-community-reaction",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/developers-tired-of-ai-overuse",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/erlang-elixir-atom-exhaustion-vulnerability-analysis",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/2mb-cooking-recipe-model-developer-review",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://devday.kr/article/octolane-self-driving-ai-crm-talk",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    }
+  ],
+  "seenJobs": [
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49193627",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49173048",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49133627",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49196152",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255267",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255642",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49248236",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49260339",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256498",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256089",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257063",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49042466",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256752",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49207815",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49254340",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257367",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261662",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49264271",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49254575",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259516",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49242634",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261598",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48917752",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49265884",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257021",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49241926",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49251005",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49212567",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259382",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261371",
+      "seenAt": "2026-05-28T10:33:56.098Z"
+    }
+  ],
+  "updatedAt": "2026-05-28T10:33:56.098Z"
 }
