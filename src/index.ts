@@ -1,5 +1,5 @@
 import { collectDevDayArticles } from "./collectors/devday-archive.collector";
-import { collectManualJobs } from "./collectors/manual-job.collector";
+import { collectJobSourcePostings, collectManualJobs } from "./collectors/job-source.collector";
 import { collectRssArticles } from "./collectors/rss-article.collector";
 import { MAX_DAILY_ARTICLES, MAX_DAILY_JOBS } from "./config/constants";
 import { formatDailyMessage } from "./formatter/slack-message.formatter";
@@ -28,6 +28,34 @@ function uniqueByUrl<T extends { url: string }>(items: T[]): T[] {
   }
 
   return uniqueItems;
+}
+
+function interleaveJobsBySource(items: JobPosting[]): JobPosting[] {
+  const grouped = new Map<string, JobPosting[]>();
+
+  for (const item of items) {
+    const group = grouped.get(item.source) ?? [];
+    group.push(item);
+    grouped.set(item.source, group);
+  }
+
+  const interleaved: JobPosting[] = [];
+  let hasRemainingItems = true;
+
+  while (hasRemainingItems) {
+    hasRemainingItems = false;
+
+    for (const group of grouped.values()) {
+      const item = group.shift();
+
+      if (item) {
+        interleaved.push(item);
+        hasRemainingItems = true;
+      }
+    }
+  }
+
+  return interleaved;
 }
 
 function sortArticlesByPublishedAt(items: Article[]): Article[] {
@@ -62,8 +90,13 @@ async function main(): Promise<void> {
     MAX_DAILY_ARTICLES,
   );
 
-  const collectedJobs = uniqueByUrl<JobPosting>(await collectManualJobs());
-  const newJobs = filterNewJobs(collectedJobs, state).slice(0, MAX_DAILY_JOBS);
+  const sourceJobs = await collectJobSourcePostings();
+  const manualJobs = await collectManualJobs();
+  const collectedJobs = uniqueByUrl<JobPosting>([...sourceJobs, ...manualJobs]);
+  const newJobs = interleaveJobsBySource(filterNewJobs(collectedJobs, state)).slice(
+    0,
+    MAX_DAILY_JOBS,
+  );
 
   const message = formatDailyMessage({
     articles: newArticles,

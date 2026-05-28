@@ -4,5 +4,6 @@ export interface JobPosting {
   title: string;
   company?: string;
   url: string;
+  sourceUrl?: string;
   collectedAt: string;
 }
