@@ -49,18 +49,31 @@ DevDay 최신 페이지가 여러 기술 블로그와 뉴스를 모아 최신순
 
 ## 채용공고 자동 수집
 
-`src/config/job-sources.ts`에 감시할 채용공고 목록 페이지를 등록합니다.
+`src/config/job-sources.ts`에 감시할 채용공고 검색 페이지를 등록합니다.
 
 기본 등록된 소스:
 
-- Zighang: `https://zighang.com/recruitment`
-- Wanted: `https://www.wanted.co.kr/wdlist`
-- JobKorea: `https://www.jobkorea.co.kr/recruit/joblist?localorder=1&menucode=local`
-- Saramin: `https://www.saramin.co.kr/zf_user/jobs/public/list`
+- JobKorea Node.js 최신순 검색
+- JobKorea NestJS 최신순 검색
+- Saramin Node.js 최신순 검색
+- Saramin NestJS 최신순 검색
 
-수집기는 각 페이지의 HTML을 가져온 뒤 `a` 태그에서 채용공고 링크 후보를 추출합니다. 브라우저 실행, 로그인, 상세 본문 추출은 하지 않습니다.
+수집기는 각 검색 페이지의 HTML을 가져온 뒤 `a` 태그에서 채용공고 링크 후보를 추출합니다. 이후 상세 페이지 본문을 가져와 Node.js/NestJS 키워드를 다시 검사하고, 규칙 기반 적합도 점수를 계산합니다.
 
 정적 HTML에서 공고 링크가 보이지 않는 사이트는 신규 공고를 가져오지 못할 수 있으며, 해당 소스는 경고 로그만 남기고 전체 실행은 계속됩니다.
+
+채용공고는 provider별로 최대 15개씩 후보를 가져오고, 회사명이 같은 공고는 중복으로 보고 하나만 남깁니다. 필터 결과가 30개 미만이면 있는 것만 Slack으로 보냅니다.
+
+## 채용공고 적합도 점수
+
+OpenAI 없이 JD 텍스트를 keyword rule로 분석합니다.
+
+- 기술스택 매칭: 최대 40점
+- 도메인/업무 매칭: 최대 30점
+- 커리어 방향성 매칭: 최대 15점
+- 조직/근무 리스크 감점: 최대 -15점
+
+Slack 메시지에는 각 공고의 적합도 점수, 판정, 매칭 포인트, 주의 포인트를 표시합니다.
 
 ## 보조 수동 등록
 
@@ -71,6 +84,9 @@ DevDay 최신 페이지가 여러 기술 블로그와 뉴스를 모아 최신순
 - RSS 기술 아티클 수집
 - DevDay archive 기술 아티클 수집
 - 등록된 채용 페이지에서 신규 채용공고 링크 자동 수집
+- Node.js/NestJS 백엔드 채용공고 필터링
+- 채용공고 상세 본문 추출
+- 규칙 기반 적합도 점수화
 - 보조 수동 채용공고 링크 발송
 - 하루 최대 아티클 30개, 채용공고 30개 발송
 - seen-items.json 기반 중복 제거

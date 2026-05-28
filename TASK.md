@@ -15,7 +15,9 @@
 - DevDay 최신 페이지 기반 기술 아티클 우선 수집
 - RSS 기반 기술 아티클 수집
 - DevDay archive 기반 기술 아티클 수집
-- 감시 대상 채용 페이지 HTML에서 신규 채용공고 링크 수집
+- JobKorea/Saramin 검색 URL 기반 Node.js/NestJS 백엔드 채용공고 수집
+- 채용공고 상세 페이지 본문 추출
+- 규칙 기반 채용공고 적합도 점수화
 - 보조 수동 채용공고 URL 발송
 - `data/seen-items.json` 기반 중복 제거
 - 하루 최대 기술 아티클 30개, 채용공고 30개 발송
@@ -34,20 +36,55 @@ DevDay 최신 페이지는 여러 기술 블로그와 뉴스 링크를 모아 �
 
 ## 채용공고 자동 수집 방식
 
-`src/config/job-sources.ts`에 채용공고 목록 페이지를 등록한다.
+`src/config/job-sources.ts`에 채용공고 검색 페이지를 등록한다.
 
 수집기는 각 source에 대해 아래 순서로 동작한다.
 
-1. `axios`로 목록 페이지 HTML 요청
+1. `axios`로 검색 페이지 HTML 요청
 2. `cheerio`로 HTML 파싱
 3. 모든 `a` 태그 순회
 4. `href`를 절대 URL로 변환
 5. tracking query와 hash 제거
 6. `includeUrlPatterns`와 `excludeUrlPatterns`로 채용공고 후보 필터링
-7. URL 기준 중복 제거
-8. 기존 발송 이력 제거
-9. 최대 30개만 Slack 발송
-10. 채용공고 Slack 발송 성공 시 실제 발송한 URL만 `seen-items.json`에 저장
+7. provider별 최대 15개 후보 제한
+8. URL 기준 중복 제거
+9. 기존 발송 이력 제거
+10. 상세 페이지 본문 추출
+11. Node.js/NestJS 필수 키워드 기반 2차 필터링
+12. 회사명 기준 중복 제거
+13. 규칙 기반 적합도 점수 계산
+14. 점수 높은 순 정렬
+15. 최대 30개만 Slack 발송
+16. 채용공고 Slack 발송 성공 시 실제 발송한 URL만 `seen-items.json`에 저장
+
+기본 검색 소스:
+
+- JobKorea Node.js 최신순
+- JobKorea NestJS 최신순
+- Saramin Node.js 최신순
+- Saramin NestJS 최신순
+
+필터 결과가 30개 미만이면 있는 것만 Slack으로 보낸다.
+
+## 채용공고 적합도 점수화
+
+OpenAI 없이 keyword rule 기반으로 계산한다.
+
+- 기술스택 매칭: 최대 40점
+- 도메인/업무 매칭: 최대 30점
+- 커리어 방향성 매칭: 최대 15점
+- 조직/근무 리스크 감점: 최대 -15점
+
+판정 기준:
+
+```txt
+85~100  → 적극 지원
+70~84   → 우선 검토
+55~69   → 조건부 검토
+0~54    → 스킵
+```
+
+Slack 메시지에는 적합도 점수, 판정, 매칭 포인트, 주의 포인트, 링크를 표시한다.
 
 ## Slack 발송 격리
 

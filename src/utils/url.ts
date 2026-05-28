@@ -13,6 +13,14 @@ const TRACKING_PARAMS = new Set([
   "logpath",
   "sn",
   "sc",
+  "oem_code",
+  "stext",
+  "listno",
+  "searchword",
+  "searchtype",
+  "search_uuid",
+  "location",
+  "paid_fl",
 ]);
 
 export function normalizeUrl(input: string, baseUrl?: string): string | undefined {

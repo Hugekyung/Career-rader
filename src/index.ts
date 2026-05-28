@@ -1,8 +1,11 @@
+import { analyzeJobPostings } from "./analyzers/job-fit.analyzer";
 import { collectDevDayArticles } from "./collectors/devday-archive.collector";
 import { collectDevDayLatestArticles } from "./collectors/devday-latest.collector";
+import { enrichJobPostingsWithDetails } from "./collectors/job-detail.collector";
 import { collectJobSourcePostings, collectManualJobs } from "./collectors/job-source.collector";
 import { collectRssArticles } from "./collectors/rss-article.collector";
 import { MAX_DAILY_ARTICLES, MAX_DAILY_JOBS } from "./config/constants";
+import { excludedNonBackendKeywords, requiredBackendKeywords } from "./config/job-sources";
 import { formatArticleMessage, formatJobMessage } from "./formatter/slack-message.formatter";
 import { sendSlackMessage } from "./notifier/slack.notifier";
 import {
@@ -15,6 +18,7 @@ import {
 } from "./storage/state.store";
 import type { Article } from "./types/article";
 import type { JobPosting } from "./types/job-posting";
+import { limitJobsByProvider, matchesJobKeywords, uniqueJobsByCompany } from "./utils/job-keywords";
 import { logger } from "./utils/logger";
 
 function uniqueByUrl<T extends { url: string }>(items: T[]): T[] {
@@ -31,34 +35,6 @@ function uniqueByUrl<T extends { url: string }>(items: T[]): T[] {
   }
 
   return uniqueItems;
-}
-
-function interleaveJobsBySource(items: JobPosting[]): JobPosting[] {
-  const grouped = new Map<string, JobPosting[]>();
-
-  for (const item of items) {
-    const group = grouped.get(item.source) ?? [];
-    group.push(item);
-    grouped.set(item.source, group);
-  }
-
-  const interleaved: JobPosting[] = [];
-  let hasRemainingItems = true;
-
-  while (hasRemainingItems) {
-    hasRemainingItems = false;
-
-    for (const group of grouped.values()) {
-      const item = group.shift();
-
-      if (item) {
-        interleaved.push(item);
-        hasRemainingItems = true;
-      }
-    }
-  }
-
-  return interleaved;
 }
 
 function sortArticlesByPublishedAtIfAvailable(items: Article[]): Article[] {
@@ -89,6 +65,13 @@ function sortArticlesByPublishedAtIfAvailable(items: Article[]): Article[] {
   }
 }
 
+function matchesBackendTarget(job: JobPosting): boolean {
+  return matchesJobKeywords(`${job.title} ${job.company ?? ""} ${job.detailText ?? ""}`, {
+    requiredKeywords: requiredBackendKeywords,
+    excludeKeywords: excludedNonBackendKeywords,
+  });
+}
+
 async function main(): Promise<void> {
   logger.info("Daily Career Radar started.");
 
@@ -109,10 +92,14 @@ async function main(): Promise<void> {
   const sourceJobs = await collectJobSourcePostings();
   const manualJobs = await collectManualJobs();
   const collectedJobs = uniqueByUrl<JobPosting>([...sourceJobs, ...manualJobs]);
-  const newJobs = interleaveJobsBySource(filterNewJobs(collectedJobs, state)).slice(
-    0,
-    MAX_DAILY_JOBS,
-  );
+  const candidateJobs = limitJobsByProvider(filterNewJobs(collectedJobs, state), 15);
+  const detailedJobs = await enrichJobPostingsWithDetails(candidateJobs);
+  const backendJobs = detailedJobs.filter(matchesBackendTarget);
+  const uniqueCompanyJobs = uniqueJobsByCompany(backendJobs);
+  const analyzedJobs = analyzeJobPostings(uniqueCompanyJobs);
+  const newJobs = analyzedJobs
+    .sort((a, b) => (b.fit?.score ?? 0) - (a.fit?.score ?? 0))
+    .slice(0, MAX_DAILY_JOBS);
 
   const articleMessage = formatArticleMessage({
     articles: newArticles,

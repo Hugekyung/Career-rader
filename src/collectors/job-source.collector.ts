@@ -5,6 +5,7 @@ import { manualJobUrls } from "../config/manual-job-urls";
 import type { JobPosting } from "../types/job-posting";
 import type { JobSource } from "../types/job-source";
 import { createHashId } from "../utils/hash";
+import { matchesJobKeywords } from "../utils/job-keywords";
 import { logger } from "../utils/logger";
 import { normalizeWhitespace } from "../utils/text";
 import { getUrlMatchTarget, normalizeUrl } from "../utils/url";
@@ -24,12 +25,75 @@ function cleanJobTitle(title: string): string {
     .trim();
 }
 
+function cleanCompanyName(company: string): string | undefined {
+  const cleaned = normalizeWhitespace(company)
+    .replace(/\s*(스크랩|북마크|관심기업 등록하기)\s*/g, " ")
+    .trim();
+
+  if (!cleaned || cleaned.length > 80) {
+    return undefined;
+  }
+
+  return cleaned;
+}
+
+function pickCompanyFromList($: cheerio.CheerioAPI, element: Parameters<cheerio.CheerioAPI>[0]): string | undefined {
+  const container = $(element).closest("li, tr, article, div");
+  const selectors = [
+    "a[href*='Co_Read']",
+    "a[href*='company-info']",
+    ".corp_name",
+    ".company",
+    ".coName",
+    ".name",
+  ];
+
+  for (const selector of selectors) {
+    const company = cleanCompanyName(container.find(selector).first().text());
+
+    if (company) {
+      return company;
+    }
+  }
+
+  return undefined;
+}
+
 function upsertByBetterTitle(items: Map<string, JobPosting>, next: JobPosting): void {
   const previous = items.get(next.url);
 
-  if (!previous || next.title.length > previous.title.length) {
+  if (!previous) {
     items.set(next.url, next);
+    return;
   }
+
+  const nextLooksLikeCompany = next.title.length < previous.title.length;
+  const company = previous.company ?? next.company ?? (nextLooksLikeCompany ? next.title : undefined);
+
+  if (next.title.length > previous.title.length) {
+    items.set(next.url, {
+      ...next,
+      company,
+    });
+    return;
+  }
+
+  items.set(next.url, {
+    ...previous,
+    company,
+  });
+}
+
+function getNearbyText($: cheerio.CheerioAPI, element: Parameters<cheerio.CheerioAPI>[0]): string {
+  return normalizeWhitespace(
+    [
+      $(element).text(),
+      $(element).closest("li").text(),
+      $(element).closest("tr").text(),
+      $(element).closest("article").text(),
+      $(element).closest("div").text(),
+    ].join(" "),
+  );
 }
 
 async function collectSingleJobSource(source: JobSource): Promise<JobPosting[]> {
@@ -60,11 +124,18 @@ async function collectSingleJobSource(source: JobSource): Promise<JobPosting[]> 
       return;
     }
 
+    const candidateText = getNearbyText($, element);
+
+    if (!matchesJobKeywords(candidateText || title, { excludeKeywords: source.excludeKeywords })) {
+      return;
+    }
+
     upsertByBetterTitle(items, {
       id: createHashId(url),
       source: source.name,
+      provider: source.provider,
       title,
-      company: source.company,
+      company: pickCompanyFromList($, element) ?? source.company,
       url,
       sourceUrl: source.url,
       collectedAt,
@@ -113,6 +184,7 @@ export async function collectManualJobs(): Promise<JobPosting[]> {
       return {
         id: createHashId(normalizedUrl),
         source: job.source ?? "Manual",
+        provider: "Manual",
         title: cleanJobTitle(job.title),
         company: job.company ? normalizeWhitespace(job.company) : undefined,
         url: normalizedUrl,

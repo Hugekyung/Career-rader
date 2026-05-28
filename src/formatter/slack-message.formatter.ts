@@ -50,30 +50,65 @@ export function formatArticleMessage(input: { articles: Article[] }): string {
 }
 
 export function formatJobMessage(input: { jobs: JobPosting[] }): string {
-  const lines: string[] = ["[Daily Job Radar]", `실행일: ${formatKstDate(new Date())}`, ""];
+  const lines: string[] = ["[채용공고 레이더]", `실행일: ${formatKstDate(new Date())}`, ""];
 
   if (input.jobs.length === 0) {
-    lines.push("신규 채용공고가 없습니다.");
+    lines.push("신규 Node.js/NestJS 백엔드 채용공고가 없습니다.");
     lines.push("");
     lines.push("상태");
     lines.push("- GitHub Actions 정상 실행");
     lines.push(`- 신규 채용공고: 0개 / 최대 ${MAX_DAILY_JOBS}개`);
     lines.push("- AI 분석: 비활성화");
+    lines.push("- 규칙 기반 적합도 점수화: 활성화");
     return lines.join("\n");
   }
 
-  lines.push(`오늘의 채용공고: ${input.jobs.length}개`);
+  lines.push(`오늘의 Node.js/NestJS 백엔드 채용공고: ${input.jobs.length}개`);
+  lines.push("");
   input.jobs.forEach((job, index) => {
-    lines.push(`${index + 1}. ${truncate(normalizeWhitespace(job.title), 120)}`);
-    lines.push(`- 회사: ${job.company ?? "없음"}`);
-    lines.push(`- 출처: ${job.source}`);
-    lines.push(`- 링크: ${job.url}`);
+    const title = truncate(normalizeWhitespace(job.title), 120);
+    const company = job.company ? truncate(normalizeWhitespace(job.company), 60) : "회사명 없음";
+    const fit = job.fit;
+    const positiveReasons = fit?.positiveReasons.slice(0, 4) ?? [];
+    const negativeReasons = fit?.negativeReasons.slice(0, 3) ?? [];
+
+    lines.push(`${index + 1}. ${title} - ${company}`);
+    lines.push("");
+    lines.push(`적합도: ${fit?.score ?? 0}/100`);
+    lines.push(`판정: ${fit?.recommendation ?? "스킵"}`);
+    lines.push("");
+    lines.push("매칭 포인트");
+
+    if (positiveReasons.length > 0) {
+      positiveReasons.forEach((reason) => {
+        lines.push(`- ${reason}`);
+      });
+    } else {
+      lines.push("- 주요 매칭 포인트 없음");
+    }
+
+    lines.push("");
+    lines.push("주의 포인트");
+
+    if (negativeReasons.length > 0) {
+      negativeReasons.forEach((reason) => {
+        lines.push(`- ${reason}`);
+      });
+    } else {
+      lines.push("- 특별한 감점 요인 없음");
+    }
+
+    lines.push("");
+    lines.push("링크:");
+    lines.push(job.url);
+    lines.push("");
   });
 
   lines.push("");
   lines.push("상태");
   lines.push(`- 신규 채용공고: ${input.jobs.length}개 / 최대 ${MAX_DAILY_JOBS}개`);
   lines.push("- AI 분석: 비활성화");
+  lines.push("- 규칙 기반 적합도 점수화: 활성화");
 
   return lines.join("\n");
 }
