@@ -69,8 +69,14 @@ export function formatJobMessage(input: { jobs: JobPosting[] }): string {
     const title = truncate(normalizeWhitespace(job.title), 120);
     const company = job.company ? truncate(normalizeWhitespace(job.company), 60) : "회사명 없음";
     const fit = job.fit;
+    const isFallbackJob = !job.fit?.positiveReasons.some((reason) => {
+      return reason.includes("Node.js") || reason.includes("NestJS");
+    });
     const positiveReasons = fit?.positiveReasons.slice(0, 4) ?? [];
-    const negativeReasons = fit?.negativeReasons.slice(0, 3) ?? [];
+    const negativeReasons = [
+      ...(isFallbackJob ? ["Node.js/NestJS 명시 공고가 부족해 보충된 백엔드 포지션"] : []),
+      ...(fit?.negativeReasons ?? []),
+    ].slice(0, 3);
 
     lines.push(`${index + 1}. ${title} - ${company}`);
     lines.push("");

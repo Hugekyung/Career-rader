@@ -9,6 +9,19 @@ export const requiredBackendKeywords = [
   "express",
 ];
 
+export const fallbackBackendKeywords = [
+  "백엔드",
+  "backend",
+  "back-end",
+  "서버",
+  "server",
+  "api 개발",
+  "웹개발자",
+  "웹 개발자",
+  "소프트웨어개발자",
+  "소프트웨어 개발자",
+];
+
 export const excludedNonBackendKeywords = [
   "프론트엔드",
   "frontend",
@@ -27,7 +40,6 @@ export const jobSources: JobSource[] = [
     url: "https://www.jobkorea.co.kr/Search/?stext=node.js&tabType=recruit&ord=RegDtDesc",
     includeUrlPatterns: ["/Recruit/GI_Read/"],
     excludeUrlPatterns: ["Login", "Co_Read", "Help"],
-    requiredKeywords: requiredBackendKeywords,
     excludeKeywords: excludedNonBackendKeywords,
     maxItems: 15,
   },
@@ -37,7 +49,6 @@ export const jobSources: JobSource[] = [
     url: "https://www.jobkorea.co.kr/Search/?stext=nestjs&tabType=recruit&ord=RegDtDesc",
     includeUrlPatterns: ["/Recruit/GI_Read/"],
     excludeUrlPatterns: ["Login", "Co_Read", "Help"],
-    requiredKeywords: requiredBackendKeywords,
     excludeKeywords: excludedNonBackendKeywords,
     maxItems: 15,
   },
@@ -47,7 +58,6 @@ export const jobSources: JobSource[] = [
     url: "https://www.saramin.co.kr/zf_user/search/recruit?searchword=node.js&recruitPage=1&recruitSort=reg_dt",
     includeUrlPatterns: ["/zf_user/jobs/relay/view", "/zf_user/jobs/view"],
     excludeUrlPatterns: ["login", "company-info", "scrap"],
-    requiredKeywords: requiredBackendKeywords,
     excludeKeywords: excludedNonBackendKeywords,
     maxItems: 15,
   },
@@ -57,7 +67,6 @@ export const jobSources: JobSource[] = [
     url: "https://www.saramin.co.kr/zf_user/search/recruit?searchword=nestjs&recruitPage=1&recruitSort=reg_dt",
     includeUrlPatterns: ["/zf_user/jobs/relay/view", "/zf_user/jobs/view"],
     excludeUrlPatterns: ["login", "company-info", "scrap"],
-    requiredKeywords: requiredBackendKeywords,
     excludeKeywords: excludedNonBackendKeywords,
     maxItems: 15,
   },
