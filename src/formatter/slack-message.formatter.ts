@@ -68,45 +68,26 @@ export function formatJobMessage(input: { jobs: JobPosting[] }): string {
   input.jobs.forEach((job, index) => {
     const title = truncate(normalizeWhitespace(job.title), 120);
     const company = job.company ? truncate(normalizeWhitespace(job.company), 60) : "회사명 없음";
+    const platform = job.provider ?? job.source;
     const fit = job.fit;
-    const isFallbackJob = !job.fit?.positiveReasons.some((reason) => {
-      return reason.includes("Node.js") || reason.includes("NestJS");
-    });
     const positiveReasons = fit?.positiveReasons.slice(0, 4) ?? [];
-    const negativeReasons = [
-      ...(isFallbackJob ? ["Node.js/NestJS 명시 공고가 부족해 보충된 백엔드 포지션"] : []),
-      ...(fit?.negativeReasons ?? []),
-    ].slice(0, 3);
 
-    lines.push(`${index + 1}. ${title} - ${company}`);
+    lines.push(`:check: *${index + 1}. ${title}*`);
+    lines.push(`- 회사: ${company}`);
+    lines.push(`- 플랫폼: ${platform}`);
+    lines.push(`- 적합도: ${fit?.score ?? 0}/100`);
     lines.push("");
-    lines.push(`적합도: ${fit?.score ?? 0}/100`);
-    lines.push(`판정: ${fit?.recommendation ?? "스킵"}`);
-    lines.push("");
-    lines.push("매칭 포인트");
+    lines.push("- 매칭 포인트");
 
     if (positiveReasons.length > 0) {
       positiveReasons.forEach((reason) => {
-        lines.push(`- ${reason}`);
+        lines.push(`  - ${reason}`);
       });
     } else {
-      lines.push("- 주요 매칭 포인트 없음");
+      lines.push("  - 주요 매칭 포인트 없음");
     }
 
-    lines.push("");
-    lines.push("주의 포인트");
-
-    if (negativeReasons.length > 0) {
-      negativeReasons.forEach((reason) => {
-        lines.push(`- ${reason}`);
-      });
-    } else {
-      lines.push("- 특별한 감점 요인 없음");
-    }
-
-    lines.push("");
-    lines.push("링크:");
-    lines.push(job.url);
+    lines.push(`- 링크: ${job.url}`);
     lines.push("");
   });
 
