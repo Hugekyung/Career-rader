@@ -23,13 +23,15 @@ npm run run:mock
 실제 Slack 발송 테스트:
 
 ```bash
-export SLACK_WEBHOOK_URL="<Slack Incoming Webhook URL>"
+export ARTICLE_SLACK_WEBHOOK_URL="<Article channel Slack Incoming Webhook URL>"
+export JOB_SLACK_WEBHOOK_URL="<Job channel Slack Incoming Webhook URL>"
 npm run start
 ```
 
 ## 필수 환경변수
 
-`SLACK_WEBHOOK_URL`
+- `ARTICLE_SLACK_WEBHOOK_URL`
+- `JOB_SLACK_WEBHOOK_URL`
 
 ## 스케줄
 
@@ -62,7 +64,7 @@ npm run start
 - 보조 수동 채용공고 링크 발송
 - 하루 최대 아티클 30개, 채용공고 30개 발송
 - seen-items.json 기반 중복 제거
-- Slack Webhook 발송
+- 기술 아티클/채용공고 채널 분리 Slack Webhook 발송
 
 ## 제외 범위
 

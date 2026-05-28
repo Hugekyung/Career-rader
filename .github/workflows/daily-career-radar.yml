@@ -30,7 +30,8 @@ jobs:
 
       - name: Run daily career radar
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ARTICLE_SLACK_WEBHOOK_URL: ${{ secrets.ARTICLE_SLACK_WEBHOOK_URL }}
+          JOB_SLACK_WEBHOOK_URL: ${{ secrets.JOB_SLACK_WEBHOOK_URL }}
         run: npm run start
 
       - name: Commit updated state

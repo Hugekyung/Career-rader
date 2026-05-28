@@ -2,7 +2,7 @@ import { collectDevDayArticles } from "./collectors/devday-archive.collector";
 import { collectJobSourcePostings, collectManualJobs } from "./collectors/job-source.collector";
 import { collectRssArticles } from "./collectors/rss-article.collector";
 import { MAX_DAILY_ARTICLES, MAX_DAILY_JOBS } from "./config/constants";
-import { formatDailyMessage } from "./formatter/slack-message.formatter";
+import { formatArticleMessage, formatJobMessage } from "./formatter/slack-message.formatter";
 import { sendSlackMessage } from "./notifier/slack.notifier";
 import {
   filterNewArticles,
@@ -98,12 +98,21 @@ async function main(): Promise<void> {
     MAX_DAILY_JOBS,
   );
 
-  const message = formatDailyMessage({
+  const articleMessage = formatArticleMessage({
     articles: newArticles,
+  });
+  const jobMessage = formatJobMessage({
     jobs: newJobs,
   });
 
-  await sendSlackMessage(message);
+  await sendSlackMessage({
+    webhookEnvName: "ARTICLE_SLACK_WEBHOOK_URL",
+    text: articleMessage,
+  });
+  await sendSlackMessage({
+    webhookEnvName: "JOB_SLACK_WEBHOOK_URL",
+    text: jobMessage,
+  });
 
   if (process.env.SKIP_STATE_SAVE === "true") {
     logger.info("SKIP_STATE_SAVE is enabled. Seen state was not updated.");

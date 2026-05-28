@@ -8,6 +8,7 @@
 
 - GitHub Actions cron 실행: `30 1 * * *`
 - Slack Incoming Webhook 발송
+- 기술 아티클과 채용공고를 서로 다른 Slack 채널로 분리 발송
 - RSS 기반 기술 아티클 수집
 - DevDay archive 기반 기술 아티클 수집
 - 감시 대상 채용 페이지 HTML에서 신규 채용공고 링크 수집
@@ -64,6 +65,7 @@
 
 1. Slack App 생성
 2. Incoming Webhooks 활성화
-3. GitHub repository secret `SLACK_WEBHOOK_URL` 등록
-4. GitHub Actions workflow permission을 Read and write로 설정
-5. 필요 시 `src/config/job-sources.ts`에 감시 대상 채용 페이지 추가
+3. GitHub repository secret `ARTICLE_SLACK_WEBHOOK_URL` 등록
+4. GitHub repository secret `JOB_SLACK_WEBHOOK_URL` 등록
+5. GitHub Actions workflow permission을 Read and write로 설정
+6. 필요 시 `src/config/job-sources.ts`에 감시 대상 채용 페이지 추가
