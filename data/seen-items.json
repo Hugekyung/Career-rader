@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/github-bans-security-researcher-zero-day-exploit",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ly-corporation-slack-mcp-workshop-review",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-bot-harness-first",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-ai-smells-analysis",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ktx-open-source-context-layer-data-agents",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/dan-shipper-ai-prediction-openai-codex",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/postgres-durable-workflows-orchestrator-alternative",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-advanced-security-hard-budget-limits",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/codeql-2-25-5-improves-query-accuracy-github-actions",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemma-4-challenge-winner-announcement-delayed",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-196-0-release-notes-range-wasm",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/in-defense-of-manual-memory-management",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/protestware-for-coding-agents-jqwik-1.10.0-analysis",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-4-8-release-and-community-analysis",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/garnix-shutdown-and-open-source-transition",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-permission-fatigue-game-developer-reaction",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/coding-isnt-the-job",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-4-8-available-github-copilot",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/gnome-2-web-components-desktop-environment",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/amd-vivado-linux-licensing-controversy",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agents-senior-developers-code-quality",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/buffer-api-publish-across-social-platforms",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-io-2026-flutter-recap",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-fact-check-disagreement-analysis",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/angel-match-4-0-database-for-seed-round",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/runescape-network-optimization-56k-modem",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-io-2026-key-announcements",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ibm-9020-air-traffic-control-system-analysis",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-threat-developers-vibe-debt",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://devday.kr/article/chat-log-analysis-relationship-insights",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
       "url": "https://toss.tech/article/operating-starrocks-1",
       "seenAt": "2026-05-28T12:28:47.019Z"
     },
@@ -363,6 +483,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54025671",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54022671",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54017507",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54015775",
+      "seenAt": "2026-05-29T05:53:22.296Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255780",
       "seenAt": "2026-05-28T12:28:47.019Z"
     },
@@ -547,5 +683,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-05-28T12:28:47.019Z"
+  "updatedAt": "2026-05-29T05:53:22.296Z"
 }
