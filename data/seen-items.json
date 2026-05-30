@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/openstatus-mcp-health-checker",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/wandesk-ai-desktop",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/mcp-is-dead-developers-debate-on-ai-agents",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-source-private-home-security-camera-system-secluso",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-document-qa-gemma-4-e4b",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/what-is-a-dickover-analysis-of-website-annoyances",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-ai-grant-fellowships-ai-agent-resource",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/tiny-vllm-high-performance-llm-inference-engine",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-revolutionizing-science-google-deepmind-interview",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-human-value-and-the-problem-of-slop",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/uc-faculty-demand-sat-return-stem-math-deficits",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/bijou64-variable-length-integer-encoding-analysis",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/amd-better-watch-out-latest-tech-news",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-bottleneck-shifts-from-ai-model-to-energy-and-manufacturing",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/framework-12-vs-macbook-neo-developer-laptop-comparison",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-frontend-lost-decade-deskilling",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/sqlite-durable-workflows-analysis",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-usage-metrics-api-adds-cohorts",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/tv-explorer-web-iptv-service-technical-challenges",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/ev-design-stupidity-checklist",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/casey-muratori-eric-schmidt-commencement-speech-analysis",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/genai-criticism-and-community-discussion",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://devday.kr/article/flathub-disallows-llm-based-submissions",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/slack-mcp-faq-generation-and-incident-response-support",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/on-device-image-model-trainer-for-messenger-2",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/on-device-image-model-trainer-for-messenger-1",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://toss.tech/article/45787",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://toss.tech/article/45391",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://toss.tech/article/toss-front-sdk",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://toss.tech/article/harness-for-team-productivity",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
       "url": "https://devday.kr/article/building-container-in-50-lines-of-code-part-2",
       "seenAt": "2026-05-30T05:29:20.892Z"
     },
@@ -603,6 +723,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54035384",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49277573",
+      "seenAt": "2026-05-30T12:39:47.411Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54028976",
       "seenAt": "2026-05-30T05:29:20.892Z"
     },
@@ -851,5 +979,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-05-30T05:29:20.892Z"
+  "updatedAt": "2026-05-30T12:39:47.412Z"
 }
