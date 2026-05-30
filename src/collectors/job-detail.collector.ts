@@ -60,6 +60,45 @@ function isSiteName(text: string): boolean {
   return ["잡코리아", "jobkorea", "사람인", "saramin"].includes(normalized);
 }
 
+function cleanCompanyName(company: string): string | undefined {
+  const cleaned = normalizeWhitespace(company)
+    .replace(/\s*(스크랩|북마크|관심기업 등록하기)\s*/g, " ")
+    .trim();
+
+  if (!cleaned || cleaned.length > 80) {
+    return undefined;
+  }
+
+  return cleaned;
+}
+
+function extractCompanyFromText(text?: string): string | undefined {
+  if (!text) {
+    return undefined;
+  }
+
+  const normalized = normalizeWhitespace(text);
+  const bracketMatch = normalized.match(/^\[([^\]]+)\]/)?.[1];
+  const parenMatch = normalized.match(/^\(([^)]+)\)/)?.[1];
+  const prefixMatch = normalized.match(/^([^,\-–|]+)/)?.[1];
+
+  const candidates = [bracketMatch, parenMatch, prefixMatch];
+
+  for (const candidate of candidates) {
+    if (!candidate) {
+      continue;
+    }
+
+    const cleaned = cleanCompanyName(candidate);
+
+    if (cleaned && !isSiteName(cleaned)) {
+      return cleaned;
+    }
+  }
+
+  return undefined;
+}
+
 function pickTextBySelectors(
   $: cheerio.CheerioAPI,
   selectors: string[],
@@ -96,11 +135,18 @@ async function collectJobDetail(job: JobPosting): Promise<JobDetail> {
     const provider = job.provider ?? "Manual";
     cleanDocument($);
 
-    const company = pickTextBySelectors($, companySelectorsByProvider[provider], 2);
+    const companyCandidates = [
+      pickTextBySelectors($, companySelectorsByProvider[provider], 2),
+      pickTextBySelectors($, ["meta[property='og:title']", "title"], 2),
+      pickTextBySelectors($, ["meta[name='description']"], 2),
+    ];
+    const company = companyCandidates
+      .map((candidate) => extractCompanyFromText(candidate))
+      .find((candidate): candidate is string => candidate !== undefined);
     const detailText = pickTextBySelectors($, detailSelectorsByProvider[provider]);
 
     return {
-      company: company && !isSiteName(company) ? truncate(company, 80) : undefined,
+      company: company ? truncate(company, 80) : undefined,
       detailText: detailText ? truncate(detailText, DETAIL_TEXT_LIMIT) : undefined,
     };
   } catch (error) {

@@ -36,14 +36,11 @@ export function formatArticleMessage(input: { articles: Article[] }): string {
 
   lines.push(`오늘의 기술 아티클: ${input.articles.length}개`);
   input.articles.forEach((article, index) => {
-    const description = article.description
-      ? truncate(normalizeWhitespace(article.description), 100)
-      : "없음";
+    const source = truncate(normalizeWhitespace(article.source), 60) || "출처 없음";
     lines.push(
       `:white_check_mark: *${index + 1}. ${truncate(normalizeWhitespace(article.title), 120)}*`,
     );
-    lines.push(`- 출처: ${article.source}`);
-    lines.push(`- 설명: ${description}`);
+    lines.push(`- 출처: ${source}`);
     lines.push(`- 링크: ${article.url}`);
     lines.push("");
   });
