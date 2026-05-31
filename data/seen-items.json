@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/microsoft-disables-perpetual-office-licenses",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-domain-expertise-new-developer-moat",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/joseon-court-omens-as-observability-dashboard",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/accenture-acquires-ookla-network-data-strategy",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-focuses-on-light-for-data-center-future",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/voxel-space-rendering-algorithm-and-game-development-history",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/openrouter-113m-series-b-funding-and-developer-insights",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/helios-uk-solar-generation-prediction",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-models-argue-hermes-judge",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/openrsync-deep-dive-security-and-portability",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/pandoc-template-usage-and-community-experience",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-surpasses-openai-ai-startup-valuation",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-build-system-io-package-management-updates",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/step-3-7-flash-flash-speed-agents-model",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/nixos-2605-release-highlights",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/exstats-browser-extension-analytics",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/wingbits-ai-realtime-aircraft-monitoring",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/dickover-website-design-ux-problem",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://devday.kr/article/starlette-cve-disclosure-maintainer-perspective",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/introducing-the-journey-of-the-line-dev-ai-reporters",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/building-ai-code-review-platform-with-claude-code-action",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://toss.tech/article/payments-legacy-10",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/creating-the-cloud-of-the-future",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/the-evolution-of-the-ly-observability-platform",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://toss.tech/article/Marketing_Writing",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-30",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-29",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-1-context-engineering",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-28",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
       "url": "https://devday.kr/article/openstatus-mcp-health-checker",
       "seenAt": "2026-05-30T12:39:47.411Z"
     },
@@ -723,6 +843,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49275633",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54026720",
+      "seenAt": "2026-05-31T05:57:22.044Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54035384",
       "seenAt": "2026-05-30T12:39:47.411Z"
     },
@@ -979,5 +1107,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-05-30T12:39:47.412Z"
+  "updatedAt": "2026-05-31T05:57:22.044Z"
 }
