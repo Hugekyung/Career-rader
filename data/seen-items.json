@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-native-engineering-org-workflow-changes",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-mai-code-1-flash-coding-model-analysis",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/lessons-from-gaming-tech-decisions",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-top-7-posts-of-the-week-analysis",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-16-upgrade-silent-errors",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/seattle-hidden-surveillance-infrastructure-tour",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-app-technical-preview-expanded",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-sdk-generally-available",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-cli-major-update-ui-voice-input",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-cloud-local-sandboxes-public-preview",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/systemd-timers-vs-cron-next-generation-scheduling",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-accessibility-api-rejection-dictation-app",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/debloating-ai-grown-codebase-sloc-optimization",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/brief-ai-agent-product-market-fit",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/eyeball-game-developer-community-discussion",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/paste-mcp-infinite-clipboard-ai-tools",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/adafruit-flux-ai-legal-dispute-analysis",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/gigacatalyst-ai-builder-sales-cs-features",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-goals-side-project-networking",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/vokal-ai-agent-collaboration-space",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/vim-classic-8-3-0-release-ai-free-editor",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-gtc-taipei-keynote-ai-agent-era",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-surface-laptop-ultra-nvidia-arm-rival",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/debug-project-mosquito-control-analysis",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-software-quality-discussion",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/chipotlai-max-analysis-chipotle-ai-open-source",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/macos-virtual-desktop-grid-restoration-gridlion-app",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-vera-cpu-impact-on-data-center-market",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-frontier-models-codex-available-aws",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
+      "url": "https://devday.kr/article/spacex-anthropic-openai-ipo-market-analysis",
+      "seenAt": "2026-06-03T06:30:46.910Z"
+    },
+    {
       "url": "https://devday.kr/article/anthropic-ipo-market-reaction-and-ai-bubble-concerns",
       "seenAt": "2026-06-02T06:16:44.480Z"
     },
@@ -1431,5 +1551,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-02T06:16:44.480Z"
+  "updatedAt": "2026-06-03T06:30:46.910Z"
 }
