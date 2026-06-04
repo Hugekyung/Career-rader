@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/lets-encrypt-post-quantum-future-mtcs",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/kanwas-team-context-ai-workspace",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/esp32-s31-risc-v-connectivity-hmi-analysis",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/uber-ai-tool-spending-limit-analysis",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/surviving-eviction-interrupt-resilient-ai-workloads-gke",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/elixir-v1-20-gradual-typing-system-introduction",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/byte-matters-cpu-cache-data-structure-optimization",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-hiring-community-program-manager",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/elixir-1-20-gradual-typing-introduced",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/davinci-resolve-21-release-ai-photo-editing",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemma-4-12b-multimodal-model-analysis",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/run-claude-code-codex-cloud",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/enforcing-first-as-in-bgp-as-paths",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/hermes-desktop-native-app-release",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemma-4-12b-unified-encoder-free-multimodal-model",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-labs-dreambeans-ai-story-app",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/anti-nmda-receptor-encephalitis-diagnosis-experience-and-community-response",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-employee-tracking-controversy-30-min-opt-out",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/peektea-split-pane-file-preview",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/spectron-trusted-agent-memory",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/speaker-firmware-hacking-remote-code-execution-usb-hid-attack",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/franz-6-all-messaging-apps-private-ai",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/vscode-may-releases-agents-byok-terminal-safety",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/superlog-autonomous-observability-tool-finds-fixes-bugs",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-search-ai-tools-vintage-shopping",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/tech-layoffs-ai-investment-business-strategy",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-tools-side-project-production-ready",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/elentaria-gtm-diagnosis-execution",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/sound-blaster-katana-v2x-firmware-vulnerability-remote-exploit",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
+      "url": "https://devday.kr/article/remarkable-2-handwritten-clojure-repl-edsger",
+      "seenAt": "2026-06-04T06:22:28.042Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-native-engineering-org-workflow-changes",
       "seenAt": "2026-06-03T06:30:46.910Z"
     },
@@ -1203,6 +1323,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54049195",
+      "seenAt": "2026-06-04T06:22:28.043Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54073236",
+      "seenAt": "2026-06-04T06:22:28.043Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54055687",
+      "seenAt": "2026-06-04T06:22:28.043Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54042869",
+      "seenAt": "2026-06-04T06:22:28.043Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54046123",
+      "seenAt": "2026-06-04T06:22:28.043Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49290635",
       "seenAt": "2026-06-02T06:16:44.480Z"
     },
@@ -1551,5 +1691,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-03T06:30:46.910Z"
+  "updatedAt": "2026-06-04T06:22:28.043Z"
 }
