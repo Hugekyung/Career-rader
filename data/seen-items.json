@@ -1,6 +1,54 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/haskell-language-extensions-quiz-real-vs-impostors",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-made-out-of-weights-sf-story-analysis",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-dismantles-atlantic-current-monitoring-system",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/pm-understanding-llm",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-unified-operations-resilient-operations-core-workloads",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/fe-news-june-2026-ai-web-ui-trends",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-ai-ambitions-google-policy-shifts-and-ai-worm-threats",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-consciousness-debate-llm-understanding",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/non-developer-full-stack-development-in-one-month",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/software-development-north-star-priorities",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://devday.kr/article/lets-encrypt-post-quantum-mtcs-plan",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-23",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
       "url": "https://toss.tech/article/ai-surf-day",
       "seenAt": "2026-06-05T06:01:23.223Z"
     },
@@ -1443,6 +1491,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54090898",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49320925",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49319607",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49318046",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54092784",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54090298",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54089846",
+      "seenAt": "2026-06-06T05:32:43.974Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49309355",
       "seenAt": "2026-06-05T06:01:23.223Z"
     },
@@ -1859,5 +1935,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-05T06:01:23.224Z"
+  "updatedAt": "2026-06-06T05:32:43.974Z"
 }
