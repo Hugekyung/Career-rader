@@ -1,6 +1,7 @@
 import { analyzeJobPostings } from "./analyzers/job-fit.analyzer";
 import { collectDevDayArticles } from "./collectors/devday-archive.collector";
 import { collectDevDayLatestArticles } from "./collectors/devday-latest.collector";
+import { enrichArticlesWithSummary } from "./collectors/article-summary.collector";
 import { enrichJobPostingsWithDetails } from "./collectors/job-detail.collector";
 import { collectJobSourcePostings, collectManualJobs } from "./collectors/job-source.collector";
 import { collectRssArticles } from "./collectors/rss-article.collector";
@@ -119,6 +120,7 @@ async function main(): Promise<void> {
   const newArticles = sortArticlesByPublishedAtIfAvailable(
     filterNewArticles(collectedArticles, state),
   ).slice(0, MAX_DAILY_ARTICLES);
+  const summarizedArticles = await enrichArticlesWithSummary(newArticles);
 
   const sourceJobs = await collectJobSourcePostings();
   const manualJobs = await collectManualJobs();
@@ -141,7 +143,7 @@ async function main(): Promise<void> {
   );
 
   const articleMessage = formatArticleMessage({
-    articles: newArticles,
+    articles: summarizedArticles,
   });
   const jobMessage = formatJobMessage({
     jobs: newJobs,
@@ -158,7 +160,7 @@ async function main(): Promise<void> {
   const [articleResult, jobResult] = await Promise.allSettled([articleDelivery, jobDelivery]);
 
   if (articleResult.status === "fulfilled") {
-    nextState = markArticlesSeen(nextState, newArticles);
+    nextState = markArticlesSeen(nextState, summarizedArticles);
   }
 
   if (jobResult.status === "fulfilled") {

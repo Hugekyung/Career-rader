@@ -3,6 +3,7 @@ export interface Article {
   source: string;
   title: string;
   url: string;
+  summary?: string;
   description?: string;
   publishedAt?: string;
   collectedAt: string;

@@ -28,6 +28,7 @@ export async function collectRssArticles(): Promise<Article[]> {
           source: source.name,
           title: normalizeWhitespace(item.title),
           url: item.link,
+          summary: description || undefined,
           description,
           publishedAt: item.isoDate ?? item.pubDate,
           collectedAt,
