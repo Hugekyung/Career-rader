@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "active_work_id": "article-summary-pr-review-fix",
+  "works": {
+    "article-summary-pr-review-fix": {
+      "work_id": "article-summary-pr-review-fix",
+      "active_plan": ".omo/plans/article-content-summary.md",
+      "plan_name": "article-content-summary",
+      "session_ids": ["codex:manual-2026-06-08"],
+      "status": "completed",
+      "worktree_path": null
+    }
+  }
+}

@@ -3,9 +3,12 @@ import * as cheerio from "cheerio";
 import type { Article } from "../types/article";
 import { logger } from "../utils/logger";
 import { normalizeWhitespace, truncate } from "../utils/text";
-import { summarizeArticleText } from "../utils/article-summary";
+import {
+  buildArticleSummaryFetchOptions,
+  isSupportedArticleSummaryUrl,
+  summarizeArticleText,
+} from "../utils/article-summary";
 
-const SUMMARY_FETCH_TIMEOUT_MS = 12_000;
 const SUMMARY_TEXT_LIMIT = 800;
 const SUMMARY_BATCH_SIZE = 4;
 
@@ -43,15 +46,22 @@ function extractParagraphSummary($: cheerio.CheerioAPI): string | undefined {
   const paragraphs: string[] = [];
 
   for (const selector of paragraphSelectors) {
-    $(selector)
-      .toArray()
-      .forEach((element) => {
-        const text = normalizeWhitespace($(element).text());
+    $(selector).each((_, element) => {
+      if (paragraphs.length >= 2) {
+        return false;
+      }
 
-        if (text.length > 0 && !paragraphs.includes(text)) {
-          paragraphs.push(text);
-        }
-      });
+      const text = normalizeWhitespace($(element).text());
+
+      if (text.length > 0 && !paragraphs.includes(text)) {
+        paragraphs.push(text);
+      }
+
+      if (paragraphs.length >= 2) {
+        return false;
+      }
+      return undefined;
+    });
 
     if (paragraphs.length >= 2) {
       break;
@@ -72,16 +82,12 @@ async function collectArticleSummary(article: Article): Promise<string | undefin
     return existingSummary;
   }
 
+  if (!isSupportedArticleSummaryUrl(article.url)) {
+    return existingSummary;
+  }
+
   try {
-    const response = await axios.get<string>(article.url, {
-      timeout: SUMMARY_FETCH_TIMEOUT_MS,
-      responseType: "text",
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (compatible; CareerRadar/1.0; +https://github.com/career-radar)",
-        "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
-      },
-    });
+    const response = await axios.get<string>(article.url, buildArticleSummaryFetchOptions());
 
     const $ = cheerio.load(response.data);
     cleanDocument($);
@@ -115,7 +121,7 @@ export async function enrichArticlesWithSummary(articles: Article[]): Promise<Ar
     batch.forEach((article, batchIndex) => {
       enrichedArticles.push({
         ...article,
-        summary: batchSummaries[batchIndex] ?? summarizeArticleText(article.summary ?? article.description),
+        summary: batchSummaries[batchIndex],
       });
     });
   }

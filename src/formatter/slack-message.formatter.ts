@@ -1,7 +1,7 @@
 import { MAX_DAILY_ARTICLES, MAX_DAILY_JOBS } from "../config/constants";
 import type { Article } from "../types/article";
 import type { JobPosting } from "../types/job-posting";
-import { buildArticleSummaryBullets, summarizeArticleText } from "../utils/article-summary";
+import { buildArticleSummaryBullets } from "../utils/article-summary";
 import { normalizeWhitespace, truncate } from "../utils/text";
 
 function formatKstDate(date: Date): string {
@@ -38,8 +38,7 @@ export function formatArticleMessage(input: { articles: Article[] }): string {
   lines.push(`오늘의 기술 아티클: ${input.articles.length}개`);
   input.articles.forEach((article, index) => {
     const source = truncate(normalizeWhitespace(article.source), 60) || "출처 없음";
-    const summaryText = summarizeArticleText(article.summary ?? article.description);
-    const summaryBullets = buildArticleSummaryBullets(summaryText);
+    const summaryBullets = buildArticleSummaryBullets(article.summary ?? article.description);
     lines.push(
       `:white_check_mark: *${index + 1}. ${truncate(normalizeWhitespace(article.title), 120)}*`,
     );
