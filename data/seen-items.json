@@ -1,6 +1,10 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/skill-quality-rubric",
+      "seenAt": "2026-06-08T06:20:59.349Z"
+    },
+    {
       "url": "https://devday.kr/article/haskell-language-extensions-quiz-real-vs-impostors",
       "seenAt": "2026-06-06T05:32:43.974Z"
     },
@@ -1491,6 +1495,18 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54108796",
+      "seenAt": "2026-06-08T06:20:59.349Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54105931",
+      "seenAt": "2026-06-08T06:20:59.349Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54101686",
+      "seenAt": "2026-06-08T06:20:59.349Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49319791",
       "seenAt": "2026-06-07T06:05:00.117Z"
     },
@@ -1947,5 +1963,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-07T06:05:00.117Z"
+  "updatedAt": "2026-06-08T06:20:59.349Z"
 }
