@@ -1,6 +1,14 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/history-of-face-recognition-facepay",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://devday.kr/article/typescript-type-vs-interface-clear-criteria",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
       "url": "https://toss.tech/article/skill-quality-rubric",
       "seenAt": "2026-06-08T06:20:59.349Z"
     },
@@ -1495,6 +1503,50 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49325244",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49337345",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49326278",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49339658",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49331442",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49331954",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49329805",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49324960",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54121528",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54111492",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54111069",
+      "seenAt": "2026-06-09T05:48:05.337Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54108796",
       "seenAt": "2026-06-08T06:20:59.349Z"
     },
@@ -1963,5 +2015,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-08T06:20:59.349Z"
+  "updatedAt": "2026-06-09T05:48:05.337Z"
 }
