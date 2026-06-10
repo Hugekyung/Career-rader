@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-era-pr-review-slowdown-strategy",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/legacy-to-ai-driven-project-ax-roadmap",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/ux-design-can-save-users-from-anxiety",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-chatbot-workflow-redesign-automation-trap",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/tam-connect-2025-problem-solving-framework",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://toss.tech/article/tam-connect-2025",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-periodic-code-scanning-inactive-repositories",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-braket-hybrid-jobs-quantum-classical-algorithm",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/gherkin-bdd-spec-management-ai-era",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/facial-recognition-history-facepay-architecture",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/token-maxing-era-ends-meta-amazon-uber",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/eliminate-android-build-wait-time-n3r-arc",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-core-ai-framework-wwdc2026-analysis",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-rockstar-developer-technical-debt-management",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-ai-architecture-google-gemini-pcc-analysis",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/kakaobank-sequence-based-fds-vision-transformer",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/gitdot-rust-github-alternative-open-source",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-s1-draft-sec-filing-ai-ipo-analysis",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-finish-up-a-thon-challenge-delay",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/typescript-mapped-type-conditional-type",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/this-week-in-spring-june-9-2026",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/spring-rest-docs-4-0-1-release",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-models-apple-developers-integration",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/uk-online-safety-act-client-side-scanning-developer-impact",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/classifierai-ai-generated-content-detection-chrome-extension",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/siri-ai-apple-intelligence-practical-limitations",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-goals-setting-thread-182",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/self-hosting-email-with-dedicated-ipv4-block",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-top-7-posts-weekly",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-industry-revenue-sustainability-crisis",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
       "url": "https://toss.tech/article/history-of-face-recognition-facepay",
       "seenAt": "2026-06-09T05:48:05.337Z"
     },
@@ -1503,6 +1623,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49347604",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49344971",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49342513",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49349331",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49340302",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49346797",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54134194",
+      "seenAt": "2026-06-10T06:02:36.072Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49325244",
       "seenAt": "2026-06-09T05:48:05.337Z"
     },
@@ -2015,5 +2163,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-09T05:48:05.337Z"
+  "updatedAt": "2026-06-10T06:02:36.072Z"
 }
