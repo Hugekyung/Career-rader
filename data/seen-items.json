@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/retired-phones-low-carbon-computing-platform",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-ceo-anthropic-model-regulation-controversy",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ui-every-frame-perfect-principle-and-dilemma",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-census-bans-differential-privacy",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/elevencreative-ai-avatars-talking-head-video",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-census-noise-infusion-ban-impact",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ui-every-frame-perfect-principle",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/hallucinate-photo-gallery-hn-discussion",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/nomnak-find-restaurants-trusted-friends",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/paca-ai-human-collaboration-jira-alternative",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/israeli-firm-blackcore-election-meddling-suspicions",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/prometheus-firecrawl-web-data-agent",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-migrates-truetype-hinting-interpreter-c-to-swift",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k2-7-code-release-long-horizon-coding",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/mozilla-employee-departure-critique",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/vercel-drop-instant-deployment-drag-and-drop",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/opensource-ai-must-win-debate",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ffmpeg-21-zero-days-llm-security-analysis",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-government-restricts-anthropic-fable-mythos-access",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/pirates-naval-game-community-feedback-and-mechanics",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-source-ai-must-win-analysis",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-government-directive-suspends-access-to-anthropic-ai-models-fable-5-mythos-5",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/renault-rare-earth-free-electric-motor-technology",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/rejected-emoji-proposals-discussion",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-government-directive-suspends-fable-mythos-5-access",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-ai-web3-fellowships",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/putt-day-mini-golf-game-community-feedback",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-first-ai-coding-cli-adapts-to-you",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/macos-local-coding-agent-setup-gemma4-llamacpp",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-translation-limitations-human-translator-value",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
       "url": "https://devday.kr/article/crispr-cancer-therapy-rna-triggered-chromatin-shredding",
       "seenAt": "2026-06-13T05:58:52.635Z"
     },
@@ -1971,6 +2091,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54167673",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54160029",
+      "seenAt": "2026-06-14T06:18:17.528Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54163126",
       "seenAt": "2026-06-13T05:58:52.635Z"
     },
@@ -2591,5 +2719,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-13T05:58:52.635Z"
+  "updatedAt": "2026-06-14T06:18:17.528Z"
 }
