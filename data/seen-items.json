@@ -1,6 +1,58 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/honda-civic-infotainment-evilvalet-vulnerability",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/reactos-half-life-milestone-windows-compatibility",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-evidence-tampering-police-investigation",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/glm-5-2-release-open-source-ai-and-regulation-debate",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-cost-saving-strategies-home-api-usage",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/repo-slopscore-detecting-ai-llm-contributions-git",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/malware-exploits-llm-safety-refusals-for-ai-scanner-evasion",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-game-boy-advance-game-development",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-code-review-new-configurations-controls",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-rewrites-truetype-hinting-interpreter-in-swift",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/catjam-2026-catlang-game-dev-jam",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-content-sharing-human-effort-etiquette",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://devday.kr/article/town-square-website-visitor-interaction-idea",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
       "url": "https://devday.kr/article/retired-phones-low-carbon-computing-platform",
       "seenAt": "2026-06-14T06:18:17.528Z"
     },
@@ -2091,6 +2143,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177491",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177910",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177362",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177267",
+      "seenAt": "2026-06-15T06:58:50.965Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54167673",
       "seenAt": "2026-06-14T06:18:17.528Z"
     },
@@ -2719,5 +2787,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-14T06:18:17.528Z"
+  "updatedAt": "2026-06-15T06:58:50.965Z"
 }
