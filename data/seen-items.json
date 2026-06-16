@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/gws-cli-claude-code-ai-agent-productivity",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/eightpercent-modernizes-ec2-to-ecs-fargate-with-kiro-cli",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/banned-book-library-wifi-smart-light-bulb-hack",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/salesforce-acquires-fin-ai-customer-support",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/yeogi-eotte-buddy-program-onboarding",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/designer-creates-app-with-ai-swiftui",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://toss.tech/article/deadend",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/toss-user-segmentation-tues-v2-analysis",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://toss.tech/article/tues",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/ssg-com-web-accessibility-improvement-journey",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/fox-roku-acquisition-tech-community-reaction",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/40s-non-developer-ai-coding-journey",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/homelab-ai-dev-platform-opencode-gitops",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/linkedin-job-offer-backdoor-attack-analysis",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-usage-metrics-include-active-users",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/hetzner-price-adjustment-ai-boom-community-reaction",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/freebsd-15-laptop-installation-optimization-guide",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/tinywind-game-analysis-wind-physics-feedback",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/chrome-extension-ai-intentional-use",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/trmnl-plugin-storygraph-cloudflare-bypass",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/typst-0-15-release-highlights",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/sloan-bot-flagging-ai-content-policy",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/iroh-1-0-key-based-p2p-networking",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/flutter-q2-survey-reminder",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/letters-to-tomorrow-june-solstice-game-dev",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/crankgpt-manual-power-ai-discussion",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/panda-probe-cloud-managed-agent-engineering",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/autoedit-claude-ai-video-editor-premiere-pro",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-alabama-data-center-investment-community-support",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://devday.kr/article/cpp20-ray-tracer-from-scratch-luz",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
       "url": "https://devday.kr/article/honda-civic-infotainment-evilvalet-vulnerability",
       "seenAt": "2026-06-15T06:58:50.965Z"
     },
@@ -2143,6 +2263,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54190641",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54190709",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54191890",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54191030",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54190778",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54185993",
+      "seenAt": "2026-06-16T07:03:58.346Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177491",
       "seenAt": "2026-06-15T06:58:50.965Z"
     },
@@ -2787,5 +2931,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-15T06:58:50.965Z"
+  "updatedAt": "2026-06-16T07:03:58.346Z"
 }
