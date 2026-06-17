@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/chatbot",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/id-jag-the-hard-way-learning-ai-agent-authz-through-failure",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/ask-dev-community-mod-ai-mlh-acquisition",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-hide-my-email-private-icloud-com-change-controversy",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-models-no-longer-available-new-customers",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-vehicle-motion-cues-car-sickness-discussion",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/slay-the-spire-2-correlated-randomness-analysis",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/balance-screen-time-summer-kids-engagement",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-bunny-net-image-pipeline-optimization",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-llm-performance-and-usability-analysis",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/xreal-aura-reservations-open-awe-2026-news",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-general-availability-pricing",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-organization-enablement",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/spacex-acquires-cursor-ai-coding-editor",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-top-7-featured-posts-week",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/zoona-ai-automated-support-learns-docs-conversations",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/chrome-manifest-v3-end-of-ad-blockers",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-detector-limitations-sloan-flag-case",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/edgee-turbo-models-claude-code-kimi-k2-7-minimax-m2-7",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-security-model-regulation-fix-this-code-prompt",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/mechanical-watch-explained-educational-website-analysis",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/peakroutine-personalized-health-coaching-biomarkers",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-adopts-zlib-rs-performance-safety-intel-bug",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/makersclaw-hire-ai-employees-slack-teams-telegram",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-dmarc-management-general-availability",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-vs-cpp-memory-safety-cve-differences",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/adhd-burnout-realistic-organization-strategies",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/invoko-ai-desktop-helper-mac",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-goals-progress-sharing",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://devday.kr/article/goldfish-ai-knows-your-work-replies-like-you",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
       "url": "https://devday.kr/article/gws-cli-claude-code-ai-agent-productivity",
       "seenAt": "2026-06-16T07:03:58.346Z"
     },
@@ -2263,6 +2383,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49394855",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49399003",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54204852",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54203784",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54199886",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54193248",
+      "seenAt": "2026-06-17T06:40:30.441Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54190641",
       "seenAt": "2026-06-16T07:03:58.346Z"
     },
@@ -2931,5 +3075,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-16T07:03:58.346Z"
+  "updatedAt": "2026-06-17T06:40:30.442Z"
 }
