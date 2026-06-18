@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/midjourney-ultrasound-scanner-spa-medical-innovation",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/firecracker-vm-ec2-nested-virtualization-browser-startup",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/naver-ai-agent-prompt-automation-pipeline",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-financial-docs-reveal-billions-in-losses",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-subscription-cost-vs-value-token-economy",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/volkswagen-blocks-grapheneos-users-api-access",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-science-chaos-funding-political-interference",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-holds-off-blacklisting-deepseek-china-ai-policy",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-cli-read-remote-repo-content",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/rfc-10008-new-http-query-method-analysis",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-flue-agent-framework",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/secret-scanning-updates-june-2026",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-public-skepticism-on-ai-societal-impact",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/8-bit-baseball-gamecast-show-hn",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/enterprise-managed-settings-support-bypass-permission-controls",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/bubbles-new-front-page-for-independent-blogs",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-chat-auto-mode-available",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/limit-open-pull-requests-for-users-without-write-access",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-agent-finder-available",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/epic-games-lore-version-control-system-analysis",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-welcome-thread-new-members",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/dopami-adhd-chore-management-app",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/epic-games-lore-vcs-announcement",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/photobucket-photo-recovery-fee-controversy",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/quartz-ai-email-client-local-mac",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/medical-ai-amie-disease-management-research",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/mozilla-employee-departure-critique-firefox-strategy",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-individual-plan-sign-ups-reopen",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-in-brand-messaging-is-a-turnoff-for-consumers",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
+      "url": "https://devday.kr/article/android-17-intelligence-system-evolution",
+      "seenAt": "2026-06-18T06:24:06.375Z"
+    },
+    {
       "url": "https://toss.tech/article/chatbot",
       "seenAt": "2026-06-17T06:40:30.441Z"
     },
@@ -3075,5 +3195,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-17T06:40:30.442Z"
+  "updatedAt": "2026-06-18T06:24:06.375Z"
 }
