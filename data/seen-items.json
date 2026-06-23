@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/running-glm-5-2-on-local-hardware-requirements-and-performance",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/toss-knowledge-management-beyond-tools",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://toss.tech/article/technical-writing-6",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/genetic-algorithm-prompt-optimization-yahoo-japan-search",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/toss-ai-technical-writing-automation",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/hdfs-platform-integration-challenges-design-decisions",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://toss.tech/article/technical-writing-5",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techverse2026-60",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techverse2026-184",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/flock-camera-police-stalking-warrant-needed",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-growth-stagnation-uncertainty-reflection",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-ai-video-editing-research-vera-void",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/canada-plans-nuclear-renaissance-up-to-10-reactors-by-2040",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-developer-archetype-quiz",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-saas-evolution-agent-friendly-software",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/this-week-in-spring-june-23-2026",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/moebius-0.2b-lightweight-inpainting-model-10b-performance",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-first-week-badges-game-jams",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-document-developer-journey-earlier",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-simplifies-batch-compute-with-kueue",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/oak-git-alternative-for-ai-agents",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/goaccess-server-log-analysis-realtime",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/remembering-tony-kruger-word-spell-check-developer",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/steam-machine-launch-price-performance-debate",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-workers-hyper-http-library-race-condition-bug",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-software-foundation-400k-donation-analysis",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-interactions-api-general-availability",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-4-anthropic-fellows-leapyear-aws-she-builds",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/critique-face-recognition-identity-verification-privacy",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-temporary-accounts-deploy-before-signup",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-era-designer-survival-strategies-london",
       "seenAt": "2026-06-22T07:01:48.546Z"
     },
@@ -2959,6 +3079,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49434131",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49429335",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49428595",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49427363",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54252471",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54248272",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54247522",
+      "seenAt": "2026-06-23T05:45:57.687Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49424831",
       "seenAt": "2026-06-22T07:01:48.546Z"
     },
@@ -3743,5 +3891,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-22T07:01:48.546Z"
+  "updatedAt": "2026-06-23T05:45:57.687Z"
 }
