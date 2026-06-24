@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/50693",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techverse2026-59",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/techverse2026-231",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-tag-agent-identity-access-model",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/giant-trucks-suvs-pedestrian-deaths-analysis",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-natural-disaster-forecasting",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-era-developer-role-shift-methodology-revival",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-api-rest-preview",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/post-quantum-cryptography-eo-analysis",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/f3-data-format-wasm-interoperability-debate",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/ultimate-setup-gadgets-furniture",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/online-surveillance-age-verification-criticism",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-top-7-ai-robot-posts-week",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-github-packages-registry-access",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-cli-terminal-interface-generally-available",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/tikz-editor-wysiwyg-latex-llm-powered",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/new-developer-era-senior-role-redefined",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/hush-open-source-noise-suppression-voice-ai",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-drops-python-3-9-support",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-finds-300-wordpress-plugin-zero-days",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/unlimited-ocr-long-horizon-parsing-memory-solution",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/openart-director-chat-cinematic-videos",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-career-localhost-to-production",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/mythos-security-benchmark-llm-vulnerability-detection",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/thumbmagic-ai-thumbnail-generator-data-driven-design",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/latitude-fix-ai-agent-failures",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-goals-community-sharing-184",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/cotypist-local-ai-voice-autocomplete-mac",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-reasoning-pattern-recognition-dot-puzzle",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://devday.kr/article/vibe-thinker-3b-model-beats-opus-4-5-reasoning",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
       "url": "https://devday.kr/article/running-glm-5-2-on-local-hardware-requirements-and-performance",
       "seenAt": "2026-06-23T05:45:57.687Z"
     },
@@ -3079,6 +3199,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54268106",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49436888",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49444325",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49443615",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49442634",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54267884",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54259665",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54258279",
+      "seenAt": "2026-06-24T05:43:47.840Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49434131",
       "seenAt": "2026-06-23T05:45:57.687Z"
     },
@@ -3891,5 +4043,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-23T05:45:57.687Z"
+  "updatedAt": "2026-06-24T05:43:47.840Z"
 }
