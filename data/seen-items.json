@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ultrasound-brain-imaging-decoding-potential",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-aws-google-cloud-award-hackathon",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-reports-pr-merges-by-ai-adoption-phase",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-government-controls-openai-gpt-5-6-access",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-agent-smart-model-router",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/programming-math-myth-logic-over-equations",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-gpt-5-6-series-launch-and-controversy",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/springer-nature-max-planck-study-removal-controversy",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-wins-community-share",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/mai-code-1-flash-copilot-business-enterprise-release",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/satirical-ai-security-incident-cve-2026-lgtm",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/modulex-ai-workspace-connected-everything",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/inflearn-learning-agent-ai-personalized-learning",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/cve-2026-lgtm-ai-security-incident-report-satire",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-assistant-prompt-injection-experiment-analysis",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-loses-like-kid-save-the-sun-dev",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/sleek-analytics-real-time-visitor-tracking",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-16-3-ai-improvements",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/anatomy-of-failed-nation-state-attack-scam-analysis",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/libre-barcode-project-discussion",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/atlas-ai-policy-compliance",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/framework-10gbps-ethernet-usb-c-complexity-heat-design",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-llm-memory-research-documentation",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-source-security-initiative-community-skepticism",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-spark-personal-ai-agent",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/agent-arena-first-public-arena-ai-agents",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-desktop-3-6-copilot-worktree",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/dataroom-papermark-code-theft-allegations-llm-ethics",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/postgresql-only-financial-system-architecture",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://devday.kr/article/istio-ambient-mode-503-half-open-connection-troubleshooting",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
       "url": "https://techblog.lycorp.co.jp/ko/techverse2026-10",
       "seenAt": "2026-06-26T05:50:59.798Z"
     },
@@ -3439,6 +3559,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49456261",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49462736",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54295406",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54294711",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54294597",
+      "seenAt": "2026-06-27T05:31:12.821Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49459492",
       "seenAt": "2026-06-26T05:50:59.799Z"
     },
@@ -4347,5 +4487,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-26T05:50:59.799Z"
+  "updatedAt": "2026-06-27T05:31:12.821Z"
 }
