@@ -1,6 +1,98 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/digital-ownership-vs-licensing-content-disappearance",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/anonymous-account-mass-drops-0-day-poc-controversy",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/supra-player-compare-sync-videos-fast",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/openra-playtest-new-features-and-community-feedback",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/reddit-anti-spam-internals-peek",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/fintech-engineering-handbook-community-critique",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/simulate-aws-gcp-digitalocean-without-bill",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/cpu-cache-memory-hierarchy-slowest-data-access-patterns",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/retromac-turn-mac-into-time-machine",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/compose-music-voice-nada-app",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-excessive-nil-checks-and-design-flaws",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/folio-ai-claude-powerpoint-steroids",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-opensources-inference-optimizations-faster-generation",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/qapilot-cowork-ai-mobile-automation-qe-productivity",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-hacker-news-on-train-station-flip-board",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-kinetic-energy-scales-quadratically-with-speed",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/text-files-as-user-interface",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/california-3d-printer-surveillance-scheme-controversy",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-allows-anthropic-mythos-5-access-to-trusted-partners-community-critique",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/nlnet-labs-llm-policy-developer-discussion",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/aria-misuse-apg-pitfalls-llm-era-web-accessibility",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://devday.kr/article/guixpkgs-nix-guix-package-integration",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://toss.tech/article/50761",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
       "url": "https://devday.kr/article/ultrasound-brain-imaging-decoding-potential",
       "seenAt": "2026-06-27T05:31:12.821Z"
     },
@@ -3559,6 +3651,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54283574",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49463329",
+      "seenAt": "2026-06-28T05:56:59.533Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49456261",
       "seenAt": "2026-06-27T05:31:12.821Z"
     },
@@ -4487,5 +4587,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-27T05:31:12.821Z"
+  "updatedAt": "2026-06-28T05:56:59.533Z"
 }
