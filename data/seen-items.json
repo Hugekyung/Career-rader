@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/librepods-airpods-liberated-from-apple-ecosystem",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-productivity-paradox-limits-and-solutions",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/glm-5-2-beats-claude-idor-benchmark",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-mri-analysis-claude-opus-experience",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/zanagrams-new-word-puzzle-game-launch",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-chat-control-legislation-privacy-concerns",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/flock-camera-ai-surveillance-privacy-controversy",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-product-usability-testing-wirable",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-1-percent-market-share-ai-chip-war",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/amd-strix-halo-rdma-cluster-setup-ai-performance",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/lyto-ai-browser-automation-agent",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/choosing-public-dns-resolver-guide-community",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/dotient-local-semantic-search-app",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/persona-js-add-web-mcp-native-ai-chat-frontend",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/victorialogs-columnar-log-storage-architecture",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/getcompress-lossless-media-compression",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/discode-ai-100-plus-ai-models-one-interface",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/marfa-public-radio-sleep-podcast-fundraiser",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/town-square-website-presence-layer-community-analysis",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/asian-ai-startups-launch-mythos-like-models-and-face-scrutiny",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/learn-game-decompilation-with-decomp-academy",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/analysis-of-suspicious-discontinuities-across-various-fields",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/public-webcam-map-privacy-controversy",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/adrafinil-macos-app-keeps-mac-awake-for-ai-agents",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/oxcaml-zero-alloc-compiler-feature-languages-should-steal",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/prism-impure-functional-language-typed-effects",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/epilogue-professional-book-writing-app",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/elixir-guards-unexpected-behavior-analysis",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-7-2-anonymous-pipe-performance-boost",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://devday.kr/article/openzl-high-performance-specialized-data-compression",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
       "url": "https://devday.kr/article/digital-ownership-vs-licensing-content-disappearance",
       "seenAt": "2026-06-28T05:56:59.533Z"
     },
@@ -3651,6 +3771,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54303167",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49472180",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49473461",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49473017",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49471450",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49468671",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49466973",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54303644",
+      "seenAt": "2026-06-29T06:19:14.524Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54283574",
       "seenAt": "2026-06-28T05:56:59.533Z"
     },
@@ -4587,5 +4739,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-28T05:56:59.533Z"
+  "updatedAt": "2026-06-29T06:19:14.524Z"
 }
