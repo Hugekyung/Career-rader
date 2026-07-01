@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/geonliq-onboarding-mission-event-ai-content-optimization",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/knoppix-linux-live-cd-developer-origins",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/nano-banana-2-lite-launch-performance-and-cost-analysis",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-log-data-centric-architecture",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-science-launch-and-scientific-community-reaction",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/data-center-boom-sparks-electricity-price-hikes-and-conservation-calls",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-prompt-steganography-controversy",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-sonnet-5-agentic-ai-price-performance",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-software-iphone-moment-future",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/future-of-ai-local-open-gemma-4",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-sonnet-5-available-github-copilot",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-engineer-world-fair-community-evolution",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-steganography-api-reseller-detection",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/v0-design-systems-2-0-build-components-patterns",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-coverage-merge-protection-for-pull-requests",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/release-sidebar-navigation-asset-download-counts",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-hackathon-winners-35k-cash-credits",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/dayflow-open-source-auto-journal-for-developer-promotion",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/jetbrains-ai-assistant-copilot-agent-integration",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-open-source-license-compliance-public-preview",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/supafax-email-native-assistant-learns-work",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/learning-agent-backend-design-spring-virtual-thread",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/mcdonalds-immediate-risk-reduction-cybersecurity-resilience",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-access-cost-hidden-truth-exploitation-privacy",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/akiflow-manage-tasks-calendars-ai-tools",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-stops-inferring-npmrc",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-bedrock-agentcore-agentops-observability-evaluation-lifecycle",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-agentops-amazon-bedrock-agentcore-foundation-gateway",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-dependabot-security-alerts-data-retention-policy",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
+      "url": "https://devday.kr/article/writers-exhausted-by-ai-questions-creativity-decline",
+      "seenAt": "2026-07-01T06:07:59.772Z"
+    },
+    {
       "url": "https://devday.kr/article/june-2026-dev-report-ai-detector-extension",
       "seenAt": "2026-06-30T05:48:44.809Z"
     },
@@ -3891,6 +4011,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49487421",
+      "seenAt": "2026-07-01T06:07:59.773Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49484928",
+      "seenAt": "2026-07-01T06:07:59.773Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54334127",
+      "seenAt": "2026-07-01T06:07:59.773Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54332224",
+      "seenAt": "2026-07-01T06:07:59.773Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54322350",
+      "seenAt": "2026-07-01T06:07:59.773Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49443601",
       "seenAt": "2026-06-30T05:48:44.810Z"
     },
@@ -4907,5 +5047,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-06-30T05:48:44.810Z"
+  "updatedAt": "2026-07-01T06:07:59.773Z"
 }
