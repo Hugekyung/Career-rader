@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/exapunks-programming-puzzle-game-analysis",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-agent-creation-knowhow",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-gemini-models-deprecation",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/virginia-bans-sale-of-geolocation-data",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/spain-blacklists-palantir-from-companies",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/podman-v6-release-docker-comparison",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-cli-github-actions-no-pat",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/how-to-ask-for-help-from-strangers",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/peertube-decentralized-video-platform-analysis",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-agent-session-streaming-public-preview",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-6-9-luks-key-memory-retention-regression",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-engineer-worlds-fair-context-connections-game",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/gmail-photo-recovery-desktop-app-mail-memories",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/git-ignore-files-beyond-gitignore",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-ai-credit-pool-cost-center-management",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/zero-fs-log-structured-filesystem-for-s3-analysis",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/macro-unifies-work-one-app-shared-memory",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-employee-farewell-management-ethics-critique",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/solaris-ai-adoption-upskilling-platform",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/pixfit-creative-to-ad-format-automation",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-china-doesnt-make-jet-engines-analysis",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/needle-proactive-gtm-agent-slack-teams",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/jj-v0-43-0-release-notes-and-new-features",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-kimi-k2-7-integration-pricing-controversy",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/context-dev-api-scrape-enrich-extract-internet",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/modern-app-enshittification-developer-critique",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/wordgard-0-1-release-rich-text-editor",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/bring-back-crappy-forums-nostalgia-and-modern-social-media",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-android-developer-verification-program-criticism",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-line-app-video-call-without-web-engineer-liff-planet",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
       "url": "https://devday.kr/article/cloudflare-new-ai-traffic-management-options",
       "seenAt": "2026-07-02T05:35:18.779Z"
     },
@@ -4091,6 +4211,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49508070",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54355049",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49506574",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49504118",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49503648",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54358799",
+      "seenAt": "2026-07-03T05:31:39.459Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49497087",
       "seenAt": "2026-07-02T05:35:18.779Z"
     },
@@ -5191,5 +5335,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-02T05:35:18.779Z"
+  "updatedAt": "2026-07-03T05:31:39.460Z"
 }
