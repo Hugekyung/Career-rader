@@ -1,6 +1,90 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/vida-ai-learns-your-work-automates-tasks",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/co2-levels-impact-decision-making-meeting-rooms",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/searxng-privacy-metasearch-engine-analysis",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-ai-leanstral-1-5-formal-verification-ai",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/amd-gpu-ai-inference-cost-performance-analysis",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/factory-essence-community-perspectives",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/costco-vs-amazon-logistics-and-consumer-trends",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/magit-4-6-release-emacs-git-interface",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/self-maintaining-homelab-automation-strategies",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/european-parliament-member-pegasus-spyware-infection",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/guide-running-sota-llms-locally-hardware-cost-performance",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/wordgard-new-rich-text-editor-from-prosemirror-creator",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/safari-mcp-server-web-developer-automation",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/devrel-burnout-industry-shift-personal-transition",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/valve-opens-steam-machine-e-ink-display-for-community-diy",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-task-manager-nxt-natural-language",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/lobsters-14th-anniversary-community-growth-and-value",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/osloq-ai-agent-reproduces-github-issues",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/activitypub-implementation-challenges-fedify-framework",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-create-mac-apps-chatting",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://devday.kr/article/tetris-rebirth-quest-antithesis-fuzzing",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
       "url": "https://devday.kr/article/archify-understand-software-browser",
       "seenAt": "2026-07-04T05:24:54.936Z"
     },
@@ -4303,6 +4387,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49512722",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54360040",
+      "seenAt": "2026-07-05T05:43:12.845Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49511250",
       "seenAt": "2026-07-04T05:24:54.936Z"
     },
@@ -5451,5 +5543,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-04T05:24:54.936Z"
+  "updatedAt": "2026-07-05T05:43:12.845Z"
 }
