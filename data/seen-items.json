@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/flipper-zero-firmware-development-community-engagement-update",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/openprinter-open-source-repairable-printer-analysis",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/game-ownership-physical-vs-digital-rights",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/introduction-compilers-language-design-online-textbook",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-council-chat-control-bill-controversy",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/organic-maps-privacy-focused-offline-app-analysis",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/circlechat-ai-agent-collaboration-workspace",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/shadcn-ui-defaults-to-base-ui-github-registries",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/mentiondrop-mcp-ai-agent-live-market-signals",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/trycase-disposable-test-environments-ai-coding-agents",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/endl-global-operating-account-fiat-stablecoins-cards",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/docs-for-humans-and-ai",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/sajo-systems-agentic-ai-erp-strands-kiro",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-package-management-moves-from-compiler-to-build-system",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/tencent-workbuddy-ai-agent-office-productivity",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/api-vs-abi-2004-discussion-revisited",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/button-ux-animation-blocking-accessibility",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/miricanvas-opensearch-3-3-upgrade-performance-improvement",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/miricanvas-dual-vector-search-opensearch-optimization",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/button-job-mobile-ui-animation-debate",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt-5-5-codex-fixed-token-clustering-performance-concerns",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/scheme-hoot-wasm-compilation-web-execution",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/command-conquer-generals-native-port-fable-ai-macos-ios",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-tool-call-performance-degradation-analysis",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/returning-to-zig-rust-comparison-and-community-discussion",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-books-scan-data-bounty-copyright-debate",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/recruitment-process-audacity-developer-experiences",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-htop-top-explanation-alternatives",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/youtube-ai-prompt-injection-private-video-leak",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-kernel-bad-epoll-vulnerability-root-privilege-escalation",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
       "url": "https://devday.kr/article/vida-ai-learns-your-work-automates-tasks",
       "seenAt": "2026-07-05T05:43:12.845Z"
     },
@@ -4387,6 +4507,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54377473",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49520283",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49518268",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49519955",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49516822",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54381098",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54378672",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54376802",
+      "seenAt": "2026-07-06T06:04:07.711Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49512722",
       "seenAt": "2026-07-05T05:43:12.845Z"
     },
@@ -5543,5 +5695,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-05T05:43:12.845Z"
+  "updatedAt": "2026-07-06T06:04:07.711Z"
 }
