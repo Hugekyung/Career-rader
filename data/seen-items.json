@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ilya-sutskever-ml-papers-beginner-guide-analysis",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-weekend-challenge-july-launch",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/personal-website-monorepo-astro-git",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-chat-control-privacy-surveillance-debate",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-writing-limitations-rlhf-mode-collapse",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-knockoff-filter-extension-analysis",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-top-7-posts-ai-llm-optimization",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-crisis-resilience-natural-disasters",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-enterprise-cloud-per-user-budget-billing-ui",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/98-percent-is-not-enough-percentage-pitfalls",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/overcome-time-blindness-lock-in-app-focus",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-secret-scanning-extended-metadata-multipart-validation",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/new-satellites-fight-wildfires",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/shine-as-introvert-loud-tech-world",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-emaily-ai-inbox-writes-like-you-autopilot-replies",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-restrict-pr-review-dismissal-rulesets",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-app-available-all-plans",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/streetcomplete-improving-openstreetmap-with-quests",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/dupely-trust-layer-online-shopping",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-billing-preview-app-retiring-august-3",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/master-local-fine-tuning-gemma-trainer",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/mira-ai-interviews-read-feelings",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/pypi-trusted-publishing-authentication-not-trust",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/katalyst-ai-agent-salesforce-pipeline",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/nethack-community-app-surprising-depth",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/scribble-network-ai-brand-recommendation",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agents-collect-peer-reviews-proof-of-work",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/home-dna-sequencing-privacy-ai-debate",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/clippy-introduces-contributor-review-system-to-address-shortage",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
+      "url": "https://devday.kr/article/ternlight-7mb-browser-embedding-model-wasm",
+      "seenAt": "2026-07-08T04:49:42.605Z"
+    },
+    {
       "url": "https://devday.kr/article/openwrt-one-open-hardware-router-analysis",
       "seenAt": "2026-07-07T05:44:55.409Z"
     },
@@ -4627,6 +4747,42 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49536708",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49538897",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49530537",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49537494",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49537065",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49536779",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49529119",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54405280",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54395437",
+      "seenAt": "2026-07-08T04:49:42.606Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54393163",
       "seenAt": "2026-07-07T05:44:55.409Z"
     },
@@ -5843,5 +5999,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-07T05:44:55.409Z"
+  "updatedAt": "2026-07-08T04:49:42.606Z"
 }
