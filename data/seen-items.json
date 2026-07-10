@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://techblog.lycorp.co.jp/ko/applying-e2ee-to-apache-kafka-in-line-app",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-army-logistics-vulnerabilities-modern-warfare",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-engineering-essence",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-postgres-rewrite-passes-regression-tests",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/grok-4-5-vs-gpt-5-6-government-review-cost-performance",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/leap-second-introduction-halted-2026",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/glm-5-2-local-run-c-engine-colibri",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/hy3-llm-release-performance-and-community-debate",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/june-solstice-game-jam-winners-announced",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatgpt-work-launch-confusion-and-potential",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-muse-spark-1-1-benchmark-controversy-pricing-critique",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt-5-6-model-launch-performance-efficiency-community-reaction",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-generated-code-deletion-learning-swift",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/it-burnout-ai-content-quality-career-dilemma",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-parliament-approves-chat-control-1-0-privacy-debate",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-gpt-5-6-models-available-github-copilot",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-content-authenticity-production-cost",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/lispr-hold-key-speak-write-anywhere",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-cloud-launches-alphaevolve-ai-code-optimization-agent",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-repo-targeting",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/mitchell-hashimoto-interview-terminal-zig-open-source",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-user-windows-11-one-month-experience",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-quick-fix-panic-psychology",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/fablecut-ai-browser-video-editor",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/toyo-ai-executive-assistant-imessage",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-1-97-0-release-analysis",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-repository-overview",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/opper-ai-european-ai-gateway-for-agents",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/18-words-game-developer-feedback-analysis",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://devday.kr/article/perfai-security-fix-vibe-app-vulnerabilities-1-prompt",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
       "url": "https://devday.kr/article/yamanote-fun-tokyo-train-soundscape-pwa",
       "seenAt": "2026-07-09T05:44:59.483Z"
     },
@@ -4867,6 +4987,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49553115",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49549502",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49548495",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54430186",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54430166",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54427063",
+      "seenAt": "2026-07-10T05:41:48.700Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54418467",
       "seenAt": "2026-07-09T05:44:59.483Z"
     },
@@ -6127,5 +6271,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-09T05:44:59.483Z"
+  "updatedAt": "2026-07-10T05:41:48.700Z"
 }
