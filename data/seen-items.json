@@ -1,6 +1,118 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-solves-cycle-double-cover-conjecture",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/invisible-tools-developer-productivity-and-tool-philosophy",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/quadrf-open-source-hardware-wifi-drone-detection",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-code-maintainability-human-developer-perspective",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-code-review-attention-fatigue",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/late-bronze-age-collapse-analysis",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt-5-6-intelligence-efficiency-standard",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/declarative-ui-runtime-luciacore-frontend-complexity",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/rest-api-per-user-budget-states",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatcut-ai-video-editor-chatgpt-desktop-web",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-digital-business-card-connectmachine-2-0",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/scarlett-ai-coworker-slack-imessage",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/improving-smart-tiered-cache-public-cloud-regions",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/sim-open-source-ai-agent-workflow-workspace",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/plugthis-build-chrome-extensions-english-description",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-weekend-challenge-passion-edition-prizes",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-mobile-copilot-session-filters-sorting",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-engineer-guide-fable-5-usage",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/lisp-language-pros-cons-developer-debate",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/mitchell-hashimoto-ghostty-zig-interview",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/toksignal-paid-service-transition-ai-chat-analysis",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/oracle-database-aws-network-transit-gateway-architecture",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/cpp2rust-automatic-translation-cpp-to-safe-rust",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/damn-interesting-future-content-value",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/line-kafka-end-to-end-encryption-implementation",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/cognition-claude-fable-5-ai-engineering-frontier",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt-live-full-duplex-voice-chatgpt",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-pull-requests-dashboard-generally-available",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
       "url": "https://techblog.lycorp.co.jp/ko/applying-e2ee-to-apache-kafka-in-line-app",
       "seenAt": "2026-07-10T05:41:48.700Z"
     },
@@ -4987,6 +5099,42 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49558943",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49559788",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49558403",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54432152",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49560553",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49557823",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54434547",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54433302",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54433265",
+      "seenAt": "2026-07-11T04:45:23.934Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49553115",
       "seenAt": "2026-07-10T05:41:48.700Z"
     },
@@ -6271,5 +6419,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-10T05:41:48.700Z"
+  "updatedAt": "2026-07-11T04:45:23.934Z"
 }
