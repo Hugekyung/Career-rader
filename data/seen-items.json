@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-coding-energy-consumption-nigeria-disparity",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/lobste-rs-migrates-to-sqlite-performance-and-cost-wins",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-game-super-dario-community-reaction",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/human-cost-delayed-layoffs-work",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-speechanalyzer-benchmarked-against-whisper",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-knockoff-filter-tool",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/lapd-ends-flock-surveillance-contract-over-privacy-concerns",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/voxel-tokyo-real-time-japanese-learning-experience",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/myth-post-documentation-era-ai-importance",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/emacs-declares-intent-to-reject-llm-contributions",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/swiss-agov-login-bug-azerty-keyboard-analysis",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/grok-ai-user-directory-upload-controversy-security-analysis",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-content-flood-developer-community-concerns",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/marked-ql-instant-markdown-previews-finder",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/separate-sso-organizations-settings-github",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-dom-docx-html-to-editable-word-docs",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-hacking-challenge-rewards",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/istio-ambient-mode-507-error-istiod-disconnected-detection",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-optimistic-ui-concurrency-fix",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/loomal-monetize-mcp-server-no-skim",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/ninio-3-4-sea-surface-temperature-spike-climate-change-alert",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/osaurus-local-open-source-ai-agent-mac",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-precursor-agentic-behavior-detection-client-side-signals",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/stradvision-aws-autonomous-driving-ai-data-pipeline",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/cyberpunk-comics-manga-graphic-novels-discussion",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/agentkey-live-data-marketplace-for-agents",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-security-release-program",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/crates-io-development-update-code-viewer-account-separation",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-creator-criticizes-bun-rust-rewrite-amidst-ai-marketing-debate",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-media-buyer-automates-ad-campaigns",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-coding-agents-modernize-math-apps",
       "seenAt": "2026-07-13T05:03:14.379Z"
     },
@@ -5243,6 +5363,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49573772",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49569953",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54447969",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49572338",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49571820",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54458667",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54456966",
+      "seenAt": "2026-07-14T04:31:08.770Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49567091",
       "seenAt": "2026-07-13T05:03:14.379Z"
     },
@@ -6603,5 +6751,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-13T05:03:14.379Z"
+  "updatedAt": "2026-07-14T04:31:08.770Z"
 }
