@@ -1,6 +1,90 @@
 {
   "seenArticles": [
     {
+      "url": "https://techblog.lycorp.co.jp/ko/developing-harmfulness-detection-model-for-open-chat-metadata",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-internal-llm-gateway-on-amazon-bedrock",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/linus-torvalds-on-llm-usage-in-kernel-development",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/one-more-letter-game-community-feedback",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/jurassic-park-computers-technical-details-analysis",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/vancouver-pd-quick-escape-feature-analysis",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/c-strings-50-year-mistake-analysis",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/usb-c-maximalism-travel-convenience-and-challenges",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-logical-decisions-kill-products",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/ssg-com-promotion-service-memory-usage-analysis",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/low-resource-computing-2026-past-inspiration-future",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-cloudwatch-opentelemetry-promql-support-ga",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-ai-memory-heist-personal-data-leak",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/cursor-ide-0day-vulnerability-and-lack-of-response",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-graveyard-ai-eulogies-3d-cemetery-side-projects",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/vibe-coding-essential-concepts",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/base44-claude-fable-5-advanced-engineering-ai",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-jetbrains-byok-customization-expansion",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/smart-appliance-malware-web-scraping-threat-analysis",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-assistants-and-the-loss-of-shared-understanding",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://devday.kr/article/qr-code-swastika-avoider-controversy",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
       "url": "https://devday.kr/article/aws-multi-account-nacl-automation-operations-improvements",
       "seenAt": "2026-07-16T04:42:09.909Z"
     },
@@ -5603,6 +5687,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49598901",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49599650",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54490017",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49595629",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49601355",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49601222",
+      "seenAt": "2026-07-17T04:45:11.882Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54477189",
       "seenAt": "2026-07-16T04:42:09.909Z"
     },
@@ -7091,5 +7199,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-16T04:42:09.909Z"
+  "updatedAt": "2026-07-17T04:45:11.882Z"
 }
