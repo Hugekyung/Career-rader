@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-impact-on-stackoverflow-decline",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-solves-30-year-convex-optimization-gap",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/acebuilder-build-landing-pages-aceternity-ui",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/openmarkdown-ai-co-editing-markdown-editor",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/mirage-saas-clickable-demo-90-seconds",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/lg-monitors-silent-software-installation-via-windows-update",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/live-demo-open-source-product-demo-alternative",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/internet-anonymity-foss-future-discussion",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coworker-clark-cloud-computer",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/ikea-complexity-index-user-experiences",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/zoo-data-ai-agent-data-layer",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/jpeg-progressive-decoding-retro-animation-technique",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-search-optimization-guide-real-world-analysis",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/gitroot-self-hosted-git-forge-all-data-in-git",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/zilog-z80-processor-50th-anniversary-history-and-impact",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/sqlite-production-operation-lessons-learned",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/progressive-jpeg-animation-technique",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-openai-build-week-ai-fellowship-founder-residency-free-ai-dev-course",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/kaiser-nurses-ai-surveillance-patient-care-impact",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-repository-level-usage-metrics-generally-available",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-app-usage-metrics-api-available",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/h-e-b-enterprise-haskell-adoption-case-study",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-in-house-llm-serving-architecture",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-code-review-customization-improvements",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/lone-lisp-interview-linux-syscalls",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k3-pelican-benchmark-analysis",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-waf-protects-wordpress-vulnerabilities",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/pebble-mega-update-july-2026-shipping-software-feedback",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/learning-sqlite-production-django-web",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-coding-vibe-coding-vs-agentic-engineering",
+      "seenAt": "2026-07-19T04:52:48.224Z"
+    },
+    {
       "url": "https://techblog.lycorp.co.jp/ko/developing-harmfulness-detection-model-for-open-chat-metadata",
       "seenAt": "2026-07-17T04:45:11.882Z"
     },
@@ -7199,5 +7319,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-18T04:28:36.676Z"
+  "updatedAt": "2026-07-19T04:52:48.225Z"
 }
