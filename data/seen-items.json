@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/kimi-work-ai-desktop-agent-review-and-controversy",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-code-ownership-responsibility-engineering",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-merges-vulkan-video-decoding-support",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-internal-dns-ga",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-growth-burden-vs-glory",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-ai-credit-pool-billing-ui",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/china-open-weights-ai-strategy-vs-us-closed-approach",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/romania-land-registry-database-hacked-analysis",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/layerproof-mylar-ai-product-video-creation",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-ai-credit-usage-tracking-update",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-us-sensitive-data-sharing-visa-waiver-controversy",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/loova-ads-studio-ai-ads-convert",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/airport-simulator-game-community-feedback",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/debugging-developer-mindset-gardening",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/skippr-ai-live-ai-employee-for-user-support",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/ocaml-gc-rust-tree-borrows-performance-boost",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-generally-available",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt5-6-wordpress-zero-day-rce-exploit",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/replay-qa-find-bugs-before-users",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/gitolite-git-hosting-experience-and-evaluation",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/xiaomi-humanoid-robot-ai-capabilities-and-community-debate",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/nautis-ai-native-operating-system-for-founders",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/moonshine-linux-game-streaming-solution",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/fuzzy-ai-warm-prospects-before-outreach",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/orion-browser-kagi-privacy-extensions",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/smart-bed-temperature-api-client-development",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-fable-jacobi-conjecture-counterexample-llm",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-product-team-redesign-role-redefinition",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/load-balancer-dsr-xdp-ebpf-architecture",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://devday.kr/article/rakuten-builds-agents-overnight-claude-fable-5",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-advice-reduces-accuracy-boosts-confidence",
       "seenAt": "2026-07-20T05:09:10.088Z"
     },
@@ -5923,6 +6043,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49613957",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54517546",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49618964",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49615385",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49614412",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54517870",
+      "seenAt": "2026-07-21T04:50:18.918Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49607487",
       "seenAt": "2026-07-20T05:09:10.088Z"
     },
@@ -7471,5 +7615,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-20T05:09:10.088Z"
+  "updatedAt": "2026-07-21T04:50:18.918Z"
 }
