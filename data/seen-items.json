@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/98-css-windows-98-style-framework",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-amazon-connect-ai-agent-aicc-builder",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-graviton-eks-cost-optimization",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-data-management-principles-william-inmon",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-cloud-agent-linear-ga",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/software-rendering-500-lines-cpp",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-full-stack-web-development-topcoat",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-bots-cripple-thenumbers-com-legacy-web-vulnerabilities",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-mcp-server-supports-latest-spec",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/palmier-pro-ai-powered-open-source-macos-video-editor",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-cache-response-rules-introduction",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/multi-select-fields-projects-issues-public-preview",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-government-chinese-ai-model-regulation-controversy",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-actions-ci-cd-explained-robot-assembly-line",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/handwriting-brain-benefits-and-digital-comparison",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-companies-hidden-debt-financial-risk",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/runevr-agentic-project-management-for-creatives",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/understand-simd-beyond-complexity",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-issues-agent-automation-controls-public-preview",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/askcodi-orchestrate-ai-agents-reduce-cost",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/promptql-multiplayer-ai-slack-alternative",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/crawlraven-seo-hub-gsc-ga4-crawl",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/podcastorai-ai-twin-video-podcast-hosting",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/teable-3-0-ai-spreadsheet-business",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-80-lines-code-no-framework",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/understanding-ai-economy-google-atlas-report",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-account-selfie-sign-in-introduction",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-claude-apps-gateway-configuration-guide",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/frontend-backend-team-integration-daangn-ad",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://devday.kr/article/web-text-justification-microtypography-discussion",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
       "url": "https://devday.kr/article/readkinetic-local-first-speed-reader-hn-discussion",
       "seenAt": "2026-07-23T04:55:16.875Z"
     },
@@ -6263,6 +6383,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54549115",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54545872",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54554393",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54552248",
+      "seenAt": "2026-07-24T04:51:22.196Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54541649",
       "seenAt": "2026-07-23T04:55:16.875Z"
     },
@@ -7891,5 +8027,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-23T04:55:16.875Z"
+  "updatedAt": "2026-07-24T04:51:22.196Z"
 }
