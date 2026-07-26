@@ -1,6 +1,106 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/chatgpt-personal-health-companion",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/capsomnia-keep-mac-awake-lid-closed",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/opencomputer-easy-managed-agent-deployment",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/second-brain-ai-memory-mac-windows",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/fluentdb-ai-database-client-mac",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/shell-colon-hidden-uses-parameter-expansion",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/heard-claude-code-codex-voice-layer",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/android-on-device-adb-restriction-debate",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/opus-5-tops-ai-analysis-leaderboard-deep-dive",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/software-engineering-not-special-vs-traditional-engineering",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/postgres-listen-notify-scales-optimization",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/irgc-claims-amazon-bahrain-data-center-destroyed",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/hormuz-strait-blockade-oil-trade-simulation",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/chrome-gemini-shortcut-hijack-controversy",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-software-keeps-getting-worse-in-ai-era",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/haikuos-half-life-2-native-execution-success",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-1-26-gc-green-tea-heap-analysis",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/big-tech-opposes-open-weight-ai-regulation",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-5-release-community-analysis",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/harnessrouter-integrate-ai-agents-one-api",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/bgp-origin-attribute-manipulation-internet-routing-impact",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/flux-3-mimic-video-model-world-representation-robot-control",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/understanding-llm-context-window-and-rag",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-5-available-github-copilot",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
+      "url": "https://devday.kr/article/security-camera-firmware-github-token-leak-dod-ip",
+      "seenAt": "2026-07-26T05:01:49.652Z"
+    },
+    {
       "url": "https://devday.kr/article/claude-code-stateful-image-editing-gemini-interactions-api-mcp",
       "seenAt": "2026-07-25T04:47:41.967Z"
     },
@@ -6483,6 +6583,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49649920",
+      "seenAt": "2026-07-26T05:01:49.653Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54557173",
+      "seenAt": "2026-07-26T05:01:49.653Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49639113",
       "seenAt": "2026-07-25T04:47:41.967Z"
     },
@@ -8155,5 +8263,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-25T04:47:41.967Z"
+  "updatedAt": "2026-07-26T05:01:49.653Z"
 }
