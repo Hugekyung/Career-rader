@@ -1,6 +1,78 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/purebox-ai-review-ai-powered-gmail-inbox-cleanup",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/sf-apartment-finder-tinder-for-rentals",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/running-28-9m-llm-on-8-dollar-microcontroller",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/shoplazza-athena-commerce-orchestrator",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/shell-colon-hidden-uses-script-conciseness",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/jetzero-blended-wing-aircraft-analysis",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/touchgrass-context-aware-break-reminder-macos",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-5-context-engineering-new-rules",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-golf-course-map-free-osm",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/hiring-ghosting-phenomenon-analysis",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/transistor-animations-semiconductor-simulation",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/brolly-plain-text-weather-forecast-site",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/memory-safety-absolutism-rust-fil-c-zig-debate",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-weight-ai-kubernetes-moment-ecosystem-competition",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/harddrive-full-developer-experience-and-insights",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-by-example-introduction-to-zig-language",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/android-adb-restriction-impact-developers",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://devday.kr/article/stinkpot-sqlite-shell-history-searcher",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
       "url": "https://devday.kr/article/chatgpt-personal-health-companion",
       "seenAt": "2026-07-26T05:01:49.652Z"
     },
@@ -6583,6 +6655,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54572020",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49655982",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54571178",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49658722",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49658003",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49655996",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54571707",
+      "seenAt": "2026-07-27T05:27:06.157Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49649920",
       "seenAt": "2026-07-26T05:01:49.653Z"
     },
@@ -8263,5 +8363,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-26T05:01:49.653Z"
+  "updatedAt": "2026-07-27T05:27:06.157Z"
 }
