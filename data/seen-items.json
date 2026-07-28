@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/bff-server-sse-redesign-communication-structure",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-kddi-launch-ai-startup-support-japan",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/misago-swaps-react-for-htmx-architecture-shift",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-junior-developer-anxiety-new-path",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-ceo-position-on-open-weights-models",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-dmca-scraping-lawsuit-rejected",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/passkeys-explained-simply-security-authentication",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/july-2026-dev-report-community-spotlight-accomplishments",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/feynobg-background-removal-model-and-nobg-library-release",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/manage-github-copilot-app-access-policy",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-3-month-writing-journey",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/how-terminal-sharing-tools-put-shell-in-browser",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-enterprise-managed-settings-app-cloud-agent",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k3-technical-report-ai-community-analysis",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-ama-senior-engineer-career-transition",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/superfile-modern-visual-terminal-file-manager",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/pinterest-uics-retention-recommendation-system",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/robynn-ai-self-learning-websites",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/bun-rust-rewrite-ai-cost-completion-controversy",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-5-near-fable-intelligence-half-price",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/kakao-kanana-2-slm-development-on-device-ai",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-companies-shredding-rare-books-copyright-controversy",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-cleanup-agent-toolkit-automation",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/databox-ai-analyst-generate-reports",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-sourcing-privacy-proxy-cli",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/webhound-research-engine-for-ai-agent",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/vercel-scriptc-typescript-native-compiler",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/adomate-data-driven-ad-creation-at-scale",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/most-googlebots-are-fake-analysis",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k3-release-analysis-community-discussion",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
       "url": "https://devday.kr/article/purebox-ai-review-ai-powered-gmail-inbox-cleanup",
       "seenAt": "2026-07-27T05:27:06.157Z"
     },
@@ -6655,6 +6775,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54580789",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54583472",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54576109",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54575179",
+      "seenAt": "2026-07-28T04:45:44.227Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54572020",
       "seenAt": "2026-07-27T05:27:06.157Z"
     },
@@ -8363,5 +8499,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-27T05:27:06.157Z"
+  "updatedAt": "2026-07-28T04:45:44.227Z"
 }
