@@ -1,6 +1,122 @@
 {
   "seenArticles": [
     {
+      "url": "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/pally-ai-assistant-text-messages",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-visual-studio-july-update",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-flow-artists-short-films",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-robotics-er-2-robot-ai-release",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/nina-step-by-step-in-product-user-guide",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/no-code-build-more-ai-era-builder",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-usage-tracking-langwatch",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/memmy-agent-ai-memory-hub",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/cdnjs-cloudflare-developer-platform-migration",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/angular-patch-update-broke-internationalization",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-search-console-prompt-analytics-citation-mapping",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k3-ai-creative-thinking-limits",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/ski-free-voice-coding-claude-codex",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/cold-email-success-failure-authenticity-networking",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-productivity-mirage-tools-vs-thinking",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-human-transformation-humor-and-critique",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/genspark-workspace-6-0-review-ai-hardware-agents",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-internal-information-context-management",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://toss.tech/article/llm_context_topic",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/standardize-ai-coding-agent-context-file-claude-md-to-agents-md",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/darktable-open-source-photo-editor-review",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/danggeun-aws-cloudhsm-signing-key-management",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/danggeun-aws-cloudhsm-architecture-access-control",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/danggeun-aws-cloudhsm-signature-key-management",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-physical-ai-data-pipeline",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/geonique-ai-citation-analysis-vol2",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-companies-recruiting-skilled-trades-trend-analysis",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-frontier-lab-intrusion-analysis",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
       "url": "https://devday.kr/article/toss-builds-device-farm-nebula",
       "seenAt": "2026-07-30T04:38:03.787Z"
     },
@@ -7015,6 +7131,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54616945",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49690224",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49685243",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54616294",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54614631",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54607677",
+      "seenAt": "2026-07-31T05:04:12.849Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49676791",
       "seenAt": "2026-07-30T04:38:03.787Z"
     },
@@ -8795,5 +8935,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-07-30T04:38:03.787Z"
+  "updatedAt": "2026-07-31T05:04:12.849Z"
 }
