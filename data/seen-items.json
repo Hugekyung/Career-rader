@@ -1,6 +1,86 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/terminalwidget-script-output-widgets",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/agentmicro-live-codex-task-status-macos-menubar",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-ai-solves-10-math-theoretical-cs-problems",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/yamanote-3d-ride-tokyo-line-virtual-world",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-v4-flash-0731-release-agent-intelligence",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-code-generation-limitations-production-readiness",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/port22-manage-ai-coding-agents-phone",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-follow-up-agent-missed-email-opportunities",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/kimi-k3-2.78t-parameters-run-on-consumer-laptop-with-waste-engine",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/elevator-algorithms-complexity-and-real-world-analysis",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/custom-browser-engine-passes-acid-3-test",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/a1mobilsoft-automation-journey-part2-agents-human-vs-ai",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/a1mobilsoft-operation-inquiry-automation-part1-architecture",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-mediatailor-ssai-multi-cdn-security",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-mediatailor-ssai-multi-cdn-dynamic-switching-part1",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-refactoring-experiment-token-cost-reduction",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-writing-asd-ste100-standard-agent-skill",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/grafana-llm-agent-srelens-development",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-play-android-age-verification-api-global-expansion",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-distillation-censorship-transfer-experiment",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
       "url": "https://devday.kr/article/yc-launches-qm-multiplayer-agent-harness-for-work",
       "seenAt": "2026-08-01T04:56:10.646Z"
     },
@@ -7251,6 +7331,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54621955",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49695132",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49697549",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49686537",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54621461",
+      "seenAt": "2026-08-02T04:57:47.400Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49694735",
       "seenAt": "2026-08-01T04:56:10.646Z"
     },
@@ -9095,5 +9195,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-01T04:56:10.646Z"
+  "updatedAt": "2026-08-02T04:57:47.400Z"
 }
