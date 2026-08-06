@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/rag-copilot-cant-count-llm-aggregate-limitations",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/consumer-resistance-to-ai-content-and-creator-guidelines",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-named-visionary-sase-sse-reports",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-collaboration-workflow-critical-thinking",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/zed-deltadb-community-skepticism-analysis",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-deepmind-leadership-changes-ai-strategy-shift",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/disability-dongle-silicon-valley-critique-web-accessibility",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-automates-scientific-discovery-loop",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-deepmind-ceo-transition-key-personnel-departures-ai-competition",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-os-open-source-ai-agent-platform",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/kiro-crew-open-source-agentic-development-workspace",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/military-gps-jamming-civilian-plane-crash-analysis",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/agent-access-model-aam-zero-trust-ai-security",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/ngrok-ai-gateway-unified-private-access-models",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/rethinking-work-cloudflare-os-ai-platform",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-os-open-platform-agents-apps-work",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/writeguard-fine-grained-controls-mcp-servers",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-behavior-anomaly-detection-identity-analytics",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/bot-traffic-management-and-resource-waste-strategies",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/nixpkgs-self-expiring-overrides",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/discover-startups-hiring-near-you-on-map",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/wispr-flow-notetaker-accurate-meeting-notes",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/devto-dashboard-post-count-bug-fix",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/adant-ai-claude-social-ads",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/build2-faster-than-ninja-build-system-benchmark",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/myths-software-engineering-genai",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/munich-funds-libexpat-open-source-project-for-6-months",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-fuels-african-cybercrime-interpol-report",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/kafka-retry-dlt-design-traps",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://devday.kr/article/lotteon-ai-24x7-response-system",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
       "url": "https://devday.kr/article/ray-bradbury-soft-rains-future-tech-comparison",
       "seenAt": "2026-08-05T04:46:08.916Z"
     },
@@ -7623,6 +7743,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49725532",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49720154",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49722630",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49724375",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49721496",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49720644",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54669981",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54661055",
+      "seenAt": "2026-08-06T04:46:30.760Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54655899",
       "seenAt": "2026-08-05T04:46:08.916Z"
     },
@@ -9591,5 +9743,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-05T04:46:08.916Z"
+  "updatedAt": "2026-08-06T04:46:30.761Z"
 }
