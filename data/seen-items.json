@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/postgres-300x-faster-analytics-pgrust-optimizations",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/assembly-hall-of-shame-cpu-instruction-latency-analysis",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/oracle-bans-ai-code-from-openjdk",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-knowledge-worker-existential-angst",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/enterprises-install-third-party-github-apps",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-impact-dashboard-adds-roi-section",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-v4-flash-cost-performance-analysis",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-code-review-effort-levels-generally-available",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-api-adds-agent-app-activity-metrics",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/textlog-js-free-microblogging-platform-analysis",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-relates-to-issue-relationship-multi-select-fields-ga",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/wyzer-programming-language-distributed-safety",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-secret-scanning-updates-security-enhancements",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-real-time-distributed-graph-grpc-querying",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-disables-copilot-auto-reviewer",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-wins-community-sharing",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/browseros-neo-ai-agent-browser",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/progress-ai-observability-trace-evaluate-improve-ai-agents",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-omni-builders-video-projects",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/nitro-4-0-human-translation-platform-for-ai-agents",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/agentic-internet-behavior-analysis-cloudflare",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/shared-auth-library-bug-race-condition-fix",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/automate-web-work-with-rindler",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-community-program-open-source-funding",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-radar-researcher-ai-internet-data",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/unifying-ai-gateway-workers-ai-single-control-plane",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/soloop-approval-first-agent-os-solo-founders",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/herdr-joins-yc-open-source-runtime-future",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/coldtea-ai-self-driving-software-delivery",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
+      "url": "https://devday.kr/article/provenmetal-launches-fast-domestic-pcb-assembly-service",
+      "seenAt": "2026-08-08T03:11:48.201Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-era-developer-taste-and-quality-debate",
       "seenAt": "2026-08-07T04:13:13.905Z"
     },
@@ -7863,6 +7983,46 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49741513",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54689545",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54686299",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54681818",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49742056",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49741768",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49739583",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49741409",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49737052",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54686007",
+      "seenAt": "2026-08-08T03:11:48.202Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49733052",
       "seenAt": "2026-08-07T04:13:13.905Z"
     },
@@ -9911,5 +10071,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-07T04:13:13.905Z"
+  "updatedAt": "2026-08-08T03:11:48.202Z"
 }
