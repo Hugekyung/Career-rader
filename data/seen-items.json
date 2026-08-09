@@ -1,6 +1,90 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/managing-ai-coding-costs-at-scale",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/ancient-library-classical-text-parsing-reader-analysis",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/nasa-voyager-2-extends-life-with-power-management",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-doe-launches-genesis-open-models-initiative-for-scientific-research",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/nixpkgs-core-team-disbands-governance-debate",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-companies-sell-out-2027-memory-capacity",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/nixpkgs-core-team-disbands-governance-issues-highlighted",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-weekly-releases-august-3",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/cpu-performance-floor-assembly-hall-of-shame-analysis",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-conflict-self-reflection-teamwork",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-fined-567m-new-mexico-child-mental-health",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/airline-frontend-single-codebase",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/airline-frontend-container-architecture",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/%ED%95%AD%EA%B3%B5-%EC%95%B1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%B2%98%EB%A6%AC",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/airline-frontend-build-responsive-ui-ssr-cls",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/tailwind-prefix-tailwind-merge-conflict-resolution",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/vue2-design-system-to-react-migration",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatgpt-expands-free-access-gpt-5-6-luna-improves-sol",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-prompt-engineering-evolution-modern-models",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-alum-launches-jurassic-park-to-defend-against-ai",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
       "url": "https://devday.kr/article/postgres-300x-faster-analytics-pgrust-optimizations",
       "seenAt": "2026-08-08T03:11:48.201Z"
     },
@@ -7983,6 +8067,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49741943",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54685904",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54683486",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54685585",
+      "seenAt": "2026-08-09T03:18:52.715Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49741513",
       "seenAt": "2026-08-08T03:11:48.202Z"
     },
@@ -10071,5 +10171,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-08T03:11:48.202Z"
+  "updatedAt": "2026-08-09T03:18:52.715Z"
 }
