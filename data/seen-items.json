@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/tossion",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/vps-provisioning-error-resource-mismatch",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/needle-2-14mb-agentic-llm-for-edge-devices",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-returns-to-open-ai-models-criticizing-closed-rivals",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-thinking-problem-developer-mindset",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ante-offline-single-binary-coding-agent",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-program-coordinator-jem-introduction",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/swift-protocols-promises",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-i-joined-dev-to-community",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/prime-agent-self-refining-coding-agent",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/pure-css-sunlight-through-window-effect",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-group-call-live-voice-with-ai-minds",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-meeting-app-data-leak-security-flaws",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/css-art-winter-kitchen-memory",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/secondbrain-note-magsafe-ai-recorder",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/restate-single-binary-vs-temporal-cluster",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/paritok-coding-agent-cost-session-extension",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/evolve-marketing-new-ai-tools",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-chat-github-conversation-controls-token-monitoring",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-india-automatic-recurring-payments",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-actions-oidc-audience-constraints-security",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/browser-game-monitor-refresh-rate-bug-delta-time",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-muse-glimmer-30b-local-ai-agent-open-weights",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/portfolio-lab-responsible-ai-investing",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-government-achieves-fedramp-high-certification",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-deprecates-custom-thread-subscriptions",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-auto-mode-default-safety-debate",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-ai-evals-custom-benchmarks-real-world-tasks",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/replace-localstorage-hack-with-broadcastchannel",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/docker-sandboxes-secure-ai-agent-execution",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
       "url": "https://toss.tech/article/52209",
       "seenAt": "2026-08-10T03:29:18.220Z"
     },
@@ -8155,6 +8275,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54709883",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54710269",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54709143",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54706150",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54705026",
+      "seenAt": "2026-08-11T03:22:11.049Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54695988",
       "seenAt": "2026-08-10T03:29:18.220Z"
     },
@@ -10279,5 +10419,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-10T03:29:18.220Z"
+  "updatedAt": "2026-08-11T03:22:11.049Z"
 }
