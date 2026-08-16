@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/virtual-person-false-positive-impact",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/big-mike-sports-betting-imessage",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/zetik-ai-agent-intelligence-cycle",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/inferock-bench-llm-api-receipt",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/revive-weave-scope-antigravity-multi-platform-docker",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-continues-ublock-origin-support-amid-manifest-v3-transition",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-going-dark-law-enforcement-security-debate",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-maintains-ublock-origin-support-against-manifest-v3",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/rustdesk-wayland-unattended-remote-access-enhancement",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-oauth-app-security-updates-tokens-redirects",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-private-ai-homomorphic-encryption-heir",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/luacad-parametric-cad-scripted-in-lua",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-ai-text-watermark-explained",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/activitypub-boring-success-fediverse",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/australia-home-battery-boom-cuts-wholesale-power-prices",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/qwen-3-8-27b-performance-analysis-and-community-feedback",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/running-gemma-4-ec2-g5g-graviton2-nvidia-gpu",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/grok-4-6-available-github-copilot",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/every-fucking-website-2020-analysis",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-harness-composable-agent-plugin",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/opus-5-fable-ai-model-usability-issues",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-weekly-wins",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-3-7-flash-google-ai-coding-agents",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-workers-secure-internal-apps-one-click",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/freebuff-free-coding-agent-alternative",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/turn-content-personal-outcome-lead",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/curl-performance-testing-automation-visualization",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/browseract-cloud-ai-web-scraping",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/reigniting-inner-voice-after-14-years-silence-value",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://devday.kr/article/art-of-chip-8-emulator-development",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
       "url": "https://devday.kr/article/glm-5-3-frontier-coding-emergent-cyber-capabilities",
       "seenAt": "2026-08-15T02:36:08.071Z"
     },
@@ -8715,6 +8835,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49746475",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54760145",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54742842",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54735846",
+      "seenAt": "2026-08-16T02:45:19.193Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49789769",
       "seenAt": "2026-08-15T02:36:08.071Z"
     },
@@ -11019,5 +11155,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-15T02:36:08.072Z"
+  "updatedAt": "2026-08-16T02:45:19.193Z"
 }
