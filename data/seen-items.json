@@ -1,6 +1,62 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/show-hn-mic-drop-real-time-multiplayer-karaoke",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/unicode-ghost-characters-origin-story",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/at-home-tick-test-lymealert-lyme-disease-diagnosis-debate",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-collaboration-leadership-vs-coding",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/risc-v-isa-license-scalability-performance-debate",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-vs-mathematicians-memory-vs-originality",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/nenspace-llm-extended-mind",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-auto-research-kernel-performance-232x-faster",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/glm-5-3-coding-leap-post-training",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-skepticism-efficacy-ethics-developer-labor",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/thoughtdag-llm-context-graph-analysis",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-enhances-security-law-enforcement-going-dark-scenario",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-build-custom-game-engine-benefits",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-weekly-release-august-10",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
       "url": "https://devday.kr/article/virtual-person-false-positive-impact",
       "seenAt": "2026-08-16T02:45:19.193Z"
     },
@@ -8835,6 +8891,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54750572",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54760812",
+      "seenAt": "2026-08-17T02:44:43.660Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49746475",
       "seenAt": "2026-08-16T02:45:19.193Z"
     },
@@ -11155,5 +11219,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-16T02:45:19.193Z"
+  "updatedAt": "2026-08-17T02:44:43.660Z"
 }
