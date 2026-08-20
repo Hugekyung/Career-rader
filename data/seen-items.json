@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/ads_dashboard_fe",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/sierra-games-softlock-detection-patching-tool",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agents-source-clips-local-video",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-social-media-addiction-lawsuit-analysis",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/children-lung-recovery-ultra-low-emission-zone",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/cerebras-cs-4-ai-accelerator-performance-and-market-competition",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/government-alert-system-misuse-and-trust-issues",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/openlogi-logitech-mouse-local-control-oss",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/3d-fruit-fly-simulation-macos-connectome",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-ux-portfolio-checklist",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ikea-product-naming-rules-and-cultural-insights",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ms-clarity-website-observation-experience",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-jetbrains-enterprise-managed-settings",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/credential-revocation-deauthorization-token-type",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/memory-prices-climb-500-percent-developers-reconsider-usage",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/phoenix-data-centers-raise-local-temperatures",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/cursor-origin-launch-github-alternative-community-debate",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/kakoune-editor-multiple-selections-customization-comparison",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/train-railway-slit-scan-scanner-experiment",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/mojo-language-compiler-toolchain-open-source",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-flood-prediction-google-groundsource-flood-hub",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-16-3-app-like-experiences-instant-navigation-caching",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/bgp-rfc-9234-adoption-route-leak-prevention",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-search-ads-tax-controversy",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/developers-daily-software-tools-2026",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/rilog-planning-retrospective-hypothesis-validation-team-building",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/css-webmail-client-security-vulnerabilities",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-buys-spirit-airlines-data-for-ai-training",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/hubble-retrieve-medical-records-api",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://devday.kr/article/ublock-hard-mode-browsing-setup",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
       "url": "https://devday.kr/article/framework-laptop-bricked-bios-update-support-controversy",
       "seenAt": "2026-08-19T02:42:10.859Z"
     },
@@ -9119,6 +9239,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54794253",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54794434",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49816882",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49814022",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49809764",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54787770",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54786659",
+      "seenAt": "2026-08-20T02:40:51.552Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54779947",
       "seenAt": "2026-08-19T02:42:10.859Z"
     },
@@ -11507,5 +11655,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-19T02:42:10.859Z"
+  "updatedAt": "2026-08-20T02:40:51.552Z"
 }
