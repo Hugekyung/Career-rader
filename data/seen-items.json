@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://toss.tech/article/tech_talk_talk_2",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/cia-funding-next-afloat-80s",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/html-native-features-capabilities-and-limitations",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-august-security-release",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/prized-ai-internal-tools-non-engineers",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/on-device-piano-autocomplete-ai-model",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/meetstream-ai-unified-api-infra-ai-meeting-agents",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/bun-1-4-release-node-js-compatibility-rust-rewrite",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-actions-separate-code-quality-workflow-path",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-code-quality-audit-log-changes",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/unlocking-locked-ewaste-cricut-maker-open-source-alternatives",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/aliexpress-web-audio-bluetooth-multipoint-issue",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/checksum-ai-coding-agent-testing-buddy",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-content-journey-writing-evolution",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/windows-wallpaper-interpretations-and-user-experiences",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/bynote-mac-free-local-private-transcription",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-text-copy-paste-criticism-and-proper-use",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/kitchen-sune-community-cookbook-git-learning-tool",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-supply-chain-attack-arrayref-analysis",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/why-we-met-again-at-yeogi-eottae",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/resolve-deadlock-reduce-locks",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/prevent-npe-with-design-and-automation",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/building-agentic-rag-with-internal-knowledge-part1-rag-pipeline",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-developer-zig-experience-comparison",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/coding-agent-agents-md-standardization-debate",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/kitchen-excuses-performance-under-pressure",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/woohatechday-first-internal-conference-ai-sharing",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/fx-tiny-open-native-coding-agent-zig",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://devday.kr/article/unsloth-dynamic-3-0-gguf-analysis",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
       "url": "https://toss.tech/article/ads_dashboard_fe",
       "seenAt": "2026-08-20T02:40:51.552Z"
     },
@@ -9239,6 +9359,42 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49821352",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54800805",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54800524",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49825370",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49821271",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49820508",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49819342",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54808246",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54798694",
+      "seenAt": "2026-08-21T02:47:37.049Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54794253",
       "seenAt": "2026-08-20T02:40:51.552Z"
     },
@@ -11655,5 +11811,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-20T02:40:51.552Z"
+  "updatedAt": "2026-08-21T02:47:37.049Z"
 }
