@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/us-canada-trade-talks-breakdown-reciprocal-tariffs",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/munder-difflin-llm-agent-collaboration-tool",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/maccess-control-mac-iphone-trackpad-screen-mirroring-ai",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/autoclaw-ai-work-agent-desktop-browser-chat",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/subtitlegenerator-ai-subtitles-browser",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/never-be-angry-at-work-analysis",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/canada-suspends-us-trade-talks-imposes-tariffs",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-analytics-ai-native-google-analytics-alternative",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/toplify-track-app-store-ranking-worldwide",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-glancer-low-memory-lsp-disk-caching",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-to-agentcore-production-deployment",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/opentelemetry-otel-development-slowdown-community-frustration",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-response-style-improvement-claudette",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-software-performance-optimization-new-era",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/ozbrain-shared-knowledge-platform-for-ai-agents",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-generated-text-comprehension-challenges",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-bot-preference-sync-ai-traffic-management",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-border-phone-data-deletion-felony-charges",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-model-felony-bench-controversy-and-ethics",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/kobo-ereader-runs-apps-with-cobalt-platform",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/swiftui-puppy-training-app-elevenlabs-ai-voice",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/libp2p-webrtc-direct-tls-certificate-pinning-bug-analysis",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/improved-blocked-user-management",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-felony-bench-crime-risk-discussion",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-v4-flash-vision-exp-analysis",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-new-experience-slack",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/shared-agentic-work-github-copilot-microsoft-teams",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-next-gen-trait-solver-nightly-stabilization",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/kagi-removes-paywalled-links-enhances-stocks-widget-and-launches-assistant-mobile-apps",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://devday.kr/article/music-theory-for-programmers-first-principles-with-code",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
       "url": "https://devday.kr/article/tale-two-flink-autoscalers-netflix",
       "seenAt": "2026-08-22T02:38:15.774Z"
     },
@@ -9479,6 +9599,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54819531",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810648",
+      "seenAt": "2026-08-23T02:47:47.742Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49831064",
       "seenAt": "2026-08-22T02:38:15.774Z"
     },
@@ -11963,5 +12091,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-22T02:38:15.775Z"
+  "updatedAt": "2026-08-23T02:47:47.742Z"
 }
