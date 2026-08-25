@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/a16z-billions-investment-bleak-future-critique",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/decawork-control-internal-ai-agents-tools",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/chattertalk-gpt-5-6-luna-agent-model-transition",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/paymentkit-survive-processor-shutdown",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/emacs-31-1-release-analysis-and-new-features",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-design-system-abstraction-redesign",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/agentic-demand-forecasting-amazon-connect-decisions",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/executable-as-sqlite-database-self-prototype",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/nonfiction-books-cults-scams-schemes-recommendations",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/android-automotive-head-unit-firmware-malware-infection",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/sre-ai-alert-analysis-automation",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/sre-ai-infrastructure-cost-automation",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-ai-vs-datacenter-ai-future",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-bedrock-codex-enterprise-integration",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-workspace-domain-registration-error-analysis",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-code-quality-agent-md-discussion",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/quantum-era-cryptography-guide-pqc-ml-kem",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-peripheral-firmware-reverse-engineering",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-bedrock-policyguard-semantic-dlp-framework",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-ai-struggles-attract-users-cheaper-tools-thrive",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-powered-firmware-reverse-engineering-and-security-risks",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/musinsa-tech-conference-ai-development-transformation",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/wifi-8-focus-on-reliability-not-speed",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/staff-engineer-problem-discovery-strategy",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/how-complex-systems-fail-analysis",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/develop-geo-analysis-tool-e-e-a-t",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-marketer-claude-code-sales-updates",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/waf-auto-block-agent-development-trust-boundary-error",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/modern-tui-accessibility-nightmare-for-screen-readers",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://devday.kr/article/reddit-user-highlighting-browser-extension-css",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
       "url": "https://devday.kr/article/structured-data-seo-geo-guide",
       "seenAt": "2026-08-24T02:48:23.523Z"
     },
@@ -9715,6 +9835,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49840624",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54838934",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54833843",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54831243",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830427",
+      "seenAt": "2026-08-25T02:42:22.635Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49836479",
       "seenAt": "2026-08-24T02:48:23.523Z"
     },
@@ -12223,5 +12363,5 @@
       "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-24T02:48:23.523Z"
+  "updatedAt": "2026-08-25T02:42:22.635Z"
 }
