@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/fda-approves-first-ras-inhibitor-rasonque-for-pancreatic-cancer",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-ai-security-breach-huggingface-incident-analysis",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/back-from-wudang-mountain-ai-ego-regret-book-review",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-finops-agent-cost-anomaly-automation",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-devops-agent-release-management-autonomous-operation",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-security-agent-ondemand-penetration-testing",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/asahi-linux-progress-report-linux-7-2-apple-silicon",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-mechanical-turk-mturk-service-shutdown-analysis",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/financial-quicksight-forward-deployment-smus-folder",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/lg-cns-agentic-ai-apqr-system-automation",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-ceo-open-executive-discussion",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/local-llm-sensitive-data-filtering-experiment",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepx-dx-m1-aws-iot-edge-ai-deployment",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-hugging-face-acquisition-talks-ai-ecosystem-impact",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/offline-map-app-comaps-guides-rescuers-venezuela",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/enterprise-managed-settings-support-plugin-marketplace-auto-update",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-state-department-pauses-immigrant-visa-applications-controversy",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/interactive-retrospective-tool-ai-twine-notion",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/view-twitter-without-account-tool-analysis",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/3d-printer-agpl-license-violation-controversy",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/design-to-code-tools-comparison-saas-dashboard",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/figma-plugin-specsaver-ai-description-generator",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-global-model-policy-generally-available",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-service-disruptions-and-infrastructure-concerns",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/tailcat-tailscale-based-netcat-utility",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/macos-ssh-config-tunnel-manager",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/nebula-sans-font-design-license-and-startup-strategy",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-ai-disclosure-tools-clarity-feeds",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/france-fiber-coverage-2026-policy-and-comparison",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
+      "url": "https://devday.kr/article/qwen3-8-flash-next-new-architecture-cost-efficiency",
+      "seenAt": "2026-08-27T11:55:04.985Z"
+    },
+    {
       "url": "https://toss.tech/article/tech_talk_talk_3",
       "seenAt": "2026-08-26T02:50:30.713Z"
     },
@@ -9955,6 +10075,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49869955",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49870777",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49862735",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49859507",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54870839",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54870263",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54869322",
+      "seenAt": "2026-08-27T11:55:04.986Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49858205",
       "seenAt": "2026-08-26T02:50:30.713Z"
     },
@@ -12305,207 +12453,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54028440",
       "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54025671",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54022671",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54017507",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54015775",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255780",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53968124",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54016110",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49264342",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49263743",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49262394",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259625",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54015499",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54013658",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54012912",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54004668",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53990460",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53990403",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53965615",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261756",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257849",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49193627",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49173048",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49133627",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49196152",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255267",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49255642",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49248236",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49260339",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256498",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256089",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257063",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49042466",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49256752",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49207815",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49254340",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257367",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261662",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49264271",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49254575",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259516",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49242634",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261598",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48917752",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49265884",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49257021",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49241926",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49251005",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49212567",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49259382",
-      "seenAt": "2026-05-28T10:33:56.098Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49261371",
-      "seenAt": "2026-05-28T10:33:56.098Z"
     }
   ],
-  "updatedAt": "2026-08-26T02:50:30.714Z"
+  "updatedAt": "2026-08-27T11:55:04.986Z"
 }
