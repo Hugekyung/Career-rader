@@ -1,6 +1,118 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-memory-external-layer-trust-provenance",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-visual-studio-august-update",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-weekly-releases-august-24",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/gui-keyboard-driven-navigation-importance-and-reality",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/htmx-4-0-0-release-fetch-api-and-new-features",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/almanac-ai-agent-second-brain",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-sanctions-ai-collective-infrastructure-providers",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/inception-curved-map-navigation-usability-debate",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-monthly-report-august-2026",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/aramb-build-launch-monetize-ai-agents-20-minutes",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-code-comment-yap-phenomenon-community-discussion",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/htmx-4-0-0-release-analysis-and-community-feedback",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-multimodal-asset-personalization-maps",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/windows-license-refund-and-alternative-os-discussion",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/firecrawl-developer-index-70m-artifacts-coding-agents",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/app-install-coercion-user-frustration",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-omni-1-1-flash-multimodal-video-generation",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/microduck-tiny-open-source-bipedal-robot",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/caddi-ai-agent-builder-show-once",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-botbase-operators-transparency-submission-process",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/openoffice-tuesday-printing-bug-analysis",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/pageindex-accurate-trustworthy-answers-professional-documents",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/unpaid-senior-open-source-maintainer-hiring-discussion",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-policy-billing-changes",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/wayland-native-dock-lambdock-development-analysis",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-laptop-speaker-sound-improvement-easyeffects",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/nitter-shutdown-x-corp-legal-action",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://devday.kr/article/stf-invests-in-flatpak-for-enhanced-linux-security",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-product-frontiers-leaders-insight-meetup",
       "seenAt": "2026-08-28T13:18:08.998Z"
     },
@@ -10195,6 +10307,18 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54879779",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54887357",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54880945",
+      "seenAt": "2026-08-29T08:14:54.025Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49873578",
       "seenAt": "2026-08-28T13:18:08.998Z"
     },
@@ -12545,15 +12669,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54037824",
       "seenAt": "2026-06-01T06:30:48.625Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49275633",
-      "seenAt": "2026-05-31T05:57:22.044Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54026720",
-      "seenAt": "2026-05-31T05:57:22.044Z"
     }
   ],
-  "updatedAt": "2026-08-28T13:18:08.998Z"
+  "updatedAt": "2026-08-29T08:14:54.025Z"
 }
