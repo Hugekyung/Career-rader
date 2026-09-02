@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/jetbrains-ide-native-open-source-coding-agent-kilo-code",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/future-of-ai-gpu-access-2040",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/procrastination-study-fraud-allegations-data-anomalies",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/fastpotify-lightweight-native-spotify-client-release",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-era-ux-ui-changes",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-test-automation-challenge",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-reviewer-fail-ability-verification",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/military-commissary-freezer-hack-possibility-ics-security",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/chrome-removes-mv2-extensions-ubo-exit",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/unified-embedding-personalization-push-ctr-improvement",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-antigravity-gemini-ai-agent-collaboration-problem-solving",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-mac-mini-studio-early-launch-ai-demand",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/security-camera-bird-song-identification-system",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/fixing-spa-cache-mismatches-brownfield-pragmatic-solution",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/burning-man-playa-phone-project-internet-calls",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/devto-article-writing-time-comparison",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/css-khachapuri-challenge-coding-adventure",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/ask-my-wardrobe-digital-wardrobe-experience",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-use-in-academia-and-human-interaction-concerns",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/breaking-claude-code-opus-5-auto-mode-exploit",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/brand-your-laptop-sell-ad-space",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/openshot-4-0-release-ai-features-community-feedback",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/tether-app-for-meetings",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/vibecoded-ai-slop-license-discussion",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatgpt-work-automation-security-competition-app-dev",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/servo-0-5-0-web-platform-features-performance-updates",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/curl-cve-dispute-security-threat-analysis",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/prela-new-query-language-simpler-than-sql",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/vscode-august-2026-copilot-agent-updates",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://devday.kr/article/m4-macros-simplify-httpd-conf-openbsd",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
       "url": "https://devday.kr/article/12tb-steam-data-leak-restores-lost-pc-gaming-history",
       "seenAt": "2026-09-01T06:41:24.486Z"
     },
@@ -10563,6 +10683,46 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49907655",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49904719",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49902360",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49907297",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49904990",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49902805",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49901963",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49901264",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920813",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54918869",
+      "seenAt": "2026-09-02T06:18:27.165Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49899047",
       "seenAt": "2026-09-01T06:41:24.486Z"
     },
@@ -12931,5 +13091,5 @@
       "seenAt": "2026-06-04T06:22:28.043Z"
     }
   ],
-  "updatedAt": "2026-09-01T06:41:24.487Z"
+  "updatedAt": "2026-09-02T06:18:27.165Z"
 }
