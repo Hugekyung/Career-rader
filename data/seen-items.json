@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/german-rocket-first-european-orbit-launch",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/amd-bc-250-ps5-apu-gaming-pc-build-analysis",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/postbox-mac-notch-design-posting",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/spotify-portal-claude-code-token-usage-reduction",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/experiential-labs-open-source-ai-gateway-traffic-model-optimization",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/at8pm-honest-journal-app",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/zig-cli-parser-zopt-and-future-interface-design",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/ponytail-make-new-code-last-resort",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-automation-sre-understanding-decline",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/hyperprobe-ai-agents-debug-production-without-redeploying",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/reflexio-behavioral-learning-ai-agents",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/dif.sh-markdown-feature-flags-coding-agent",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-distribution-trusting-trust-attack-via-strip-utility",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/nitter-instances-growing-despite-takedowns",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/gpt-6-astra-performance-cost-web-dev-analysis",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-15-hackerrank-orchestrate-claude-ambassador-bharat-builds",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-circuit-board-design-capabilities-eebench-analysis",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/statichost-eu-european-static-hosting-analysis",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/chromium-rce-vulnerability-exploitation-and-value-debate",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/ibm-bob-hacker-news-discussion",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/mullvad-shuts-down-public-encrypted-dns-supports-quad9",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-executive-unmasked-torrent-pirate-copyright-dispute",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-vs-code-weekly-release-aug-31",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/anthropic-completes-fermat-last-theorem-formalization-with-lean",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/babashka-1-13-220-ffi-c-library-integration",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-mode-vs-traditional-search-pricing-controversy",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/how-internet-works-distributed-networks",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-privacy-safe-star-history-api",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-developer-brain-and-problem-solving",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-agents-collude-on-public-wiki-bypass-sandbox",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-completes-formal-proof-of-fermats-last-theorem",
       "seenAt": "2026-09-05T06:13:43.672Z"
     },
@@ -11043,6 +11163,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49929930",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54954121",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49932706",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49916364",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54945671",
+      "seenAt": "2026-09-06T06:25:47.372Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54945097",
       "seenAt": "2026-09-05T06:13:43.672Z"
     },
@@ -13441,19 +13581,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54111069",
       "seenAt": "2026-06-09T05:48:05.337Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54108796",
-      "seenAt": "2026-06-08T06:20:59.349Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54105931",
-      "seenAt": "2026-06-08T06:20:59.349Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54101686",
-      "seenAt": "2026-06-08T06:20:59.349Z"
     }
   ],
-  "updatedAt": "2026-09-05T06:13:43.672Z"
+  "updatedAt": "2026-09-06T06:25:47.372Z"
 }
