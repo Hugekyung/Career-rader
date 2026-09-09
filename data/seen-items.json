@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/openai-research-ethics-controversy-ai-data-use",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/remembering-why-we-code-dropping-ai-for-fundamental-learning",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-attention-visualization-tool-show-hn",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/copperhead-ai-hardware-design-automation-analysis",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-launches-new-customer-portal-help-github-com",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-ai-gateway-centralize-llm-requests",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/switching-password-managers-in-2026-analysis",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-automatic-key-exchange-tls-handshake-optimization",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/widgo-ai-sales-rep-website-visitors",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/integrate-ai-agents-slack-teams-discord-open-source",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/broadcom-pulls-vmware-vddk-downloads-hindering-migrations",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-security-threats-and-response-strategies",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-trusted-research-environment-nds-ai-re",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-ai-raises-3b-europes-sovereign-ai-ambition",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/sega-sonic-rumble-party-dynamodb-elasticache-serverless-case-study",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/kindness-chain-solana-donation-blockchain",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/jellyfin-12-0-release-performance-enhancements-and-new-features",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/90s-ca-rsa-key-decryption-modern-pc",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/enterprise-ai-adoption-start-small",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/batch-to-workflow-flowkit-development",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-shifts-license-to-eupl-critiques-oss",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-session-operation-story",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-agent-team-rules-feedback-loop",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/la-city-building-history-visualization-analysis",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/stuxnet-reconstructed-source-code-analysis",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/automate-document-comparison-ai-python",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-platform-cost-performance-optimization",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/qa-engineer-ai-career-transition",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/caltech-mathathon-ai-math-research-hackathon",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://devday.kr/article/eu-smartphone-repairability-compliance-issues",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
       "url": "https://toss.tech/article/52631",
       "seenAt": "2026-09-08T06:26:10.830Z"
     },
@@ -11375,6 +11495,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49950962",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49951171",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49947215",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54986952",
+      "seenAt": "2026-09-09T06:32:13.072Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49948273",
       "seenAt": "2026-09-08T06:26:10.830Z"
     },
@@ -13753,23 +13889,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54149817",
       "seenAt": "2026-06-12T06:15:42.610Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54147202",
-      "seenAt": "2026-06-11T06:20:11.518Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54145545",
-      "seenAt": "2026-06-11T06:20:11.518Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54144333",
-      "seenAt": "2026-06-11T06:20:11.518Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54142885",
-      "seenAt": "2026-06-11T06:20:11.518Z"
     }
   ],
-  "updatedAt": "2026-09-08T06:26:10.830Z"
+  "updatedAt": "2026-09-09T06:32:13.072Z"
 }
