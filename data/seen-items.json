@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/abrush-ai-studio-digital-artists",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/navier-stokes-announcement-community-analysis",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/cortex-api-specs-to-docs-sdks-mcp",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-native-helpdesk-resolvehq-launch",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-hides-urls-with-goto-redirect",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/grapheneos-rewritten-messages-app-v13-released",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-agents-attack-rubygems-supply-chain",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-app-ads-bot-traffic-waste-analysis",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-agents-attack-rubygems-security-breach",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/vscode-agents-added-to-copilot-usage-metrics",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-mathematics-community-concerns",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/godot-rust-terminal-workspace-gpty",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-code-review-auto-resolution-analysis-updates",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-mathematics-alignment-issues",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/hacker-news-without-ai-tool-analysis",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-ai-hackathon-aws-rewards-fellowship",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/bodily-oddities-show-hn-human-body-quirks",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-weekly-wins-sharing",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-content-filtering-hacker-news-community",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/easyspecs-ai-ai-code-spec-review-platform",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/chipass-2026-09-0-release-notes",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-research-collaboration",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/omarchy-dhh-controversy-open-source-funding-ethics",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/wisry-clone-winning-ads-ai-scale",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/programming-human-whimsy-ai-era-memorial",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/inocras-aws-healthomics-clinical-genomic-pipeline-optimization",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/raycast-2-0-ai-automation-productivity",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-casb-automatic-remediation-policies",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/evergarden-terminal-colorscheme-analysis",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-programming-future-developer-sadness",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
       "url": "https://devday.kr/article/cline-desktop-app-open-weight-models",
       "seenAt": "2026-09-12T06:19:59.878Z"
     },
@@ -11823,6 +11943,10 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55012803",
+      "seenAt": "2026-09-13T06:41:19.039Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49976885",
       "seenAt": "2026-09-12T06:19:59.878Z"
     },
@@ -14223,5 +14347,5 @@
       "seenAt": "2026-06-15T06:58:50.965Z"
     }
   ],
-  "updatedAt": "2026-09-12T06:19:59.878Z"
+  "updatedAt": "2026-09-13T06:41:19.039Z"
 }
