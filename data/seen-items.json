@@ -1,6 +1,50 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/calerto-mac-full-screen-meeting-alerts",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/kabza-take-over-real-city-map",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/bun-compile-time-analysis-buildprof",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/qapilot-mcp-android-app-testing-agent",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-zoom-client-x11-clipboard-access-controversy",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/youkti-finds-ready-buyers-suggests-next-actions",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/pandas-extinction-polars-duckdb-alternatives",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/mac-freeze-webgl-deathray-vulnerability",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-tool-comparison-claude-gemini-copilot",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/loqua-speak-naturally-thoughts-to-done",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-hack-human-responsibility-not-rogue-ai",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
       "url": "https://devday.kr/article/abrush-ai-studio-digital-artists",
       "seenAt": "2026-09-13T06:41:19.039Z"
     },
@@ -11943,6 +11987,62 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55024346",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028742",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983761",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49971440",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49986695",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49986015",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983343",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983322",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028618",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55026576",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55026318",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55025640",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023968",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023485",
+      "seenAt": "2026-09-14T06:52:47.332Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55012803",
       "seenAt": "2026-09-13T06:41:19.039Z"
     },
@@ -14329,23 +14429,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54185993",
       "seenAt": "2026-06-16T07:03:58.346Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177491",
-      "seenAt": "2026-06-15T06:58:50.965Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177910",
-      "seenAt": "2026-06-15T06:58:50.965Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177362",
-      "seenAt": "2026-06-15T06:58:50.965Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54177267",
-      "seenAt": "2026-06-15T06:58:50.965Z"
     }
   ],
-  "updatedAt": "2026-09-13T06:41:19.039Z"
+  "updatedAt": "2026-09-14T06:52:47.332Z"
 }
