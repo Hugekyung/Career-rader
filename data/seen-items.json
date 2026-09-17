@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-model-81-percent-faster-query-plans-than-postgres",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/importance-of-positive-feedback-for-speakers",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/programming-tricks-for-developer-productivity",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/learn-coding-interview-ai-self-recording",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/automate-sso-authorization-github-enterprise-pat-ssh-keys",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-model-freshness-release-date-training-cutoff-comparison",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/dont-make-tech-your-entire-personality",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/salesforce-global-outage-analysis",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/hackers-breach-flock-camera-system-reveal-inner-workings",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/expand-board-for-macos-spatial-interface",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-play-app-review-delays-developer-frustration",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-desktop-ai-robot-gemma4-raspberrypi",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/cat-me-app-ai-photo-to-cat-converter",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-mozilla-ai-browsing-firefox-smart-window",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-mistakes-pain-learning-synthetic-scars",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-releases-advanced-gemini-3-8-live-audio-models",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/teens-views-on-ai-today",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-scan-no-codeql-default-setup",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/php-array-memory-packed-list-hash-table",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/toki-personal-assistant-meeting-scheduling-follow-up",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/appwrite-2-0-open-source-cloud-release",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/weave-router-2-0-subscription-aware-coding-agent-router",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-real-value-and-limitations-analysis",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/rheinmetall-battlesuite-protocol-open-sourced",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-reference-image-verification-tech-controversy",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-tech-industry-quiet-weight",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-open-source-development-and-coding-passion",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/passenger-flight-simulator-show-hn-analysis",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/autistici-inventati-shuts-down-due-to-political-pressure",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-benchmark-toss-service-evaluation",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
       "url": "https://toss.tech/article/toss-benchmark",
       "seenAt": "2026-09-16T06:33:46.594Z"
     },
@@ -12227,6 +12347,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50008101",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009962",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009478",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50008706",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55061896",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55058818",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055810",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055492",
+      "seenAt": "2026-09-17T06:33:16.713Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051166",
       "seenAt": "2026-09-16T06:33:46.594Z"
     },
@@ -14691,5 +14843,5 @@
       "seenAt": "2026-06-19T06:43:40.699Z"
     }
   ],
-  "updatedAt": "2026-09-16T06:33:46.594Z"
+  "updatedAt": "2026-09-17T06:33:16.713Z"
 }
