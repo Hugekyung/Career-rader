@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/us-military-ai-hallucination-intelligence-report-close-call",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-weekly-updates-september-14",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-model-deprecation-october-2026",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/x86-emulation-performance-memory-model-debate",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/cactus-needle-3-on-device-automation-performance",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-quick-tunnels-local-dev-to-internet",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-17-amazon-hackathon-stanford-code-place-dev3pack",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/ari-ariso-ai-team-execution-standard",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-100tb-ram-saving-rust-math-optimization",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/java-module-system-composable-cli-tools-ja-preview",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/npm-stage-only-tokens-safer-automation",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/jemalloc-5-4-0-release-memory-management-optimization",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/passkey-criticism-and-limitations-developer-perspective",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/productbridge-ai-native-customer-support-feedback-agent",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/bend-2-vibe-coding-trap-llm-formal-verification",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-community-weekly-wins-and-encouragement",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/ami-ai-customer-acquisition-automation",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/openjev-llm-structured-output-classification-analysis",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/4gb-laptop-gpu-beats-12-core-cpu-4.3x-gemma-4-serving",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-economy-experts-join",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/typst-0-15-strides-latex-alternative",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-flow-fashion-design-workflow-innovation",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/passkeys-criticism-personal-security-usability",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/sider-omni-sidebar-ai-agent-mac-apps",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-writing-assistant-rules-and-strategies",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/mosmos-voice-writing-meeting-notes",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-exec-ai-scraping-theft-debate",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/aina-ai-coach-job-search-blind-spots",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/qwen-3-8-omni-flash-vs-gemini-3-8-flash-performance-cost",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://devday.kr/article/woowa-tech-course-portfolio-service-shout-outz",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
       "url": "https://toss.tech/article/lockbank",
       "seenAt": "2026-09-18T06:28:18.005Z"
     },
@@ -12467,6 +12587,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50020980",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077502",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50022025",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55081646",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077989",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55075750",
+      "seenAt": "2026-09-19T06:26:59.058Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50013347",
       "seenAt": "2026-09-18T06:28:18.005Z"
     },
@@ -14919,5 +15063,5 @@
       "seenAt": "2026-06-21T06:30:13.760Z"
     }
   ],
-  "updatedAt": "2026-09-18T06:28:18.005Z"
+  "updatedAt": "2026-09-19T06:26:59.058Z"
 }
