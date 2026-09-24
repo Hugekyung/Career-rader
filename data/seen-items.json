@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/kde-community-calls-for-no-ai-policy",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/medgemma-ai-healthcare-providers-better-care",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-agents-md-loading-bug-feature-flag-telemetry",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-to-3d-library-development-nightmare",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/agent-score-daily-quality-score",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-local-sandboxing-explained",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/radicle-network-protocol-vulnerability-disclosure",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/tonebird-ai-reply-assistant-remembers-relationships",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-opus-5-5-anthropic-new-model-release",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/wordpress-unauthenticated-path-traversal-rce-vulnerability",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-wiki-anti-pattern-docs-folder-comparison",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/cheap-rag-go-gemini-file-search-no-vector-db",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/jev-python-25-lines-llm-analysis",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/solid-ai-agents-own-computers-accounts-budgets",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/oliveyoung-order-cancellation-enhancement",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/gnome-llm-policy-debate-open-source-community",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/california-solar-panels-over-irrigation-canals-analysis",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-model-cost-war-opus-5-5-gpt-6-sol",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/reduce-auto-approval-cycle-10min-to-10sec",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-consultation-service-design-experience",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://toss.tech/article/AI_chatbot",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/saml-protocol-complexity-security-vulnerabilities-oidc-transition",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-design-3-months-chatter-notebook-dev",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/jev-ai-speed-cost-differentiation",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-killed-foxpro-revived-rust-wasm",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/jevbench-reproducible-benchmark-typed-decision-models",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-app-opentelemetry-support",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/woowacon-2026-tech-conference-announcement",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/pentagon-ai-overreliance-missile-strike-iran-school-accountability-debate",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-jetbrains-1-18-0-new-features",
+      "seenAt": "2026-09-24T06:37:16.870Z"
+    },
+    {
       "url": "https://devday.kr/article/corporate-influencer-writing-coach-thestory-run",
       "seenAt": "2026-09-23T06:31:26.220Z"
     },
@@ -12999,6 +13119,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639",
+      "seenAt": "2026-09-24T06:37:16.871Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50046378",
+      "seenAt": "2026-09-24T06:37:16.871Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50045196",
+      "seenAt": "2026-09-24T06:37:16.871Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50042159",
+      "seenAt": "2026-09-24T06:37:16.871Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115665",
+      "seenAt": "2026-09-24T06:37:16.871Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040565",
       "seenAt": "2026-09-23T06:31:26.220Z"
     },
@@ -15409,51 +15549,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54294597",
       "seenAt": "2026-06-27T05:31:12.821Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49459492",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49459444",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54291009",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49455112",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49455163",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49454600",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49454219",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54291814",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54290708",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54290512",
-      "seenAt": "2026-06-26T05:50:59.799Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54289783",
-      "seenAt": "2026-06-26T05:50:59.799Z"
     }
   ],
-  "updatedAt": "2026-09-23T06:31:26.220Z"
+  "updatedAt": "2026-09-24T06:37:16.871Z"
 }
