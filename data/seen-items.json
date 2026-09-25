@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/koi-rest-ai-powered-virtual-pond-for-balance",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/hackathon-judging-automation-build-verification",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-enterprise-cloud-proof-presence-reauthentication",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-make-cursed-fonts-times-new-bastard",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/f-droid-2-0-major-update-foss-android-apps",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-api-design-without-named-arguments",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/polly-introduces-open-source-maintenance-fee",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/hookest-viral-video-hooks-swipe-file",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/uk-government-apple-encryption-dispute-adp",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-agent-australian-govt-website-hack-controversy",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/minimi-2-0-ai-cat-closes-open-loops",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/conversations-app-leaves-google-play-for-free-distribution",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/typescript-type-guard-drift-solution",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/arxiv-secures-funding-for-nonprofit-transition",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-ship-web-mobile-apps-inside-claude-chatgpt",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/modernizing-open-source-desktop-ux",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/ctrlops-ai-server-management-deployment",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/project-suncatcher-ai-in-space-test",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-ai-glasses-video-takedown-controversy",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/noan-fact-layer-for-ai-agents",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/schole-learn-by-building-beyond-click-next",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/vscode-ssh-agent-security-risks-llm-integration",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-feds-target-ai-critics-foreign-agents-controversy",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/story-of-mel-lobsters-discussion",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/snapdragon-x2-series-linux-support-announced",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-new-vr-ar-glasses-tech-specs-and-community-skepticism",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/automate-devto-followers-count-github-profile",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/swe-job-search-lessons-learned",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-series-discovery-community-sharing",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://devday.kr/article/spring-batch-6-1-0-m2-release-notes",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
       "url": "https://devday.kr/article/kde-community-calls-for-no-ai-policy",
       "seenAt": "2026-09-24T06:37:16.870Z"
     },
@@ -13119,6 +13239,18 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50035275",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55119730",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55112774",
+      "seenAt": "2026-09-25T06:30:35.992Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639",
       "seenAt": "2026-09-24T06:37:16.871Z"
     },
@@ -15529,27 +15661,7 @@
     {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49463329",
       "seenAt": "2026-06-28T05:56:59.533Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49456261",
-      "seenAt": "2026-06-27T05:31:12.821Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49462736",
-      "seenAt": "2026-06-27T05:31:12.821Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54295406",
-      "seenAt": "2026-06-27T05:31:12.821Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54294711",
-      "seenAt": "2026-06-27T05:31:12.821Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54294597",
-      "seenAt": "2026-06-27T05:31:12.821Z"
     }
   ],
-  "updatedAt": "2026-09-24T06:37:16.871Z"
+  "updatedAt": "2026-09-25T06:30:35.993Z"
 }
