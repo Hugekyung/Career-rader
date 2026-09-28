@@ -1,6 +1,82 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/google-search-ai-overview-weirdness-and-criticism",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/ember-1-model-pricing-controversy-and-open-source-advancement",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/lofi-cities-pixel-art-web-app-analysis",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-battle-simulation-tiny-ai-arena",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/postmarketos-rebrands-as-nura",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/neovim-vim-undo-file-deletion-controversy",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-founders-letter-ai-internet-future",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/superhuman-go-ai-assistant-works-where-you-do",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/developers-world-changing-code-lines",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-blocks-lula-facebook-page-brazil-election-controversy",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/humalike-gta-rp-ai-npcs",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-feared-hn-optics-over-copyright-issues",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-gpt-6-sol-luna-launch-half-price",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-concurrency-distilled-analysis",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/asml-projects-zero-sales-in-europe-2026",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-elastic-compute-dsec-llm-agent-platform",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/native-web-features-modern-website-construction",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/rust-parse-dont-validate-type-system-exploration",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://devday.kr/article/infecting-steam-link-with-nixos-kernel-module-kexec",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
       "url": "https://devday.kr/article/georgism-five-years-later-effectiveness-debate",
       "seenAt": "2026-09-27T06:59:48.442Z"
     },
@@ -13479,6 +13555,38 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062943",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50061870",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50057491",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50061341",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50058846",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50058024",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132071",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129191",
+      "seenAt": "2026-09-28T07:28:21.293Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55123063",
       "seenAt": "2026-09-27T06:59:48.442Z"
     },
@@ -15825,55 +15933,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54322350",
       "seenAt": "2026-07-01T06:07:59.773Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49443601",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49481162",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54314492",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54314110",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49480458",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49482630",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49482321",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49480271",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49477095",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49476576",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49475269",
-      "seenAt": "2026-06-30T05:48:44.810Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54314109",
-      "seenAt": "2026-06-30T05:48:44.810Z"
     }
   ],
-  "updatedAt": "2026-09-27T06:59:48.442Z"
+  "updatedAt": "2026-09-28T07:28:21.293Z"
 }
