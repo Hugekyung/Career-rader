@@ -1,6 +1,66 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-product-development-custom-model-vs-search-engine",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/swift-6-executor-job-hop-to-executor-deep-dive",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-package-import-path-github-dependency-analysis",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/woongjin-pridlife-aws-drs-cloud-dr-setup",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/handling-runaway-ai-agents",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-eks-nvidia-flare-federated-learning",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-early-advisor-missed-billion-dollar-stock-due-to-vesting-misunderstanding",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-hook-recursion-token-loss",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-harness-building-context-structure-rules",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/boring-companies-profitable-software-business",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/vim-neovim-persistent-undo-data-loss-controversy",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/luarocks-security-incident-lua-bytecode-vulnerability",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/introverted-dev-social-interaction-networking",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-tools-developer-experience-recovery",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://devday.kr/article/valve-introduces-pyrowave-codec-beta-low-latency-streaming",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
       "url": "https://devday.kr/article/google-search-ai-overview-weirdness-and-criticism",
       "seenAt": "2026-09-28T07:28:21.293Z"
     },
@@ -13555,6 +13615,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55145695",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50066876",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50067039",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50070678",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142341",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50065996",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55148113",
+      "seenAt": "2026-09-29T07:24:14.410Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062943",
       "seenAt": "2026-09-28T07:28:21.293Z"
     },
@@ -15913,27 +16001,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54346904",
       "seenAt": "2026-07-02T05:35:18.779Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49487421",
-      "seenAt": "2026-07-01T06:07:59.773Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49484928",
-      "seenAt": "2026-07-01T06:07:59.773Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54334127",
-      "seenAt": "2026-07-01T06:07:59.773Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54332224",
-      "seenAt": "2026-07-01T06:07:59.773Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54322350",
-      "seenAt": "2026-07-01T06:07:59.773Z"
     }
   ],
-  "updatedAt": "2026-09-28T07:28:21.293Z"
+  "updatedAt": "2026-09-29T07:24:14.410Z"
 }
