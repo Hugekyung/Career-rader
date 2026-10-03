@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/github-copilot-models-deprecated",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-opportunity-radar-19-hacktoberfest-ai-hackathon-pear-prime",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-painting-tool-opus-5-5-code-based-image-generation",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-stream-workers-custom-video-pipelines",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-writing-beyond-views-measuring-success",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/mintlify-desktop-ai-native-documentation-app",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/developer-community-wins-this-week",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/rfc-1149-pigeon-ip-packet-auction-analysis",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/frog-toad-ai-sandbox-bypass-analogy",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-tool-teachoo-helps-learn-anything",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-ai-gateway-web-search-api",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-security-advisory-graphql-api-new-fields",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/opensource-cross-platform-audio-editor-audionaut",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/burnout-song-bleeding-knuckles-ai-music",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/famulor-whatsapp-agent-calls-follow-ups",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-confidential-comments-security-advisories",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-security-advisory-comments-api-public-preview",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-observability-platform-8-major-updates",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-protected-quick-tunnels-accountless-auth",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-network-performance-update-challenge-pages",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-traces-platform-request-tracing",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/connected-car-data-privacy-study",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/csharp-struct-memory-management-heap-vs-stack",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/veltrix-ai-ecommerce-profitability",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/gauth-ai-tutor-infinite-digital-canvas",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/esp32-hidden-sdr-capabilities-discovered",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-harness-desktop-app-release",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/myrealtrip-2026-new-recruitment-guide",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/sveltekit-3-release-analysis-dx-and-multiplatform",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-profile-cyberpunk-console-contributions",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
       "url": "https://devday.kr/article/pi-durable-ai-agent-harness-analysis",
       "seenAt": "2026-10-02T07:25:47.772Z"
     },
@@ -13975,6 +14095,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102620",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189163",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102252",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102390",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50092686",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55193789",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55191109",
+      "seenAt": "2026-10-03T06:59:18.587Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50095034",
       "seenAt": "2026-10-02T07:25:47.772Z"
     },
@@ -16305,15 +16453,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54376802",
       "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49512722",
-      "seenAt": "2026-07-05T05:43:12.845Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54360040",
-      "seenAt": "2026-07-05T05:43:12.845Z"
     }
   ],
-  "updatedAt": "2026-10-02T07:25:47.772Z"
+  "updatedAt": "2026-10-03T06:59:18.587Z"
 }
