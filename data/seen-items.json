@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/show-hn-pi-pod-run-ai-coding-agent-sandboxes-own-server",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-space-game-built-in-risc-v-emulator-runs-linux",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/offrun-manage-coding-agents-workspace",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/aleph-alpha-kolibri-sovereign-open-weight-llm-release",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/cubicle-live-office-ai-agents",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-open-source-kit-build-ai-gadgets",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/germany-sovereign-ai-model-kolibri-show-hn",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-kindle-2026-smaller-faster-flush-display",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/prefer-execution-layer-for-aeo",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-ai-gadgets-community-reaction",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/zoowork-ai-agent-delivery-platform",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/linux-boot-m4-mac-mini-asahi",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/newgrounds-flash-game-community-nostalgia",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/super-intelligence-si-policy-satire-webpage",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/redis-creator-local-llm-engine-ds4-analysis",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-masters-imperfect-information-game-stratego",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/12-year-exoplanet-orbit-images-revealed",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatgpt-sites-ai-website-generation-future",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/mike-tomlin-12-year-minecraft-city-build",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-lego-generator-open-source-ldraw",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/git-post-checkout-hook-credential-theft-attempt",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-app-stateless-installation-tokens-rolled-out",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/interview-chicken-scheme-developer",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-pass-designer-release-analysis",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/wine-cellar-event-sourcing-sanity-ai-collaboration",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/the-legend-of-von-neumann-1973",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/sanity-ai-social-media-workflow-optimization",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-articles-3d-library-oniria",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/flux-3-image-intuitive-interface-and-element-placement",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://devday.kr/article/utah-vpn-law-technical-impossibility-ruling",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
       "url": "https://devday.kr/article/github-copilot-models-deprecated",
       "seenAt": "2026-10-03T06:59:18.587Z"
     },
@@ -14095,6 +14215,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192321",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50090362",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50105003",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178114",
+      "seenAt": "2026-10-04T07:19:29.297Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102620",
       "seenAt": "2026-10-03T06:59:18.587Z"
     },
@@ -16421,39 +16557,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54384450",
       "seenAt": "2026-07-07T05:44:55.409Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54377473",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49520283",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49518268",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49519955",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49516822",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54381098",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54378672",
-      "seenAt": "2026-07-06T06:04:07.711Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54376802",
-      "seenAt": "2026-07-06T06:04:07.711Z"
     }
   ],
-  "updatedAt": "2026-10-03T06:59:18.587Z"
+  "updatedAt": "2026-10-04T07:19:29.297Z"
 }
