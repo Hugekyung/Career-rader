@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/san-francisco-housing-simulator-game-analysis",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/lightbulb-computer-projector-interface-concept",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-extract-pr-why-changelog",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-macos-removed-official-unix-registry",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-free-tier-personal-ai-agent-talorys",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-jetbrains-controls-chat-improvements",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/bitwarden-license-change-community-debate",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/drink-while-you-work-personality-work-style",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-157-new-design-and-personalization",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-decision-model-agents-workflows",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/danish-cpr-data-breach-password-security-and-accountability",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/cue-app-airpods-mac-focus-mode",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-dashboards-motion-beta-release",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/telegram-desktop-arbitrary-file-read-account-takeover-vulnerability",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/onepin-ai-voiceover-accuracy",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/lightbulb-computer-reimagining-spatial-ambient-computing",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/re-so-ai-optimize-for-ai-search-results",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-inevitability-tech-socioeconomic-analysis",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-proton-drive-for-linux-fuse-mount",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/c-strtod-error-handling-portability-issues",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/rea-ai-powered-software-reverse-engineering",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-software-development-stagnation",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-intellectual-communities-and-software-engineering",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/rare-tech-books-and-docs-collection",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/youtuber-tracks-cops-with-alpr-camera-faces-police-visit",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/yeogi-api-shadowing-verification-improvement",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/building-agentic-rag-with-internal-knowledge-lightrag-navigator",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-agentic-rag-internal-knowledge-observability-evaluation-operation",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-erd-tool-creation-deterministic-results",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-era-developer-team-collaboration-and-alignment",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
       "url": "https://devday.kr/article/zernio-marketing-infrastructure-for-developers",
       "seenAt": "2026-10-10T07:39:36.786Z"
     },
@@ -14807,6 +14927,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55198645",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50134739",
+      "seenAt": "2026-10-11T07:44:49.582Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55240082",
       "seenAt": "2026-10-10T07:39:36.786Z"
     },
@@ -17141,35 +17269,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54456966",
       "seenAt": "2026-07-14T04:31:08.770Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49567091",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49565547",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49564949",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54447779",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54447005",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54446236",
-      "seenAt": "2026-07-13T05:03:14.379Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54441603",
-      "seenAt": "2026-07-13T05:03:14.379Z"
     }
   ],
-  "updatedAt": "2026-10-10T07:39:36.787Z"
+  "updatedAt": "2026-10-11T07:44:49.582Z"
 }
