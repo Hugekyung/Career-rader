@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/tesla-roadster-announcement-community-reaction",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/libreboot-26-10-uefi-chromebook-support-expansion",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/torrent-malware-exe-sonarr-analysis",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/accelerate-product-development-teamcenter-simulation-aws",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://toss.tech/article/package-management-2",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/hanwha-ocean-aws-otalk-shipyard-multilingual-communication",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/encored-aws-hpc-wrf-optimization",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/krea-3-ai-image-editing-speed-cost-analysis",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/download-github-code-quality-license-usage-csv",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/neural-networks-clean-interpretability-debate",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/daddy-issues-ai-family-briefing-for-dads",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-deprecation-november-2026",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-releases-muse-spark-open-desktop-llm",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-mathematicians-weep-meaning-of-knowledge",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-quantum-ai-magic-state-bottleneck-breakthrough",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/check-scam-text-circle-to-search",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/wayland-desktop-environment-desks-skeuomorphic-design",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/polylane-catch-risky-pull-requests-before-production-break",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-ai-disaster-preparedness-systems",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-avatar-v25-updates-avatar-run-muscle-brain-voxel-avatar",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/openmuse-opensource-self-hostable-personal-assistant",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/unfenced-find-land-bordering-public-land",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/apple-homeview-smart-display-launch",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/void-full-stack-vite-integration",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-repository-push-email-notifications-retired",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/decomp-dev-sunsetting-due-to-ai-and-community-abuse",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/glm-legal-ai-contract-review-compliance",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-synthid-time-best-inventions-2026",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-openai-ai-content-discovery-optimization",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
       "url": "https://devday.kr/article/ai-agent-incidents-security-failures-experts-warn",
       "seenAt": "2026-10-15T06:19:26.949Z"
     },
@@ -15387,6 +15507,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50184240",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50183121",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50184799",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50184746",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50180788",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50180935",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50179408",
+      "seenAt": "2026-10-16T06:15:39.274Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50170707",
       "seenAt": "2026-10-15T06:19:26.949Z"
     },
@@ -17707,5 +17855,5 @@
       "seenAt": "2026-07-20T05:09:10.088Z"
     }
   ],
-  "updatedAt": "2026-10-15T06:19:26.949Z"
+  "updatedAt": "2026-10-16T06:15:39.274Z"
 }
