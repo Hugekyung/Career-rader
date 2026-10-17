@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/apple-mlx-muse-spark-mac-studio-ai-benchmark",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/nist-elliptic-curve-seeds-mystery-solved-bounty-claimed",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-plays-starcraft-via-code-benchmark-analysis",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/hintly-google-meet-realtime-term-hints",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/netflix-ontology-driven-observability-knowledge-graph",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/turn-any-website-into-api-pomerado",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/improve-navigation-v0-nextjs-partial-prefetching",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-enterprise-cloud-open-source-license-compliance-ga",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/tesla-roadster-hypercar-flies",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/sd-biosensor-bedrock-agentcore-production-transition",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/signwith-pay-per-doc-e-signature",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-continuous-accountability-verified-bots",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/iroh-1-0-release-p2p-networking-evolution",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/bipm-stops-adding-leap-seconds-to-utc",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/harness-command-center-coding-agents",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/jockey-twelvelabs-ai-video-organization",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/natural-language-design-tradeoffs-georgian-english",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/cj-olive-young-ai-driven-operations-automation",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-news-scraping-terms-ai-data-copyright-debate",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/yeogi-eotte-company-fall-sports-day",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/moduparking-ai-voice-parking-development-aws-ai-dlc",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/vod-auto-chapter-generation-media-convert-bedrock",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/toss-dw-mart-pipeline-modernization-domain-airflow-dbt",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://toss.tech/article/dw-airflow-migration",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-impact-on-scientific-research-and-human-role",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/withings-apple-health-sync-paid-controversy",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-token-saving-tips",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/xcode-27-runner-image-github-actions-ga",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/incus-os-self-hosted-infrastructure-security-automation",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://devday.kr/article/linus-torvalds-on-ai-assisted-kernel-contributions",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
       "url": "https://devday.kr/article/tesla-roadster-announcement-community-reaction",
       "seenAt": "2026-10-16T06:15:39.274Z"
     },
@@ -15507,6 +15627,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50188631",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182629",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50183532",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50187484",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55311658",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50187073",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55309656",
+      "seenAt": "2026-10-17T06:00:38.562Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50184240",
       "seenAt": "2026-10-16T06:15:39.274Z"
     },
@@ -17855,5 +18003,5 @@
       "seenAt": "2026-07-20T05:09:10.088Z"
     }
   ],
-  "updatedAt": "2026-10-16T06:15:39.274Z"
+  "updatedAt": "2026-10-17T06:00:38.562Z"
 }
