@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/rust-port-typescript-compiler-tsrs-analysis",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/10-prompting-techniques-for-developers",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-open-sources-torchtpu-pytorch-backend-for-tpus",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/permit-pending-game-analysis-political-simulation",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-agent-claim-verification-claimcheck",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-ai-voxtral-3-real-time-voice-agent-sdk",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-bulk-migrate-branch-protections-to-rulesets",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-secret-scanning-updates",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/coding-fun-lost-economic-pressure",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/emudhra-intermediate-ca-key-compromise-analysis",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/microg-libre-android-userspace-reimplementation",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-alerts-api-adds-dependency-versions",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ipados-27-airplay-presentation-feature-regression",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/runinfra-open-models-for-ai-agents",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-package-firewall-public-preview",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-healthcare-amie-doctor-time",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/exa-3-smarter-search-ai-agent-data-cost",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/hoistbay-open-source-s3-cloudfront-desktop-app",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-supports-npm-pnpm-bun-versions",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-research-harness2-llm-agent-auto-evolution",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-introduces-tsrs-rust-port-of-typescript",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ad-free-android-tv-customization-guide",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/composio-instant-ai-agents-pay-for-tools",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepseek-deepinfer-inference-engine-open-source",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-null-social-network-for-developers",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/macos-touch-id-ssh-key-setup",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/nordwand-mono-monospace-font-for-coders",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/jenkins-batch-migration-to-temporal",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/us-dhs-bans-deepseek-ai-models-federal-agencies",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://devday.kr/article/ukraine-drone-evacuation-claims-discussion",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
       "url": "https://devday.kr/article/linux-kernel-7-3-release-notes",
       "seenAt": "2026-10-20T06:26:28.610Z"
     },
@@ -15923,6 +16043,22 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209234",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208561",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209025",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210880",
+      "seenAt": "2026-10-21T06:27:23.528Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55339195",
       "seenAt": "2026-10-20T06:26:28.610Z"
     },
@@ -18245,19 +18381,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54552248",
       "seenAt": "2026-07-24T04:51:22.196Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54541649",
-      "seenAt": "2026-07-23T04:55:16.875Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54536061",
-      "seenAt": "2026-07-23T04:55:16.875Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54535638",
-      "seenAt": "2026-07-23T04:55:16.875Z"
     }
   ],
-  "updatedAt": "2026-10-20T06:26:28.610Z"
+  "updatedAt": "2026-10-21T06:27:23.528Z"
 }
