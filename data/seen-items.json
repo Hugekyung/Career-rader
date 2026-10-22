@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ea-shuts-down-bioware-rpg-studio",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/is-kit-reaches-100-stars-what-changed",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-large-4-multimodal-performance-cost-debate",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/duckdb-2-0-0-lts-release-analysis",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/litellm-1-107-0-pypi-malware-incident",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/cryocooler-pressure-monitoring-raspberry-pi-ai",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/php-security-vulnerability-patch-process-and-enhancements",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-account-deletion-platform-megaphone-rental-controversy",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/ruby-method-lookup-how-it-works",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-cli-expiring-auto-refreshing-oauth-tokens",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-uncovers-critical-php-rce-vulnerability",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/devto-digest-open-model-fix",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/notion-agents-rebuilt-extended-runtime-cost-saving",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/firefox-local-mode-analysis-and-issues",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/php-8-2-35-security-release-critical-vulnerabilities-and-community-response",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/twinmind-desktop-transcribe-meetings-dictate-anywhere",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-waf-full-transaction-detection",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/band-coding-agents-teamwork",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/godot-action-game-teen-hackathon",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-deploys-protections-php2shell-vulnerability",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/emudhra-ca-keys-cracked-milliseconds-8-bit-vulnerability",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-muse-ai-privacy-leak-url-vulnerability",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/dev-tab-new-tab-extension-for-dev",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/business-context-organized-by-queries",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/emudhra-ca-private-key-compromise-8-bit-vulnerability",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/needle-ai-outbound-engine",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/paris-agreement-1.5c-goal-unviable",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/useit-studio-ai-design-agent-editable-files",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/fbi-hack-ransomware-negotiator-collusion",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-cost-increase-prompt-cache-trap",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
       "url": "https://devday.kr/article/rust-port-typescript-compiler-tsrs-analysis",
       "seenAt": "2026-10-21T06:27:23.528Z"
     },
@@ -16043,6 +16163,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50218510",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55361937",
+      "seenAt": "2026-10-22T06:29:43.160Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209234",
       "seenAt": "2026-10-21T06:27:23.528Z"
     },
@@ -18365,23 +18493,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54558836",
       "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54549115",
-      "seenAt": "2026-07-24T04:51:22.196Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54545872",
-      "seenAt": "2026-07-24T04:51:22.196Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54554393",
-      "seenAt": "2026-07-24T04:51:22.196Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54552248",
-      "seenAt": "2026-07-24T04:51:22.196Z"
     }
   ],
-  "updatedAt": "2026-10-21T06:27:23.528Z"
+  "updatedAt": "2026-10-22T06:29:43.160Z"
 }
