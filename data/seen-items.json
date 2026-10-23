@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/dataops-log-definition-skill",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-finland-forest-clearing-environmental-controversy",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/quad9-exits-france-due-to-dns-blocking-ruling",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/dont-be-proxy-between-me-and-your-ai",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/fastlane-2-0-ai-powered-ad-creation-automation",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/emudhra-exits-global-ssl-tls-business-after-security-incident",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/heal-dev-find-bugs-vulnerabilities-code-review-misses",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-duet-proactive-ai-agent",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/intermediate-ca-compromise-cve-security-vulnerability",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/mistral-voxtral-3-speech-models-stt-tts-agents",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/cloudflare-south-korea-isms-p-certification",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/switch-2-software-jailbreak-webkit-smilebasic-fs-exploit",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/build-slothd-local-first-ai-daemon-organize-workspace",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/deepcell-deadline-survival-kit-office-work",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/doneas-daily-accountability-call-entrepreneurs",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/worldtui-llm-terminal-simulation",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/self-hosted-grafana-webhook-aws-devops-agent-incident-automation",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-crawler-access-control-agentic-web",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-models-coming-to-google-cloud",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/macos-gcc-is-clang-how-it-works",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/opensource-ai-agent-platform-omnara-launch",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/pingcap-tidb-cloud-massive-data-leak-analysis",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/php-vulnerability-exploit-difficulty-llm-debate",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/mitmproxy-adds-emudhra-option-for-security-audits",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/ihf-2026-medical-ai-readiness",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-rust-style-guide-developer-debate",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/gitlab-critical-patch-release-multiple-vulnerabilities",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/publish-posts-dev-to-api",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/railway-security-disclosure-environment-variable-leak",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
+      "url": "https://devday.kr/article/meta-ordered-25b-penalty-new-mexico-cambridge-analytica",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
       "url": "https://devday.kr/article/ea-shuts-down-bioware-rpg-studio",
       "seenAt": "2026-10-22T06:29:43.160Z"
     },
@@ -16163,6 +16283,10 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224068",
+      "seenAt": "2026-10-23T06:25:01.786Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50218510",
       "seenAt": "2026-10-22T06:29:43.160Z"
     },
@@ -18465,35 +18589,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54557173",
       "seenAt": "2026-07-26T05:01:49.653Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49639113",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49639869",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49649692",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54558705",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54563694",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54559204",
-      "seenAt": "2026-07-25T04:47:41.967Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54558836",
-      "seenAt": "2026-07-25T04:47:41.967Z"
     }
   ],
-  "updatedAt": "2026-10-22T06:29:43.160Z"
+  "updatedAt": "2026-10-23T06:25:01.786Z"
 }
