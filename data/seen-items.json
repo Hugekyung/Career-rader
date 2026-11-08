@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/8-dollar-linux-computer-ox64-setup-challenges",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-github-secrets-leak",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/plan-stamping-ai-software-responsibility",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/iphone-keyboard-grey-list-autocorrect-controversy",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/10-dollar-openstick-homelab-setup",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/microsoft-research-ai-frontiers-disbanded-ai-research-vs-scaling-debate",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/coldframe-honeypot-supermarket-fridge-controller",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/visual-system-design-reference-aws-azure-gcp-oss",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-gemini-omni-1.2-flash-ai-video-generation",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/openai-gpt-6-cyber-defender-access",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/nfsu2-browser-port-online-multiplayer-analysis",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/quest-personal-ai-advisor-intentional-life",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/mac-undocumented-family-classifier-privacy-debate",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/live-review-risk-aware-code-review-auto-approve",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/chatgpt-images-2-6-ai-image-creation-editing-animation",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/exa-monitors-v2-release-scheduled-web-search-ai-agents",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-negative-impact-web-developer-concerns-solutions",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/meridian-experimental-browser-servo-gpui-rust",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/jujutsu-2d-version-control-exploration",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/crystl-multitasking-terminal-ai-coding-agents-macos",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/asahi-linux-progress-report-kernel-7-3-apple-silicon",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/firecracker-vm-escape-pwnescape-part-2-analysis",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/uploadyourram-org-browser-memory-allocation-satire",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/libghostty-1-0-release-c-terminal-emulator-abi-stability",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/port-0-scan-hidden-internet-services",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/jev-opus-hybrid-model-id-resolution-accuracy-cost",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/copilot-dashboard-adds-chat-vscode-agent-usage",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-weekly-releases-november-2",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/hacking-meta-ray-ban-smart-glasses-firmware-exploit",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-gemini-omni-1-2-flash-release-community-reaction",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
       "url": "https://devday.kr/article/bare-metal-programming-uefi-firmware-guide",
       "seenAt": "2026-11-07T07:41:12.108Z"
     },
@@ -17895,6 +18015,14 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55508555",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55485320",
+      "seenAt": "2026-11-08T07:51:09.367Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55504472",
       "seenAt": "2026-11-07T07:41:12.108Z"
     },
@@ -20113,27 +20241,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54705026",
       "seenAt": "2026-08-11T03:22:11.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54695988",
-      "seenAt": "2026-08-10T03:29:18.220Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54697581",
-      "seenAt": "2026-08-10T03:29:18.220Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54696976",
-      "seenAt": "2026-08-10T03:29:18.220Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54695012",
-      "seenAt": "2026-08-10T03:29:18.220Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54697478",
-      "seenAt": "2026-08-10T03:29:18.220Z"
     }
   ],
-  "updatedAt": "2026-11-07T07:41:12.108Z"
+  "updatedAt": "2026-11-08T07:51:09.367Z"
 }
