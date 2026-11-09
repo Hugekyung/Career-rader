@@ -1,6 +1,78 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/taste",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/outlook-rejects-email-no-dmarc",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/necoz-new-home-dev-community",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/archie-mac-screenshot-manager-notch-shelf",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/person-of-interest-ai-agi-discussion",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/nomac-ai-agent-cloud-mac-per-minute-billing",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/deduplication-tech-meaning-ownership",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/axl-gtm-copilot-ai-product-founders",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-coding-agent-hijack-agents-md-security",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/sage2-live-talk-structured-data-instant-actions",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/inkling-2-small-moe-model-for-coding-visual-tasks-agents",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/claude-code-to-pi-migration-llm-coding-tools",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/llm-coding-benchmark-limitations-maxxbench",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/discord-rust-client-replaces-electron-performance-boost",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/open-source-vulnerability-disclosure-policy-curl-approach",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/c-language-vulnerability-type-system-limitations-rust-comparison",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/openbsd-top-adds-security-status-flag",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://devday.kr/article/aws-route-53-to-bunny-net-scriptable-geodns-migration",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
       "url": "https://devday.kr/article/8-dollar-linux-computer-ox64-setup-challenges",
       "seenAt": "2026-11-08T07:51:09.367Z"
     },
@@ -18015,6 +18087,26 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50329522",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55519218",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50332543",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50331075",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55522103",
+      "seenAt": "2026-11-09T08:33:54.488Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55508555",
       "seenAt": "2026-11-08T07:51:09.367Z"
     },
@@ -20221,27 +20313,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54717051",
       "seenAt": "2026-08-12T03:40:32.459Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54709883",
-      "seenAt": "2026-08-11T03:22:11.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54710269",
-      "seenAt": "2026-08-11T03:22:11.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54709143",
-      "seenAt": "2026-08-11T03:22:11.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54706150",
-      "seenAt": "2026-08-11T03:22:11.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54705026",
-      "seenAt": "2026-08-11T03:22:11.049Z"
     }
   ],
-  "updatedAt": "2026-11-08T07:51:09.367Z"
+  "updatedAt": "2026-11-09T08:33:54.488Z"
 }
