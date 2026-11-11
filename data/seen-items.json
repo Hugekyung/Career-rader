@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/ai-mobile-e2e-test-failure-to-operations-data",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/agent-toolkit-aws-vibecoding-app-deployment",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/starlink-mini-2-release-hardware-improvements-and-use-cases",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-app-enterprise-copilot-seat-management",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/ableton-live-extensibility-collaboration-license-debate",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/toyota-scion-revival-kei-truck-us-launch",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/solving-payment-provider-change-issues-ddd-adapter-pattern",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/synaptics-blocks-displaylink-oss-driver-dev-patent-dispute",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/val-town-shuts-down-analysis",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/coding-agent-modern-web-guidance-release",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-4-carbon-github-copilot-release",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/smart-home-devices-work-without-internet",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-intelligence-expands-to-more-android-devices",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/name-domain-termination-plan-retracted-community-victory",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/cpp-language-server-msbuild-auto-config",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/medium-tk-agentic-notebook-ai-writing",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/displaylink-synaptics-patent-dispute-linux-driver",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/tv-sees-through-walls-2025-tech-analysis",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/seldon-behavioral-qa-agents-customer-like-testing",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/dependabot-alerts-pause-inactive-repositories",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-15mb-self-hosted-netflix-spotify-media-server",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/hardest-tarball-parser-differentials",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-cloud-launches-gemini-for-healthcare",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/maxma-ai-teammate-paid-ad-performance",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/astro-typst-open-graph-images",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-beep-locator-acoustic-localization",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-dashboard-ui-enhancement-developer-productivity",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/amazon-saves-millions-replacing-llm-with-decision-model",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/building-networking-switch-asic-chip-in-4-days",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://devday.kr/article/yujin-group-knowledge-graph-neptune-bedrock",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
       "url": "https://toss.tech/article/agent-platform-foundation",
       "seenAt": "2026-11-10T08:46:12.058Z"
     },
@@ -18207,6 +18327,34 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50344564",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50345656",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346548",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346064",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55543403",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55543219",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55540949",
+      "seenAt": "2026-11-11T08:12:50.809Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55533591",
       "seenAt": "2026-11-10T08:46:12.058Z"
     },
@@ -20377,55 +20525,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54741755",
       "seenAt": "2026-08-14T03:41:11.476Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49774891",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49777221",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49770991",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49773540",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49772335",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49770555",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49774863",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49772800",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54736217",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54735758",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54726683",
-      "seenAt": "2026-08-13T03:43:38.457Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54726244",
-      "seenAt": "2026-08-13T03:43:38.457Z"
     }
   ],
-  "updatedAt": "2026-11-10T08:46:12.058Z"
+  "updatedAt": "2026-11-11T08:12:50.810Z"
 }
