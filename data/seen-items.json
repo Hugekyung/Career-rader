@@ -1,6 +1,114 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/spacex-starship-flight-15-successful-catch-and-deployment",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/rv64imafdv-ooo-core-linux-boot-systemverilog",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/lovable-ai-app-data-exposure-security-flaws",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/kde-documentary-history-and-evolution",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/tech-companies-shifting-privacy-concept-ai-meeting-records",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/uber-parking-find-compare-reserve-in-app",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/show-hn-rust-terminal-factory-game-terminactory",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/businesses-in-chatgpt-discover-your-business",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/unsloth-qwen3-8-27b-dynamic-quantization-v3-1-update",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-robotics-2-5-google-robot-model",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/monkey-island-versions-graphics-comparison",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/dex-semantics-agent-analytics-fewer-errors",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-job-agent-hiringnow-find-apply-jobs",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/protein-granzyme-k-drives-aging-without-inflammation",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/terminal-cell-borders-protocol-proposal",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/ggml-1-0-0-performance-optimizations-and-new-features",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/nvidia-gpu-scarcity-ai-startup-funding-allegations",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/fm-1-workbench-complex-license-analysis",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/faa-ground-stop-live-flight-map-visualization",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/real-time-air-traffic-control-communication-analysis-system",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-copilot-deprecation-models-december",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/blog-impersonation-and-digital-identity-theft",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/sf-bay-area-pixel-art-map-ai-project-analysis",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/gemini-4-hydrogen-github-copilot-release",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/go-probabilistic-data-structures-unsure-analysis",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/1960s-future-prediction-movie-and-current-population-trends",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
+      "url": "https://devday.kr/article/ai-agent-conquers-nethack-frontier",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
       "url": "https://devday.kr/article/jepa-world-model-600-experiments-performance-improvements",
       "seenAt": "2026-11-14T07:56:14.074Z"
     },
@@ -18687,6 +18795,10 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50326181",
+      "seenAt": "2026-11-15T08:18:57.120Z"
+    },
+    {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50365163",
       "seenAt": "2026-11-14T07:56:14.074Z"
     },
@@ -20857,15 +20969,7 @@
     {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49798688",
       "seenAt": "2026-08-18T02:39:18.586Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54750572",
-      "seenAt": "2026-08-17T02:44:43.660Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54760812",
-      "seenAt": "2026-08-17T02:44:43.660Z"
     }
   ],
-  "updatedAt": "2026-11-14T07:56:14.074Z"
+  "updatedAt": "2026-11-15T08:18:57.120Z"
 }
