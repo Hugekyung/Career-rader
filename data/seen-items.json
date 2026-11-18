@@ -1,6 +1,126 @@
 {
   "seenArticles": [
     {
+      "url": "https://devday.kr/article/hn-50540437",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50536387",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/ole-romer-light-speed-discovery-350-years-ago",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/phrack-73-released-latest-hacking-tech-and-history",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50534631",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50538994",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50537156",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50538240",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/devto-5017532",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50535885",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/google-blog-alphagenome-disease-research",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/lobsters-g0bf9i",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50532849",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/quad9-withdrawal-france-dns-blocking-issues",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50535238",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/nextjs-how-were-using-ai-to-make-nextjs-more-secure",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/vm-performance-optimization-ib-nvme-vcpu-baremetal-comparison",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/naver-d2-6180316",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/naver-d2-8055238",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/hn-50535230",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/ph-1304738",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://devday.kr/article/github-changelog-2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
       "url": "https://toss.tech/article/new20-timeline-hub",
       "seenAt": "2026-11-17T09:40:51.601Z"
     },
@@ -19015,6 +19135,30 @@
   ],
   "seenJobs": [
     {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55600102",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386449",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50388084",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55610007",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55607295",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55606086",
+      "seenAt": "2026-11-18T08:59:38.557Z"
+    },
+    {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55593587",
       "seenAt": "2026-11-17T09:40:51.601Z"
     },
@@ -21169,35 +21313,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54798694",
       "seenAt": "2026-08-21T02:47:37.049Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54794253",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54794434",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49816882",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49814022",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49809764",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54787770",
-      "seenAt": "2026-08-20T02:40:51.552Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54786659",
-      "seenAt": "2026-08-20T02:40:51.552Z"
     }
   ],
-  "updatedAt": "2026-11-17T09:40:51.601Z"
+  "updatedAt": "2026-11-18T08:59:38.557Z"
 }
