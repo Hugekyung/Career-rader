@@ -1,6 +1,10 @@
 {
   "seenArticles": [
     {
+      "url": "https://toss.tech/article/loan_review",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
       "url": "https://toss.tech/article/multi-task-learning-in-finance",
       "seenAt": "2026-11-23T09:37:40.933Z"
     },
@@ -18743,369 +18747,33 @@
     {
       "url": "https://devday.kr/article/yocto-vs-debian-embedded-linux-distribution",
       "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/github-bans-security-researcher-zero-day-exploit",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ly-corporation-slack-mcp-workshop-review",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/llm-bot-harness-first",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/llm-ai-smells-analysis",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ktx-open-source-context-layer-data-agents",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/dan-shipper-ai-prediction-openai-codex",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/postgres-durable-workflows-orchestrator-alternative",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/github-advanced-security-hard-budget-limits",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/codeql-2-25-5-improves-query-accuracy-github-actions",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/gemma-4-challenge-winner-announcement-delayed",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/rust-196-0-release-notes-range-wasm",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/in-defense-of-manual-memory-management",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/protestware-for-coding-agents-jqwik-1.10.0-analysis",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/claude-opus-4-8-release-and-community-analysis",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/garnix-shutdown-and-open-source-transition",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-agent-permission-fatigue-game-developer-reaction",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/coding-isnt-the-job",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/claude-opus-4-8-available-github-copilot",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/gnome-2-web-components-desktop-environment",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/amd-vivado-linux-licensing-controversy",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-agents-senior-developers-code-quality",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/buffer-api-publish-across-social-platforms",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/google-io-2026-flutter-recap",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/llm-fact-check-disagreement-analysis",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/angel-match-4-0-database-for-seed-round",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/runescape-network-optimization-56k-modem",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/google-io-2026-key-announcements",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ibm-9020-air-traffic-control-system-analysis",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-threat-developers-vibe-debt",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://devday.kr/article/chat-log-analysis-relationship-insights",
-      "seenAt": "2026-05-29T05:53:22.296Z"
-    },
-    {
-      "url": "https://toss.tech/article/operating-starrocks-1",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/da-assistant-panda",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/post-quantum-cryptography",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/sli-and-slo-for-improving-reliability-3",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/improving-development-efficiency-with-secure-mcp-servers",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/flink-realtime-frequency-capping",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/developing-single-and-multi-agent-systems-with-adk-and-integrating-into-internal-systems",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/resolving-pr-review-bottlenecks-with-ai-and-transforming-review-culture",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/orchestration-development-workshop-article-list",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/toss_front",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/start-orchestration-development-workshop",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/layers-of-your-time",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/from-hive-to-iceberg-12x-faster-data-updates",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/Designer",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/how-we-built-a-domain-agnostic-chat-platform",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/es-toolkit",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/processing-large-scale-data-with-spark-on-kubernetes",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/image-content-moderation-at-scale-with-multimodal-llm",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/advancing-guardrail-models-with-coding-agents",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/place-metric-review",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/reduce-repetitive-tasks-with-sre-bot",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/internalizing-without-specification-proving-equivalence-through-verification-logic",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/vulnerability-analysis-automation-2",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/using-sli-slo-for-improving-reliability-1-developing-framework-and-line-status",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/a-large-scale-ios-configuration-system-implemented-with-an-attributedstring-structure",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://toss.tech/article/harness-for-team-productivity-eng",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/unification-of-group-chat-on-the-line-app",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/ly-corporation-next-generation-cloud-platform-flava-introduction",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/journey-to-perfect-ai-guardrails-neurips-2025-recap",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-2-agent-engineering",
-      "seenAt": "2026-05-28T12:28:47.019Z"
-    },
-    {
-      "url": "https://devday.kr/article/mesh-network-technology-comparison-reticulum",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/building-database-performance-testing-tool-with-ai",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/pancake-autonomous-company-slack",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/nvidia-vera-cpu-ai-rack-war",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/hallucinate-online-rave-platform-developer-community-reaction",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/parallel-processing-with-monoids",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/neovim-love-letter-and-developer-productivity",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/metastable-failures-distributed-systems-analysis",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/zjit-new-register-allocator-performance-analysis",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/dive-deeper-into-io-2026-with-notebooklm",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/coworker-ai-context-aware-model-routing",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/zero-xyz-ai-agent-access-8k-tools",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/posthorn-self-hosted-email-gateway",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/oasis-browser-mac-privacy-first-ai",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/transactional-outbox-pattern-database-kafka-consistency",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/developers-tired-of-talking-to-ai",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/developers-actually-using-ai-at-work",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/powabase-build-ai-apps-with-postgres-rag-agents",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/bluedot-2-1-record-apple-watch-sync-claude",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://devday.kr/article/how-i-code-with-ai-changed-a-lot",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/introduction-of-messaginghub-inquirychat-service",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/cut-token-usage-40-percent-with-adk-context-engineering",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/git-automation-mcp-vs-agent-skills-pros-and-cons",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/ai-augments-qa-rather-than-replacing-it",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://toss.tech/article/toss-tpm",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/building-rag-system-with-vector-db-and-agent-skills",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/id-jag-next-generation-authentication-ai-era",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://toss.tech/article/post-quantum-cryptography-eng",
-      "seenAt": "2026-05-28T11:46:40.612Z"
-    },
-    {
-      "url": "https://techblog.lycorp.co.jp/ko/from-copilot-to-pilot-agentic-coding-implementation-to-pr-automation",
-      "seenAt": "2026-05-28T11:46:40.612Z"
     }
   ],
   "seenJobs": [
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55670116",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432388?traceId=72fe64c6df3dc47f7691a363450c48fd",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432372?traceId=72fe64c6df3dc47f7691a363450c48fd",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432237?traceId=72fe64c6df3dc47f7691a363450c48fd",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423998?traceId=72fe64c6df3dc47f7691a363450c48fd",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55670925",
+      "seenAt": "2026-11-25T10:18:13.230Z"
+    },
     {
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423998",
       "seenAt": "2026-11-24T11:30:29.593Z"
@@ -21275,5 +20943,5 @@
       "seenAt": "2026-08-27T11:55:04.986Z"
     }
   ],
-  "updatedAt": "2026-11-24T11:30:29.593Z"
+  "updatedAt": "2026-11-25T10:18:13.230Z"
 }
