@@ -1,6 +1,82 @@
 {
   "seenArticles": [
     {
+      "url": "https://techblog.lycorp.co.jp/ko/introduction-of-messaginghub-inquirychat-service",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/cut-token-usage-40-percent-with-adk-context-engineering",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/git-automation-mcp-vs-agent-skills-pros-and-cons",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/ai-augments-qa-rather-than-replacing-it",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/building-rag-system-with-vector-db-and-agent-skills",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/id-jag-next-generation-authentication-ai-era",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/from-copilot-to-pilot-agentic-coding-implementation-to-pr-automation",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/sli-and-slo-for-improving-reliability-3",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/improving-development-efficiency-with-secure-mcp-servers",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/developing-single-and-multi-agent-systems-with-adk-and-integrating-into-internal-systems",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/resolving-pr-review-bottlenecks-with-ai-and-transforming-review-culture",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/orchestration-development-workshop-article-list",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/start-orchestration-development-workshop",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/from-hive-to-iceberg-12x-faster-data-updates",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/how-we-built-a-domain-agnostic-chat-platform",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/processing-large-scale-data-with-spark-on-kubernetes",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/image-content-moderation-at-scale-with-multimodal-llm",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/advancing-guardrail-models-with-coding-agents",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/ko/reduce-repetitive-tasks-with-sre-bot",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
       "url": "https://toss.tech/article/loan_review",
       "seenAt": "2026-11-25T10:18:13.230Z"
     },
@@ -18627,129 +18703,41 @@
     {
       "url": "https://toss.tech/article/harness-for-team-productivity",
       "seenAt": "2026-05-30T12:39:47.411Z"
-    },
-    {
-      "url": "https://devday.kr/article/building-container-in-50-lines-of-code-part-2",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/mistral-ai-paris-summit-european-ai-strategy",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/devrelcon-nyc-2026-developer-relations-devx-developer-marketing",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-dead-economy-theory-labor-market-impact",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/google-ai-studio-io-2026-quiz",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/netflix-high-throughput-graph-abstraction",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/gta-6-developers-unionize-impact",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/monthly-dev-report-may-2026",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/gemini-omni-gemini-3.5-flash-demos",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/the-forgotten-developer-who-saved-javascript",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/hermes-mentor-local-ai-agent-tutorial-hell",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/firecoach-ai-ai-roleplays-that-turn-reps-into-top-performers",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/developer-retires-from-tech-ai-impact",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/developers-retiring-from-tech-ai-impact",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/integuru-generate-fast-reliable-apis",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/bijou64-variable-length-integer-encoding-performance-security",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/what-was-your-win-this-week",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ava-studio-ai-video-ads",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/netflix-real-time-service-map",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/claude-code-undocumented-features-analysis",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/mcp-bridge-connect-api-to-ai-agent",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ava-2-0-ai-bdr-outbound-sales-automation",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-and-the-future-of-developers",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/volkswagen-blocks-home-assistant-eu-data-act-violation",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/minimal-code-doesnt-mean-stable-code",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ahrefs-agent-a-ai-marketing-agent",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-prototypes-futures-lab",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/firecrawl-monitor-notify-ai-agent-web-changes",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/ai-model-memory-bandwidth-importance",
-      "seenAt": "2026-05-30T05:29:20.892Z"
-    },
-    {
-      "url": "https://devday.kr/article/yocto-vs-debian-embedded-linux-distribution",
-      "seenAt": "2026-05-30T05:29:20.892Z"
     }
   ],
   "seenJobs": [
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50439618?traceId=c237b076465777babca93ad796ee20f8",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50437136?traceId=c237b076465777babca93ad796ee20f8",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432388?traceId=c237b076465777babca93ad796ee20f8",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432372?traceId=c237b076465777babca93ad796ee20f8",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432237?traceId=c237b076465777babca93ad796ee20f8",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55682579",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55679696",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
+    {
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55676799",
+      "seenAt": "2026-11-26T09:57:40.450Z"
+    },
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55670116",
       "seenAt": "2026-11-25T10:18:13.230Z"
@@ -20913,35 +20901,7 @@
     {
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54877625",
       "seenAt": "2026-08-28T13:18:08.998Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49869955",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49870777",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49862735",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49859507",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54870839",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54870263",
-      "seenAt": "2026-08-27T11:55:04.986Z"
-    },
-    {
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54869322",
-      "seenAt": "2026-08-27T11:55:04.986Z"
     }
   ],
-  "updatedAt": "2026-11-25T10:18:13.230Z"
+  "updatedAt": "2026-11-26T09:57:40.450Z"
 }
